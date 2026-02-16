@@ -1,38 +1,53 @@
-name: Deploy MkDocs to GitHub Pages on PR merge
+name: Validate and Deploy MkDocs
 
 on:
   pull_request:
-    types: [closed]
-    branches: [main]
+    branches: [main, staging]
+  push:
+    branches: [main, staging]
 
 jobs:
-  build-deploy:
-    # Only run if the PR was actually merged (not just closed)
-    if: github.event.pull_request.merged == true
+  validate:
     runs-on: ubuntu-latest
-
-    permissions:
-      contents: write      # needed to push to gh-pages
-
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Set up Python
-        uses: actions/setup-python@v5
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
         with:
           python-version: "3.x"
+      - run: pip install mkdocs mkdocs-material
+      - run: mkdocs build --strict
 
-      - name: Install MkDocs and theme
-        run: |
-          pip install mkdocs mkdocs-material
+  deploy:
+    needs: validate
+    runs-on: ubuntu-latest
+    if: github.event_name == 'push'
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - run: pip install mkdocs mkdocs-material
+      - run: mkdocs build --clean
 
-      - name: Build MkDocs site
-        run: mkdocs build --clean
-
-      - name: Deploy to GitHub Pages
+      # PRODUCTION: main -> gh-pages root
+      - name: Deploy Production (main)
+        if: github.ref == 'refs/heads/main'
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: gh-pages
           publish_dir: ./site
+          keep_files: true
+
+      # STAGING: staging -> gh-pages/staging
+      - name: Deploy Staging (staging)
+        if: github.ref == 'refs/heads/staging'
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: gh-pages
+          publish_dir: ./site
+          destination_dir: staging
+          keep_files: true
