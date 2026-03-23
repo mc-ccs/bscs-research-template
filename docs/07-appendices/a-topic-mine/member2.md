@@ -1,4 +1,4 @@
-# Problem Mine - Member 2(_Replace this with your name_)
+# Problem Mine - Member 1 (_Replace this with your name_)
 
 ## Topic 1
 
@@ -25,4 +25,4 @@
 ### Motivation:
 
 ---
-[⬅️ Previous](../08-appendices/cv/member1.md) | [Next ➡️](../08-appendices/cv/member2.md)
+[⬅️ Previous](../08-appendices/user-guide.md) | [Next ➡️](../08-appendices/cv/member2.md)

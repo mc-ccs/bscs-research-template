@@ -1,4 +1,4 @@
-# Problem Mine - Member 1(_Replace this with your name_)
+# Problem Mine - Member 1 (_Replace this with your name_)
 
 ## Topic 1
 
