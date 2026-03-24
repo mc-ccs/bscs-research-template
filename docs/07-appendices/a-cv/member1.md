@@ -7,8 +7,10 @@
 **Full Name:** [Enter full name]  
 **Address:** [Enter complete address]  
 **Mobile Number:** [Enter contact number]  
-**Email Address:** [Enter active email address]  
-**LinkedIn / GitHub / Portfolio:** [Add links if available]
+**Email Address:** [Enter active email personal address]  
+**LinkedIn:** [Add links if available]
+**GitHub:** [Add links if available]
+**Portfolio:** [Add links if available]
 
 ## 2. Career Objective
 
@@ -35,22 +37,7 @@ Write 2 to 4 sentences summarizing your academic background, technical interests
 **Address:** [Enter school address]  
 **Inclusive Dates:** [Month Year] - [Month Year]
 
-## 4. Thesis and Academic Involvement
-
-### Thesis Title
-
-[Enter the working or approved thesis title]
-
-### Role in the Thesis
-
-Describe your responsibilities in the study. Examples include:
-
-- Requirements gathering and documentation
-- System design and architecture
-- Frontend or backend development
-- Database design and implementation
-- Testing and validation
-- Research writing and presentation preparation
+## 4. Academic Involvement
 
 ### Relevant Academic Projects
 

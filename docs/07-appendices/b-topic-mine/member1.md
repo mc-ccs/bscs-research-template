@@ -25,4 +25,4 @@
 ### Motivation:
 
 ---
-[⬅️ Previous](../08-appendices/user-guide.md) | [Next ➡️](../08-appendices/cv/member2.md)
+[⬅️ Previous](../a-cv/member2.md) | [Next ➡️](member2.md)

@@ -25,4 +25,4 @@
 ### Motivation:
 
 ---
-[⬅️ Previous](../08-appendices/user-guide.md) | [Next ➡️](../08-appendices/cv/member2.md)
+[⬅️ Previous](member1.md) | [Next ➡️](../c-title-proposal-and-problem-statement-form.md)

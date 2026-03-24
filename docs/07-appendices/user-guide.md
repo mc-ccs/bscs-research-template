@@ -5,4 +5,4 @@
 
 
 ---
-[⬅️ Previous](../08-appendices/sample-input-output.md) | [Next ➡️](../08-appendices/cv/member1.md)
+[⬅️ Previous](sample-input-output.md) | [Next ➡️](a-cv/member1.md)

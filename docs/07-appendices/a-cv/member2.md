@@ -5,4 +5,4 @@
 
 
 ---
-[⬅️ Previous](../08-appendices/cv/member1.md)
+[⬅️ Previous](member1.md) | [Next ➡️](../b-topic-mine/member1.md)

@@ -5,4 +5,4 @@
 
 
 ---
-[⬅️ Previous](../08-appendices/evaluation-tools.md) | [Next ➡️](../08-appendices/user-guide.md)
+[⬅️ Previous](evaluation-tools.md) | [Next ➡️](user-guide.md)
