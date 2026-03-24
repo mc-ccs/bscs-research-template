@@ -214,24 +214,6 @@ https://kinev10.github.io/thesis-markdown-template/
 
 ---
 
-# 🔄 Updating Your Repository When the Template Is Updated
-
-If your repo was created using the template, you can still sync improvements manually:
-
-### Add upstream (ONE TIME ONLY)
-
-```bash
-git remote add upstream https://github.com/Kinev10/thesis-markdown-template.git
-```
-
-### Pull updates anytime
-
-```bash
-git pull upstream main
-```
-
----
-
 # 🤝 Contribution Guidelines (For Students)
 
 Follow this workflow for clean collaboration:
