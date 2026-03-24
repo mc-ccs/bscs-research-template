@@ -8,4 +8,4 @@
 
 
 ---
-[⬅️ Previous](../02-introduction/scope-and-limitations.md) | [Next ➡️](../04-technical-background/technical-background.md)
+[⬅️ Previous](../02-chapter-1-introduction/d-scope-and-mvp.md) | [Next ➡️](b-synthesis-matrix.md)

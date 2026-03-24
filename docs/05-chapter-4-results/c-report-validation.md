@@ -7,4 +7,4 @@ Present results (tables/figures) and discuss implications.
 
 
 ---
-[⬅️ Previous](../05-design-and-methodology/algorithms.md) | [Next ➡️](../07-conclusions-and-recommendations/conclusions-and-recommendations.md)
+[⬅️ Previous](b-features-and-outputs.md) | [Next ➡️](../06-chapter-5-discussion/a-summary-of-key-findings.md)

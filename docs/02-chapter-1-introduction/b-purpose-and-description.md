@@ -5,4 +5,4 @@
 
 
 ---
-[⬅️ Previous](../02-introduction/project-context.md) | [Next ➡️](../02-introduction/objectives.md)
+[⬅️ Previous](a-project-context.md) | [Next ➡️](c-objectives-rq-alignment.md)

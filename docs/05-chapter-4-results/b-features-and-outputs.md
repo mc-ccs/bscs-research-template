@@ -7,4 +7,4 @@ Present results (tables/figures) and discuss implications.
 
 
 ---
-[⬅️ Previous](../05-design-and-methodology/algorithms.md) | [Next ➡️](../07-conclusions-and-recommendations/conclusions-and-recommendations.md)
+[⬅️ Previous](a-scrum-execution.md) | [Next ➡️](c-report-validation.md)

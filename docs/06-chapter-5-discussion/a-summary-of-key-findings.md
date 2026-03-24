@@ -7,4 +7,4 @@ Summarize findings, limitations, and future work.
 
 
 ---
-[⬅️ Previous](../06-results-and-discussion/results-and-discussion.md) | [Next ➡️](../08-appendices/source-code.md)
+[⬅️ Previous](../05-chapter-4-results/c-report-validation.md) | [Next ➡️](b-rq3-validation-analysis.md)

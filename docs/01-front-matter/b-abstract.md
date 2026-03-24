@@ -7,4 +7,4 @@ Provide a concise overview: problem, objectives, methods, results, and conclusio
 
 
 ---
-[⬅️ Previous](../01-front-matter/title-page.md) | [Next ➡️](../01-front-matter/table-of-contents.md)
+[⬅️ Previous](a-title-page.md) | [Next ➡️](c-table-of-contents.md)

@@ -5,4 +5,4 @@
 
 
 ---
-[⬅️ Previous](../02-introduction/objectives.md) | [Next ➡️](../03-related-literature/related-literature.md)
+[⬅️ Previous](c-objectives-rq-alignment.md) | [Next ➡️](../03-chapter-2-related-literature/a-domain-literature.md)

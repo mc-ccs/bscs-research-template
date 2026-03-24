@@ -5,4 +5,4 @@
 
 
 ---
-[⬅️ Previous](../04-technical-background/technical-background.md) | [Next ➡️](../05-design-and-methodology/system-architecture.md)
+[⬅️ Previous](c-sprint-structure.md) | [Next ➡️](e-system-architecture.md)

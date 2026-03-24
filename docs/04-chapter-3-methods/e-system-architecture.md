@@ -9,4 +9,4 @@ Include diagrams from the `img/` folder, e.g.:
 
 
 ---
-[⬅️ Previous](../05-design-and-methodology/conceptual-design.md) | [Next ➡️](../05-design-and-methodology/block-diagrams.md)
+[⬅️ Previous](d-definition-of-done.md) | [Next ➡️](f-logic-flow.md)

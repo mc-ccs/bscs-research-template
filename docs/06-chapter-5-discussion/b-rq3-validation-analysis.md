@@ -7,4 +7,4 @@ Summarize findings, limitations, and future work.
 
 
 ---
-[⬅️ Previous](../06-results-and-discussion/results-and-discussion.md) | [Next ➡️](../08-appendices/source-code.md)
+[⬅️ Previous](a-summary-of-key-findings.md) | [Next ➡️](c-limitations.md)

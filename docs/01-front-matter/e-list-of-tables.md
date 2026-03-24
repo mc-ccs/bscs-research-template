@@ -5,4 +5,4 @@
 
 
 ---
-[⬅️ Previous](../01-front-matter/list-of-figures.md) | [Next ➡️](../01-front-matter/list-of-notations.md)
+[⬅️ Previous](d-list-of-figures.md) | [Next ➡️](../02-chapter-1-introduction/a-project-context.md)

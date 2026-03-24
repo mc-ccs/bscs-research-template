@@ -5,4 +5,4 @@
 Explain key algorithms with pseudocode and complexity.
 
 ---
-[⬅️ Previous](../05-design-and-methodology/block-diagrams.md) | [Next ➡️](../06-results-and-discussion/results-and-discussion.md)
+[⬅️ Previous](../03-chapter-2-related-literature/c-technical-gap.md) | [Next ➡️](b-product-backlog.md)

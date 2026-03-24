@@ -5,4 +5,4 @@
 Explain key algorithms with pseudocode and complexity.
 
 ---
-[⬅️ Previous](../05-design-and-methodology/block-diagrams.md) | [Next ➡️](../06-results-and-discussion/results-and-discussion.md)
+[⬅️ Previous](a-institutional-framework.md) | [Next ➡️](c-sprint-structure.md)

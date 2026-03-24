@@ -8,4 +8,4 @@
 
 
 ---
-[⬅️ Previous](../02-introduction/scope-and-limitations.md) | [Next ➡️](../04-technical-background/technical-background.md)
+[⬅️ Previous](b-synthesis-matrix.md) | [Next ➡️](../04-chapter-3-methods/a-institutional-framework.md)

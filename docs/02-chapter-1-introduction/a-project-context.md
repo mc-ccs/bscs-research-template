@@ -5,4 +5,4 @@
 
 
 ---
-[⬅️ Previous](../01-front-matter/list-of-notations.md) | [Next ➡️](../02-introduction/purpose-and-description.md)
+[⬅️ Previous](../01-front-matter/e-list-of-tables.md) | [Next ➡️](b-purpose-and-description.md)
