@@ -1,51 +1,45 @@
-# Curriculum Vitae - Member 1
+# Contributor Profile - Member 1
 
-> Replace the guide text below with the student's actual information.
+> Use this page as a public profile. Do not include private addresses, personal phone numbers, student numbers, signatures, or character references.
 
-## 1. Personal Information
+## 1. Public Profile
 
 **Full Name:** [Enter full name]  
-**Address:** [Enter complete address]  
-**Mobile Number:** [Enter contact number]  
-**Email Address:** [Enter active email personal address]  
-**LinkedIn:** [Add links if available]
-**GitHub:** [Add links if available]
-**Portfolio:** [Add links if available]
+**Role in the Thesis Project:** [Example: Lead Developer, Research Writer, UI/UX Designer]  
+**Program:** Bachelor of Science in Computer Science  
+**Institution:** [Enter institution name]  
+**Professional or Academic Email:** [Use a public-safe contact address]  
+**LinkedIn:** [Add link if available]  
+**GitHub:** [Add link if available]  
+**Portfolio or Website:** [Add link if available]
 
-## 2. Career Objective
+## 2. Professional Summary
 
-Write 2 to 4 sentences summarizing your academic background, technical interests, and career goals as a computer science student. You may mention your interest in software development, research, data, networking, cybersecurity, artificial intelligence, or other specialization areas relevant to your thesis.
+Write 2 to 4 sentences summarizing the contributor's academic background, technical interests, and current focus areas. Keep the tone professional and suitable for a public audience.
 
-## 3. Educational Background
+## 3. Thesis Contributions
 
-### Tertiary Education
+Summarize the member's specific responsibilities in the project.
+
+- [Example: Designed the system architecture and data flow]
+- [Example: Implemented the web application frontend and backend integration]
+- [Example: Led testing, documentation, or validation activities]
+
+## 4. Education
+
+List only the education details necessary for public academic context.
 
 **Degree Program:** Bachelor of Science in Computer Science  
-**School:** [Enter school name]  
-**Address:** [Enter school address]  
+**Institution:** [Enter institution name]  
 **Inclusive Dates:** [Month Year] - [Month Year or Present]
 
-### Secondary Education
+## 5. Selected Academic or Technical Projects
 
-**School:** [Enter school name]  
-**Address:** [Enter school address]  
-**Inclusive Dates:** [Month Year] - [Month Year]
-
-### Primary Education
-
-**School:** [Enter school name]  
-**Address:** [Enter school address]  
-**Inclusive Dates:** [Month Year] - [Month Year]
-
-## 4. Academic Involvement
-
-### Relevant Academic Projects
-
-List 2 to 5 projects related to computer science, software engineering, or your thesis work.
+List 2 to 4 public-safe projects related to computer science, software engineering, or research.
 
 **Project 1:** [Project title]  
-**Tools/Technologies Used:** [Example: Python, Java, PHP, JavaScript, MySQL, React, Flutter]  
-**Description:** [Write 2 to 3 sentences about the system, your role, and the outcome]
+**Tools/Technologies Used:** [Example: Python, Java, JavaScript, MySQL, React, Flutter]  
+**Description:** [Write 2 to 3 sentences about the project, your role, and the outcome]
 
 **Project 2:** [Project title]  
 **Tools/Technologies Used:** [Enter tools and technologies]  
@@ -55,39 +49,35 @@ List 2 to 5 projects related to computer science, software engineering, or your 
 **Tools/Technologies Used:** [Enter tools and technologies]  
 **Description:** [Write 2 to 3 sentences]
 
-## 5. Technical Skills
+## 6. Technical Skills
 
 ### Programming Languages
 
 - [Example: Python]
 - [Example: Java]
 - [Example: JavaScript]
-- [Add more as needed]
 
-### Web and Application Development
+### Frameworks and Platforms
 
-- [Example: HTML, CSS, Tailwind CSS]
-- [Example: React, Vue, Angular]
-- [Example: Node.js, Express]
+- [Example: React, Node.js, Express]
 - [Example: Flutter, Android Studio]
+- [Example: HTML, CSS, Tailwind CSS]
 
 ### Databases and Tools
 
 - [Example: MySQL, PostgreSQL, MongoDB]
 - [Example: Git and GitHub]
-- [Example: Figma, Postman]
-- [Example: Docker, Linux]
+- [Example: Figma, Postman, Docker, Linux]
 
 ### Other Competencies
 
-- [Example: UI/UX design]
 - [Example: Technical writing]
 - [Example: Software testing]
 - [Example: Agile or Scrum collaboration]
 
-## 6. Seminars, Trainings, and Certifications
+## 7. Seminars, Trainings, and Certifications
 
-List formal trainings, webinars, bootcamps, or certifications related to computing, programming, design, cybersecurity, networking, or research.
+List formal trainings, webinars, bootcamps, or certifications relevant to the project or the contributor's technical specialization.
 
 **Title of Seminar/Training:** [Enter title]  
 **Organizer:** [Enter organizer]  
@@ -99,43 +89,14 @@ List formal trainings, webinars, bootcamps, or certifications related to computi
 **Date:** [Enter date]  
 **Remarks:** [Optional]
 
-## 7. Organization and Leadership Experience
-
-**Organization:** [Enter organization name]  
-**Position:** [Enter role or position]  
-**Inclusive Dates:** [Month Year] - [Month Year]  
-**Key Contributions:** [Write 1 to 3 short points or a brief summary]
-
-**Organization:** [Enter organization name]  
-**Position:** [Enter role or position]  
-**Inclusive Dates:** [Month Year] - [Month Year]  
-**Key Contributions:** [Write 1 to 3 short points or a brief summary]
-
 ## 8. Awards and Achievements
 
 - [Enter academic award, competition result, dean's list recognition, or project achievement]
 - [Enter award or achievement]
-- [Add more as needed]
 
-## 9. Character References
+## 9. Optional Public Contact Note
 
-**Name:** [Enter full name]  
-**Position:** [Enter position/title]  
-**Institution/Company:** [Enter institution or company]  
-**Email/Contact Number:** [Enter contact details]
-
-**Name:** [Enter full name]  
-**Position:** [Enter position/title]  
-**Institution/Company:** [Enter institution or company]  
-**Email/Contact Number:** [Enter contact details]
-
-## 10. Declaration
-
-I hereby certify that the information provided in this curriculum vitae is true and correct to the best of my knowledge and belief.
-
-**Applicant's Signature:** ____________________  
-**Printed Name:** [Enter full name]  
-**Date:** [Enter date]
+If readers need to contact this contributor, use a professional email address, a portfolio contact form, or an institutional profile page. Do not publish personal contact information unless the contributor explicitly wants it public.
 
 ---
 [⬅️ Previous](../user-guide.md) | [Next ➡️](member2.md)
