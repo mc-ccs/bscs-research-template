@@ -33,7 +33,7 @@ Functional Validation: `(Target: Minimum 68/100 SUS Score)`
 (the faculty governance will commit their name as sign of approval)
 
 * Adviser: 
-* Scrum Master: 
-* Chief Technology Officer: 
-* Investor: 
+* Research Coordinator: 
+* Teacher: 
+* Faculty Panel: 
 
