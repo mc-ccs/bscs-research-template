@@ -178,19 +178,32 @@ git push
 
 ## ✅ 2. Automatic Deployment
 
-This template includes a **GitHub Actions workflow** that automatically deploys your MkDocs site **whenever a Pull Request is merged into the `main` branch**.
+This template includes a **GitHub Actions workflow** that automatically validates pull requests and deploys your MkDocs site when changes are pushed to the supported deployment branches.
 
 The workflow will:
 
 1. Build your MkDocs site  
 2. Push the output to the `gh-pages` branch  
-3. Update your GitHub Pages website  
+3. Update the correct GitHub Pages target for the branch  
+
+Deployment targets:
+
+- `main` → production site at the root of `gh-pages`
+- `develop` → UAT site in `gh-pages/uat`
+- `release/<name>` → staging site in `gh-pages/<name>`
+
+Examples:
+
+- `release/sprint-0` → `gh-pages/sprint-0`
+- `release/final-demo` → `gh-pages/final-demo`
+
+Pull requests to `main` and `develop` are validated automatically before merge. Pushes to `main`, `develop`, and `release/*` trigger deployment.
 
 ---
 
 ## ✅ 3. One-Time Setup on GitHub Pages
 
-After your first merge to main:
+After your first deployment:
 
 1. Go to **Settings**
 2. Select **Pages**
@@ -202,14 +215,10 @@ After your first merge to main:
 
 Your thesis will be published at:
 
-```
-https://<username>.github.io/<repository-name>/
-```
-
-Example:
-
-```
-https://kinev10.github.io/thesis-markdown-template/
+```text
+Production: https://<username>.github.io/<repository-name>/
+UAT:        https://<username>.github.io/<repository-name>/uat/
+Staging:    https://<username>.github.io/<repository-name>/<release-name>/
 ```
 
 ---
