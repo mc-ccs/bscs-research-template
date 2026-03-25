@@ -197,14 +197,21 @@ Follow this workflow for clean collaboration:
 ## 1️⃣ Create a Feature Branch
 
 ```bash
-git checkout -b feature/<your-topic>
+git checkout -b doc/<your-topic>
 ```
 
 Examples:
 
-- `feature/add-abstract`
-- `feature/update-methodology`
-- `fix/typo-chapter3`
+- `doc/add-abstract`
+- `doc/update-methodology`
+- `rev/typo-chapter3`
+
+Branch usage:
+
+- `doc/*` for day-to-day writing and corrections
+- `develop` for the latest integrated work deployed to UAT
+- `release/<name>` for a staging-ready snapshot deployed to a named staging directory
+- `main` for approved production content
 
 ---
 
@@ -226,16 +233,22 @@ Do not mix unrelated edits.
 ## 4️⃣ Open a Pull Request
 
 1. Push your branch  
-2. Click **Compare & Pull Request**  
+2. Open a Pull Request to `develop` for regular work  
 3. Describe your changes  
 4. Submit  
+
+Promotion flow:
+
+1. Merge `doc/*` or `rev/*` into `develop` to update UAT
+2. Create or update `release/<name>` from `develop` to publish a staging version
+3. Merge to `main` when the release is approved for production
 
 ---
 
 ## 5️⃣ Sync Before Working Again
 
 ```bash
-git pull upstream main
+git pull upstream develop
 ```
 
 ---
@@ -248,13 +261,17 @@ flowchart TD
     B --> C[Create Feature Branch]
     C --> D[Edit Thesis Pages in docs/]
     D --> E[Commit and Push Changes]
-    E --> F[Open Pull Request to Main Repo]
-    F --> G{Teacher Reviews PR}
-    G -->|Approved| H[PR is Merged]
-    H --> I[GitHub Actions Builds MkDocs Site]
-    I --> J[GitHub Pages Updates Automatically]
-    H --> K[Student Syncs with Upstream if Needed]
-    K --> C
+    E --> F[Open Pull Request to Develop]
+    F --> G{Review and Validation}
+    G -->|Approved| H[Merge to Develop]
+    H --> I[Deploy UAT]
+    I --> J[Create or Update Release Branch]
+    J --> K[Deploy Staging]
+    K --> L{Approved for Production?}
+    L -->|Yes| M[Merge to Main]
+    M --> N[Deploy Production]
+    N --> O[Sync with Upstream if Needed]
+    O --> C
 ```
 
 ---
