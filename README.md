@@ -60,7 +60,7 @@ docs/
 │   │   ├── member1.md
 │   │   └── member2.md
 │   ├── c-title-proposal-and-problem-statement-form.md
-│   ├── d-title-presention.md
+│   ├── d-comparative-summary.md
 │   ├── e-gate-1-title-defense.md
 │   ├── evaluation-tools.md
 │   ├── sample-input-output.md
