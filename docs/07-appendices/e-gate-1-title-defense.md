@@ -18,3 +18,9 @@ This is the "No-CRUD" filter. Does it require a Computer Scientist or just a web
 | --- | --- | --- | --- | --- |
 | Core Algorithm/Logic | Clearly identifies a complex CS component (AI, Optimization, Security, etc.). | Mentions a technology (e.g., "AI") but has no plan for the specific logic. | The project is purely CRUD (Create, Read, Update, Delete) with no unique logic. | /20 |
 | Architecture Feasibility | The Tech Stack Audit is complete and matches the team's current skill level. | The stack is "hype-driven" and overly complex for a 17-week build. | Team cannot explain how the components (Frontend/Backend/DB) connect. | /10 |
+
+## Pillar 3: Validation Plan (The Metrics)
+How will they prove it works in THS 102?
+| Criteria |  5 (Ready) | 3 (Needs Revision) | 1 (Not Ready) | Score |
+| --- | --- | --- | --- | --- |
+| Metric Alignment | Explicitly mentions SUS for users and Unit Testing for technical rigor. | Mentions "Testing" but has no specific tool or target metric. |"We will ask the teacher if it's good" (Subjective validation). | /10 |
