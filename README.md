@@ -9,6 +9,8 @@ This repository is a modular thesis-writing template built with:
 
 The thesis is organized by chapter and section so teams can write, review, and revise content without working in one large document.
 
+This repository is distributed to students through a GitHub Classroom assignment, so each student or group starts from an assigned repository before cloning it locally.
+
 ---
 
 # 📁 Project Structure
@@ -78,12 +80,14 @@ This structure keeps the thesis:
 
 # 🚀 Getting Started
 
-## 1. Clone Your Repository
+## 1. Accept and Clone Your Classroom Repository
 
 ```bash
 git clone https://github.com/<your-username>/<your-repo>.git
 cd <your-repo>
 ```
+
+Before cloning, accept the GitHub Classroom assignment link provided by your instructor.
 
 ## 2. Install Requirements
 
@@ -231,7 +235,7 @@ Staging:    https://<username>.github.io/<repository-name>/<release-name>/
 
 ```mermaid
 flowchart TD
-    A[Create Repository from Template] --> B[Clone Repository]
+    A[Accept GitHub Classroom Assignment] --> B[Clone Repository]
     B --> C[Create Working Branch]
     C --> D[Edit Thesis Files in docs/]
     D --> E[Preview with MkDocs]
