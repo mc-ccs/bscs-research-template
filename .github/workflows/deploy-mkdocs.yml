@@ -40,6 +40,10 @@ jobs:
         shell: bash
         run: |
           dir="${GITHUB_REF_NAME#release/}"
+          if [ -z "$dir" ]; then
+            echo "::error::Invalid release branch name. Use release/<name> (example: release/sprint-0)."
+            exit 1
+          fi
           echo "dir=$dir" >> "$GITHUB_OUTPUT"
 
       # PRODUCTION: main -> gh-pages root
