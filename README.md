@@ -11,26 +11,9 @@ This template follows a **standard academic thesis format** and breaks every sec
 
 ---
 
-# 📦 How to Use This Repository as a Template
+# 📦 How to Use This Repository
 
-This repository is configured as a **Template Repository** on GitHub.
-
-If you are a student starting your thesis project, **DO NOT fork this repo**.  
-Instead, follow these steps:
-
-### ✅ 1. Click the **“Use this template”** button at the top of the repository
-
-This will create a **brand‑new repository under your GitHub account** with the same content.
-
-### ✅ 2. Name your repository
-
-Example names:
-
-- `thesis-juan-dela-cruz`
-- `thesis-mary-anne`
-- `capstone-group5`
-
-Choose **Public** or **Private** depending on class requirements.
+This repository is configured as a **Template Repository** on GitHub and distributed via GitHub Classroom activity. Setup is configured for the students to use.
 
 ### ✅ 3. Clone your newly created repository
 
@@ -50,24 +33,6 @@ git push
 
 ---
 
-# 🧭 Notes for Students Who Already Forked Before This Template Was Enabled
-
-If you already forked the teacher’s repo earlier:
-
-### ✔ Your fork still works — you do NOT need to start over.
-
-To receive updates from the teacher template:
-
-```bash
-git remote add upstream https://github.com/Kinev10/thesis-markdown-template.git
-git pull upstream main
-```
-
-If your fork is broken or outdated, you may choose to:
-- create a NEW repo using the template  
-- copy your existing work into the new structure
-
----
 
 # 📁 Repository Structure
 
@@ -223,7 +188,7 @@ Staging:    https://<username>.github.io/<repository-name>/<release-name>/
 
 ---
 
-# 🤝 Contribution Guidelines (For Students)
+# 🤝 Contribution Guidelines
 
 Follow this workflow for clean collaboration:
 
