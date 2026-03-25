@@ -2,9 +2,12 @@ name: Validate and Deploy MkDocs
 
 on:
   pull_request:
-    branches: [main, staging]
+    branches: [main, develop]
   push:
-    branches: [main, staging]
+    branches:
+      - main
+      - develop
+      - 'release/**'
 
 jobs:
   validate:
@@ -31,6 +34,14 @@ jobs:
       - run: pip install mkdocs mkdocs-material
       - run: mkdocs build --clean
 
+      - name: Compute release destination directory
+        if: startsWith(github.ref, 'refs/heads/release/')
+        id: release_dir
+        shell: bash
+        run: |
+          dir="${GITHUB_REF_NAME#release/}"
+          echo "dir=$dir" >> "$GITHUB_OUTPUT"
+
       # PRODUCTION: main -> gh-pages root
       - name: Deploy Production (main)
         if: github.ref == 'refs/heads/main'
@@ -41,13 +52,24 @@ jobs:
           publish_dir: ./site
           keep_files: true
 
-      # STAGING: staging -> gh-pages/staging
-      - name: Deploy Staging (staging)
-        if: github.ref == 'refs/heads/staging'
+      # UAT: develop -> gh-pages/uat
+      - name: Deploy UAT (develop)
+        if: github.ref == 'refs/heads/develop'
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: gh-pages
           publish_dir: ./site
-          destination_dir: staging
+          destination_dir: uat
+          keep_files: true
+
+      # STAGING: release/* -> gh-pages/<release-branch-name-without-prefix>
+      - name: Deploy Staging (release/*)
+        if: startsWith(github.ref, 'refs/heads/release/')
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: gh-pages
+          publish_dir: ./site
+          destination_dir: ${{ steps.release_dir.outputs.dir }}
           keep_files: true
