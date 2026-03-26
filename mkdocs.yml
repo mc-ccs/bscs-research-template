@@ -50,9 +50,6 @@ nav:
     - Limitations: 06-chapter-5-discussion/c-limitations.md
     - Recommendations: 06-chapter-5-discussion/d-recommendations.md
   - Appendices:
-    - Evaluation Tools or Test Documents: 07-appendices/evaluation-tools.md
-    - Sample Input/Output or Reports: 07-appendices/sample-input-output.md
-    - User Guide: 07-appendices/user-guide.md
     - CVs:
       - Member 1: 07-appendices/a-cv/member1.md
       - Member 2: 07-appendices/a-cv/member2.md

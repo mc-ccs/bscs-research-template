@@ -11,4 +11,3 @@ Use the navigation at the left (MkDocs) or the links below to browse by section.
 4. [Methods](04-chapter-3-methods/a-institutional-framework.md)
 5. [Results](05-chapter-4-results/a-scrum-execution.md)
 6. [Discussion](06-chapter-5-discussion/a-summary-of-key-findings.md)
-7. [Appendices](07-appendices/evaluation-tools.md)

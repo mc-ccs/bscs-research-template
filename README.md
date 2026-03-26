@@ -62,9 +62,6 @@ docs/
 │   ├── c-title-proposal-and-problem-statement-form.md
 │   ├── d-comparative-summary.md
 │   ├── e-gate-1-title-defense.md
-│   ├── evaluation-tools.md
-│   ├── sample-input-output.md
-│   └── user-guide.md
 ├── img/
 └── src/
 ```
