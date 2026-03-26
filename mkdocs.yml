@@ -59,7 +59,8 @@ nav:
     - Title Proposal and Problem Statement Form: 07-appendices/c-title-proposal-and-problem-statement-form.md
     - Title Presentation: 07-appendices/d-comparative-summary.md
     - Gate 1 Title Defense: 07-appendices/e-gate-1-title-defense.md
-    - Sprint 0 Review and Sprint 1 Planning: 07-appendices/sprint-0-review-and-sprint-1-planning.md
+    - Sprint 0 Review and Sprint 1 Planning: 07-appendices/h-sprint-0-review-and-sprint-1-planning.md
+    - Raw SEQ and SUS Data: 07-appendices/t-raw-seq-and-sus-data.md
 extra:
   social:
     - icon: fontawesome/brands/github
