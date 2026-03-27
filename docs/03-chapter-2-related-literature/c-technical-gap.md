@@ -2,7 +2,7 @@
 
 Use this section to explain why the proposed project is still necessary after reviewing existing literature and comparable systems.
 
-## Recommended Structure
+## Standard Structure
 
 ### 1. Current Approaches
 
@@ -16,7 +16,7 @@ Explain the limitation that remains. This may be a technical, usability, deploym
 
 State how the proposed project addresses that limitation through its architecture, workflow support, core logic, or validation strategy.
 
-## Suggested Framing Pattern
+## Standard Framing Pattern
 
 - Existing systems commonly use **X** to address **Y**.
 - However, prior work shows that **X** is limited when **Z** is present.

@@ -2,7 +2,7 @@
 
 Use this section to organize the strongest related studies, systems, or technical references in a comparative form before drafting the technical gap.
 
-## Suggested Matrix
+## Standard Matrix
 
 | Source | Problem or Domain | Core Technology or Approach | Primary Strength | Reported Limitation or Gap | Relevance to the Project |
 | --- | --- | --- | --- | --- | --- |

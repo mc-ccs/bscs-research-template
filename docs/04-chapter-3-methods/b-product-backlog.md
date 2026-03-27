@@ -2,7 +2,7 @@
 
 Use this section to explain how the approved requirements were translated into user stories, backlog items, and sprint-ready work.
 
-## Recommended Coverage
+## Required Coverage
 
 Summarize the following:
 
@@ -11,7 +11,7 @@ Summarize the following:
 - how priorities were assigned
 - how acceptance criteria and story points were used when applicable
 
-## Suggested Table
+## Standard Table
 
 | Epic or Functional Area | Sample User Story or Requirement | Priority | Planned Sprint | Notes |
 | --- | --- | --- | --- | --- |

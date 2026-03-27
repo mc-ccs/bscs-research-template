@@ -2,7 +2,7 @@
 
 Use this section to present the implemented features, major outputs, and concrete evidence that the approved MVP was delivered.
 
-## Recommended Coverage
+## Required Coverage
 
 For each major feature or module, report:
 
@@ -12,7 +12,7 @@ For each major feature or module, report:
 - the evidence used to verify the feature
 - any remaining limitation relevant to interpretation
 
-## Suggested Table
+## Standard Table
 
 | Feature or Output | Related Requirement or Story | What Was Implemented | Evidence | Notes or Limitation |
 | --- | --- | --- | --- | --- |

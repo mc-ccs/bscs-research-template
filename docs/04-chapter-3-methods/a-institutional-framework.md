@@ -2,7 +2,7 @@
 
 Use this section to explain the institutional framework that governs the project and how the team applied it in the study.
 
-## Recommended Coverage
+## Required Coverage
 
 Describe the following:
 
@@ -11,7 +11,7 @@ Describe the following:
 - the use of **Scrum** as the development methodology for planning, implementation, review, and improvement
 - the major institutional checkpoints such as Gate 1, Gate 2, Gate 3, and Gate 4
 
-## Suggested Structure
+## Standard Structure
 
 ### 1. Design Science Research
 

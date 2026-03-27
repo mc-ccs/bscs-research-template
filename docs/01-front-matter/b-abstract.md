@@ -2,7 +2,7 @@
 
 Use this page to provide a concise summary of the completed study.
 
-## Recommended Coverage
+## Required Coverage
 
 Write one compact abstract that includes:
 

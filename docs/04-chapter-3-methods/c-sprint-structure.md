@@ -2,7 +2,7 @@
 
 Use this section to explain how the project work was distributed across Sprint 0 and the succeeding development sprints.
 
-## Recommended Coverage
+## Required Coverage
 
 Describe the following:
 
@@ -11,7 +11,7 @@ Describe the following:
 - the normal activities performed in each sprint, such as planning, execution, review, and retrospective
 - how sprint outputs were documented in the appendices and repositories
 
-## Suggested Table
+## Standard Table
 
 | Sprint | Main Objective | Typical Outputs |
 | --- | --- | --- |

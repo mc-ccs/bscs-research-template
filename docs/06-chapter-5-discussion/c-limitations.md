@@ -2,7 +2,7 @@
 
 Use this section to state the real limitations of the study and the developed system.
 
-## Recommended Coverage
+## Required Coverage
 
 Identify limitations such as:
 

@@ -2,7 +2,7 @@
 
 Use this section to define the MVP boundary clearly so reviewers can distinguish what the team committed to deliver from what is intentionally excluded.
 
-## Recommended Coverage
+## Required Coverage
 
 State the following:
 
@@ -11,7 +11,7 @@ State the following:
 - major technical, operational, or data-related constraints
 - features, integrations, or conditions that are explicitly out of scope
 
-## Suggested Structure
+## Standard Structure
 
 ### 1. MVP Scope
 

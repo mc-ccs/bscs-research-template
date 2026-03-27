@@ -2,7 +2,7 @@
 
 Use this section to explain what the proposed system is and what it is intended to do for the target users.
 
-## Recommended Coverage
+## Required Coverage
 
 Summarize the following:
 
@@ -12,7 +12,7 @@ Summarize the following:
 - the major capabilities expected from the MVP
 - the core logic or technical contribution when it is important to understanding the project direction
 
-## Suggested Structure
+## Standard Structure
 
 ### 1. One-Paragraph System Overview
 

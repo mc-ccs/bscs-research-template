@@ -2,7 +2,7 @@
 
 Use this section to review the prior studies, systems, and technical references that explain the problem space and the approaches already used in the field.
 
-## Recommended Coverage
+## Required Coverage
 
 Organize the discussion by themes such as:
 

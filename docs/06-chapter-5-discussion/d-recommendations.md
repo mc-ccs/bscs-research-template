@@ -2,7 +2,7 @@
 
 Use this section to present actionable next steps based on the findings and limitations of the study.
 
-## Recommended Coverage
+## Required Coverage
 
 Recommendations may include:
 

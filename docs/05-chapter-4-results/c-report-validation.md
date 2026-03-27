@@ -11,7 +11,7 @@ At minimum, this section should show:
 - user validation evidence for user-facing systems or the approved alternative metric for non-user-facing systems
 - a short explanation of whether the project met its validation basis
 
-## Recommended Coverage
+## Standard Additional Evidence
 
 Beyond the minimum required evidence, report the strongest additional evidence gathered during validation, such as:
 
@@ -21,7 +21,7 @@ Beyond the minimum required evidence, report the strongest additional evidence g
 - SUS and SEQ findings for user-facing systems when applicable
 - other approved technical metrics such as accuracy, latency, error rate, or expert evaluation
 
-## Suggested Structure
+## Standard Structure
 
 ### 1. Functional Validation Summary
 

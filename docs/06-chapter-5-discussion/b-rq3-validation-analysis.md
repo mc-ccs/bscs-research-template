@@ -2,7 +2,7 @@
 
 Use this section to interpret the validation results and explain what they mean for the success, usefulness, and readiness of the developed artifact.
 
-## Recommended Coverage
+## Required Coverage
 
 Discuss the following:
 
