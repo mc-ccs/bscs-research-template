@@ -1,4 +1,6 @@
-# Pre-Oral Defense
+# Gate 3 - Pre-Defense Review
+
+Use this record to capture the Gate 3 checkpoint before the final validation and presentation stage. This gate applies to both capstone projects and theses, even if the local schedule uses labels such as pre-oral defense, pre-defense, or milestone review.
 
 ## Team Name: ________________________ 
 ## Date: _______________
@@ -6,7 +8,7 @@
 
 ## Pillar 1: The Technical Process (30%)
 
-This section evaluates how the team worked. The Technical Critic reviews GitHub Insights.
+This pillar evaluates how the team worked. The technical critic reviews GitHub insights.
 | Criteria | 5 (Excellent) | 3 (Developing) | 1 (Poor) | Score |
 | --- | --- | --- | --- | --- |
 | GitHub Audit Trail | Features, issues, pull requests, and release evidence are traceable and regularly updated. | Some work is traceable, but important links or review evidence are missing. | Repository history is too weak to verify the work. | /10 |
@@ -14,7 +16,7 @@ This section evaluates how the team worked. The Technical Critic reviews GitHub 
 | DevOps and Workflow Standards | Build or verification evidence is stable, protected-branch rules are respected, and release-related review is documented. | Some workflow controls exist but they are incomplete or inconsistently followed. | Workflow controls and verification evidence are largely absent. | /10 |
 
 ## Pillar 2: The Artifact (50%)
-This section evaluates the prototype's functionality and technical rigor.
+This pillar evaluates the prototype's functionality and technical rigor.
 | Criteria | 5 (Excellent) | 3 (Developing) | 1 (Poor) | Score |
 | --- | --- | --- | --- | --- |
 | Core Innovation | The algorithm/logic is fully functional and addresses the Research Question. | Core logic is partially working or "mocked" (hard-coded results). | Core logic is non-functional or missing entirely. | /15 |
@@ -23,7 +25,7 @@ This section evaluates the prototype's functionality and technical rigor.
 
 ## Pillar 3: The Narrative (20%)
 
-This section evaluates the academic communication and defense performance.
+This pillar evaluates the academic communication and presentation performance.
 
 | Criteria | 5 (Excellent) | 3 (Developing) | 1 (Poor) | Score |
 | --- | --- | --- | --- | --- |
@@ -32,7 +34,7 @@ This section evaluates the academic communication and defense performance.
 
 ## Gate 3 Decision
 
-- [ ] Ready to proceed to final validation and defense preparation
+- [ ] Ready to proceed to final validation and final presentation preparation
 - [ ] Ready with required revisions
 - [ ] Not yet ready
 

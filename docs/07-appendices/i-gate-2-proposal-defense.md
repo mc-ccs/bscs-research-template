@@ -2,7 +2,13 @@
 
 Use this appendix to record whether the project is ready to proceed from planning into full implementation.
 
-## Suggested Proposal Defense Flow
+This gate applies to both capstone projects and theses.
+
+## Team Name: ________________________
+## Date: _______________
+## Title: ______________________________________________
+
+## Suggested Gate 2 Flow
 
 The actual time allocation may vary by course schedule, but the session should normally cover the following:
 
@@ -13,22 +19,20 @@ The actual time allocation may vary by course schedule, but the session should n
 | Part 3 | Repository and execution review | Verify repository setup, project board readiness, and Sprint 1 implementation feasibility. |
 | Part 4 | Panel questioning | Resolve issues on feasibility, measurement, and scope control. |
 
-# Proposal Defense Rubric (THS 101)
-
-Team Number:
+## Gate 2 Proposal Review Rubric
 
 ## Pillar 1: The "I" - Introduction and Problem Rigor (20%)
 
-Evaluates the research foundation and project direction.
+This pillar evaluates the research foundation and project direction.
 
-| Criteria | 5 (Excellent) | 3 (Developing) | 1 (Poor) |Score |
+| Criteria | 5 (Excellent) | 3 (Developing) | 1 (Poor) | Score |
 | --- | --- | --- | --- | --- |
 | Problem and Gap | Problem is specific, evidence-based, and supported by a clear technical gap. | Problem is understandable but lacks strong evidence or a clear gap statement. | Problem is vague, unverified, or disconnected from a technical need. | /10 |
 | Research Objectives | Objectives are specific and clearly aligned to RQ1, RQ2, and RQ3. | Objectives exist but are weakly written or poorly aligned to the project. | Objectives are missing or not usable for implementation and validation. | /10 |
 
 ## Pillar 2: The "M" - Methods and Technical Design (50%)
 
-Evaluates how the team intends to build and measure the project.
+This pillar evaluates how the team intends to build and measure the project.
 
 | Criteria | 5 (Excellent) | 3 (Developing) | 1 (Poor) | Score |
 | --- | --- | --- | --- | --- |
@@ -38,7 +42,7 @@ Evaluates how the team intends to build and measure the project.
 
 ## Pillar 3: The Roadmap - Backlog and Scrum Readiness (30%)
 
-Evaluates the team's ability to execute within the term.
+This pillar evaluates the team's readiness to execute within the term.
 
 | Criteria | 5 (Excellent) | 3 (Developing) | 1 (Poor) | Score |
 | --- | --- | --- | --- | --- |
