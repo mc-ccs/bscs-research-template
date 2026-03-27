@@ -9,6 +9,8 @@ This repository is a modular research-writing template built with:
 
 The research manuscript is organized by chapter and section so teams can write, review, and revise content without working in one large document.
 
+The template supports the standard BSCS research workflow for either a capstone project or a thesis. In this repository, both are treated as research outputs under the same institutional framework.
+
 This repository is distributed to students through a GitHub Classroom assignment, so each student or group starts from an assigned repository before cloning it locally.
 
 The template is designed to work together with the institutional research manual. Students should use the manual for policy, workflow, and evaluation rules, and use this repository as the working manuscript and appendix structure.

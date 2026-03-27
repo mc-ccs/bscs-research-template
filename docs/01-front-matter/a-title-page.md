@@ -18,8 +18,8 @@ Bachelor of Science in Computer Science
 **Institution**  
 [Enter institution name]  
 
-**Course / Term**  
-[Example: THS 101 or THS 102, Academic Year 2026-2027]  
+**Term**  
+[Example: Academic Year 2026-2027]  
 
 **Adviser**  
 [Enter adviser name]  

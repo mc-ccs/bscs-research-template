@@ -2,6 +2,8 @@
 
 Welcome to the official research repository for **[Project Title]**.
 
+This template is intended for either a **capstone project** or a **thesis** under the BSCS research workflow. The same chapter structure and appendix gates apply unless the department approves a specific exception.
+
 Use the navigation at the left (MkDocs) or the links below to browse by section.
 
 ## 📑 Contents
