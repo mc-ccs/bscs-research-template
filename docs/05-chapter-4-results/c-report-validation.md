@@ -1,9 +1,8 @@
-# Results and Discussion
+# Report Validation
 
 > _Replace this placeholder with your content._
 
-
-Present results (tables/figures) and discuss implications.
+Present the validation results, evaluation evidence, and interpretation of whether the artifact met the project objectives.
 
 
 ---

@@ -75,7 +75,7 @@ docs/
 │   ├── p-gate-3-pre-defense.md
 │   ├── q-raw-seq-and-sus-data.md
 │   ├── r-final-sprint-retrospective.md
-│   ├── s-final-sprint-3-review.md
+│   ├── s-final-sprint-review.md
 │   └── t-gate-4-final-defense.md
 ├── img/
 └── src/
