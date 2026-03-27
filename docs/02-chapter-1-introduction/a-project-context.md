@@ -2,7 +2,7 @@
 
 Use this section to explain the real-world setting of the project and the concrete problem that motivated the study.
 
-## Recommended Coverage
+## Required Coverage
 
 Describe the following in a concise engineering style:
 
@@ -12,7 +12,7 @@ Describe the following in a concise engineering style:
 - the specific pain points, inefficiencies, risks, or limitations in that current condition
 - why a software-based solution is appropriate for the problem
 
-## Suggested Paragraph Flow
+## Standard Paragraph Flow
 
 ### 1. Operational Context
 

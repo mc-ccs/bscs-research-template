@@ -2,7 +2,7 @@
 
 Use this section to summarize the most important findings of the study based on the evidence already presented in Chapter 4.
 
-## Recommended Coverage
+## Required Coverage
 
 Summarize the following:
 

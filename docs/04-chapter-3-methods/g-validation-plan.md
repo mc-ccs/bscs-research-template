@@ -14,7 +14,7 @@ The validation activities should confirm the following:
 
 ## Validation Approach
 
-The recommended validation strategy combines technical testing and user-centered evaluation.
+The standard validation strategy combines technical testing and user-centered evaluation. Teams should treat the sections below as the default validation structure unless an approved exception has been documented.
 
 ### 1. Functional Validation
 
@@ -33,6 +33,8 @@ For each feature, define the test input, expected behavior, actual result, and s
 
 Usability evaluation measures whether the target users can effectively use the system. A common approach is to ask representative users to perform tasks in the system and then answer a structured questionnaire, such as the System Usability Scale (SUS), a Likert-scale instrument, or a school-approved evaluation form.
 
+For user-facing systems, this section should identify the actual user-validation instrument that will be used. If SUS or SEQ will not be used, the approved alternative should be stated explicitly.
+
 The final manuscript should state:
 
 - The number of respondents
@@ -43,7 +45,7 @@ The final manuscript should state:
 
 ### 3. Performance and Reliability Checks
 
-If applicable to the project, include lightweight technical checks such as:
+If the project includes measurable performance, reliability, accuracy, or repeatability concerns, include the relevant technical checks here.
 
 - Response time during common transactions
 - Accuracy of generated results
@@ -62,9 +64,9 @@ For projects that store user information or sensitive records, validation should
 - User actions are restricted based on role
 - Stored data remains consistent after create, update, and delete operations
 
-## Sample Validation Matrix
+## Standard Validation Matrix
 
-The table below may be used as a guide when preparing the final validation evidence.
+The table below should be completed and tailored when preparing the final validation evidence.
 
 | Validation Area | Method | Participants / Basis | Expected Outcome |
 | --- | --- | --- | --- |
@@ -76,7 +78,7 @@ The table below may be used as a guide when preparing the final validation evide
 
 ## Acceptance Criteria
 
-The study should define clear criteria for considering the system acceptable. A practical template may include the following:
+The study should define clear criteria for considering the system acceptable. At minimum, the acceptance criteria should include the following:
 
 - All core features pass functional testing
 - No critical defects remain unresolved before final defense

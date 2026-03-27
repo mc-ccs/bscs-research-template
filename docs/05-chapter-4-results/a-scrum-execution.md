@@ -2,7 +2,7 @@
 
 Use this section to report how the team executed the approved Scrum plan from **Sprint 0** through the final implementation sprint.
 
-## Recommended Coverage
+## Required Coverage
 
 Summarize the following:
 
@@ -13,7 +13,7 @@ Summarize the following:
 - repository evidence such as issues, pull requests, release branches, or tags
 - blockers and how the team responded
 
-## Suggested Structure
+## Standard Structure
 
 ### Sprint 0
 
