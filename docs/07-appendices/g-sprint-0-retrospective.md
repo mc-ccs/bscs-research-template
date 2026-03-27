@@ -1,26 +1,59 @@
 # Sprint 0 Retrospective
 
-
-# Facilitator (Scrum Master): _____________________  
+# Facilitator: _____________________  
 # Date: _______________
+# Sprint Goal Reviewed: ___________________________________________
 
-# 1. The "Start, Stop, Continue" Board
-The team brainstorms items for each category to improve their workflow for the next 3 weeks.
-| Category | Items | Action Owner |
-| --- | --- | --- |
-| 🚀 START Doing | e.g., Reviewing PRs within 24 hours of posting. | Dev Lead |
-| 🛑 STOP Doing | e.g., Coding on the main branch directly. | Whole Team |
-| ✅ CONTINUE Doing | e.g., Our Wednesday sync-ups with the Advisor. | Scrum Master |
+# 1. Sprint 0 Summary
 
-# 2. Team Health Check (Anonymous 1-5 Scale)
-Each member votes on these four pillars. If the average is below 3, the Scrum Master (RC) must be notified of a potential "Team Crash."
-1. Velocity: Are we moving fast enough to hit our 17-week deadline? [ ]
-2. Code Quality: Are we proud of the code, or is it "spaghetti"? [ ]
-3. Communication: Are the Dev and Doc teams talking to each other? [ ]
-4. Morale: Is the team feeling burnt out or motivated? [ ]
+| Item | Response |
+| --- | --- |
+| Covered Dates |  |
+| Major outputs completed |  |
+| Major outputs still incomplete |  |
+| Main blocker during Sprint 0 |  |
+| Key repository or workflow evidence reviewed |  |
+
+# 2. The "Start, Stop, Continue" Board
+
+The team should identify concrete workflow changes for the next sprint.
+
+| Category | Items |
+| --- | --- |
+| 🚀 START Doing | e.g., Reviewing PRs within 24 hours of posting. |
+| 🛑 STOP Doing | e.g., Coding on the main branch directly. |
+| ✅ CONTINUE Doing | e.g., Our Wednesday sync-ups with the Advisor. |
+
+# 3. Team Health Check (Anonymous 1-5 Scale)
+
+Each member may vote on the following indicators. Low scores should trigger a specific action plan rather than a vague warning.
+
+1. Delivery pace: Are we moving fast enough for the approved schedule? [ ]
+2. Code or document quality: Is the team producing reviewable outputs? [ ]
+3. Communication: Are the technical and documentation tasks staying coordinated? [ ]
+4. Morale: Is the team sustainable for the next sprint? [ ]
 
 # 4. Top 3 Process Improvements for Next Sprint
 
-Identify exactly three things the team will change. These must be measurable.Improvement 1: _______________________________________________________Improvement 2: _______________________________________________________Improvement 3: _______________________________________________________
+Identify exactly three measurable improvements.
 
-💡 Instructions for the Student Scrum MasterNeutrality: Your job is to listen, not to blame. If "Developer A" didn't finish their task, ask why (e.g., "Was the task too big?"), rather than accusing them.The "Vegas Rule": What is said in the Retrospective stays in the Retrospective—unless it involves an Ethical Breach or Plagiarism, which must be reported to the Research Coordinator (SM) immediately.Action Items: Don't just complain. Every "Stop doing" item needs a concrete "Start doing" replacement.
+Improvement 1: _______________________________________________________
+
+Improvement 2: _______________________________________________________
+
+Improvement 3: _______________________________________________________
+
+# 5. Escalation Items
+
+Document any issue that must be raised to the adviser or research coordinator before Sprint 1 proceeds.
+
+| Issue | Why it matters | Owner | Due Date |
+| --- | --- | --- | --- |
+|  |  |  |  |
+|  |  |  |  |
+
+## Notes for the Facilitator
+
+- Keep the discussion constructive and evidence-based.
+- Convert complaints into specific corrective actions.
+- If the retrospective identifies an ethics issue, plagiarism concern, or blocking process failure, escalate it immediately through the approved channel.

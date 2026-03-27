@@ -152,8 +152,8 @@ For **Sprint 1**, the normal institutional review pattern is as follows:
 
 | Repository | Typical Reviewer for Merges to `main` | Notes |
 | --- | --- | --- |
-| Documentation repository | Research Coordinator | Used for manuscript and documentation release-related review. |
-| System repository | Adviser | Used for system implementation release-related review. |
+| Documentation repository | Adviser and Research Coordinator | Both reviewers are expected for release-related merges to `main`. |
+| System repository | Adviser and Research Coordinator | Both reviewers are expected for release-related merges to `main`. |
 
 If a different review arrangement is approved, document it here:
 

@@ -1,6 +1,6 @@
 # Gate 1 - Title Defense
 
-Contains the evaluation to accomplish title defense. Data should be coming from individual yml file of the panel to manage merge conflict.
+Use this record to capture panel evaluation of title-defense readiness. The team should complete the title proposal, topic comparison, and initial validation direction before this gate.
 
 ## Pillar 1: Problem Rigor (The "Why")
 
@@ -12,15 +12,34 @@ Based on the DSR framework: Is there a verified "Environmental" problem to solve
 | Technical Gap | Proves that current off-the-shelf solutions are inadequate for this specific context. | Mentions other solutions but fails to explain why a new one is needed. | Claims to be "the first" without any market or literature research. | /10 |
 
 ## Pillar 2: CS Technical Innovation (The "How")
-This is the "No-CRUD" filter. Does it require a Computer Scientist or just a web developer?
+
+This pillar checks whether the project has clear technical substance appropriate for Computer Science.
 
 | Criteria | 5 (Ready) | 3 (Needs Revision) | 1 (Not Ready) | Score |
 | --- | --- | --- | --- | --- |
-| Core Algorithm/Logic | Clearly identifies a complex CS component (AI, Optimization, Security, etc.). | Mentions a technology (e.g., "AI") but has no plan for the specific logic. | The project is purely CRUD (Create, Read, Update, Delete) with no unique logic. | /20 |
-| Architecture Feasibility | The Tech Stack Audit is complete and matches the team's current skill level. | The stack is "hype-driven" and overly complex for a 17-week build. | Team cannot explain how the components (Frontend/Backend/DB) connect. | /10 |
+| Core Algorithm/Logic | Clearly identifies the core logic, algorithm, or technical mechanism that makes the project a legitimate CS build. | Mentions a technology but does not explain the actual logic to be built. | No meaningful technical contribution is identified. | /20 |
+| Architecture Feasibility | The initial architecture and stack are realistic for one-term implementation and the team can explain how the main components connect. | The direction is partly feasible but still missing key architectural or feasibility details. | The team cannot explain how the system would be built or integrated. | /10 |
 
 ## Pillar 3: Validation Plan (The Metrics)
-How will they prove it works in THS 102?
+
+How will the team prove that the project works in THS 102?
+
 | Criteria |  5 (Ready) | 3 (Needs Revision) | 1 (Not Ready) | Score |
 | --- | --- | --- | --- | --- |
-| Metric Alignment | Explicitly mentions SUS for users and Unit Testing for technical rigor. | Mentions "Testing" but has no specific tool or target metric. |"We will ask the teacher if it's good" (Subjective validation). | /10 |
+| Metric Alignment | Identifies a measurable validation plan, such as functional testing plus SUS for user-facing systems or another justified technical metric. | Mentions testing but lacks a clear method, threshold, or target evidence. | Validation is subjective or undefined. | /10 |
+
+## Gate 1 Decision
+
+- [ ] Approved and ready for Sprint 0
+- [ ] Approved with required revisions before Sprint 0
+- [ ] Not yet ready
+
+## Panel Notes
+
+Strengths:
+
+
+Required Revisions:
+
+
+Decision Summary:

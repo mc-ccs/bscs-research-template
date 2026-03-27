@@ -1,54 +1,75 @@
 
 # Technical Stack Audit Form
 
-
+Use this appendix during **Sprint 0** to confirm that the proposed stack is feasible, maintainable, and aligned with the approved MVP.
 
 ## Working Title: _________________________________________________
 ## Team Name: _________________________________________________
 
 ## I. Core Architecture
-| Layer | Proposed Technology | Justification (Why this?) |
-| --- | --- | --- |
-| Frontend | e.g., React Native | e.g., Cross-platform mobile support needed. |
-| Backend |e.g., FastAPI (Python) | e.g., High performance & easy ML integration. |
-| Database | e.g., PostgreSQL | e.g., Relational data for user profiles. |
-| Hosting/Cloud | e.g., AWS/Firebase | e.g., Real-time database requirements. |
 
-## II. The "Core Innovation" Toolset
+| Layer | Proposed Technology | Justification | Risk or Constraint |
+| --- | --- | --- | --- |
+| Frontend |  |  |  |
+| Backend |  |  |  |
+| Database |  |  |  |
+| Hosting / Cloud |  |  |  |
+| CI / Automation |  |  |  |
 
-What specific libraries or APIs will handle the Scrum Sprint 2 (Core Logic) requirements?
+## II. Core Innovation Toolset
 
-* Primary Library: (e.g., TensorFlow, OpenCV, Scikit-learn) _________________
+Describe the specific libraries, APIs, or components that support the main technical contribution of the project.
 
-* Third-Party APIs: (e.g., Google Maps API, Twilio SMS) ____________________
+| Component Type | Tool / Service | Purpose in the Project | Fallback or Alternative |
+| --- | --- | --- | --- |
+| Primary library or framework |  |  |  |
+| Third-party API |  |  |  |
+| Hardware integration |  |  |  |
+| Security or authentication component |  |  |  |
 
-* Hardware Integration: (e.g., ESP32, Arduino, Raspberry Pi) _______________
+## III. Team Skill and Readiness Check
 
-## III. Team Skill-Gap Analysis
+Each member should assess their current readiness for the selected stack.
 
-The Adviser uses this to ensure the team isn't setting themselves up for failure. Each of the member must self-assess:
+| Name | Major Responsibility | Current Skill Level (1-5) | Learning Resource or Support Plan |
+| --- | --- | --- | --- |
+| 1. |  |  |  |
+| 2. |  |  |  |
+| 3. |  |  |  |
+| 4. |  |  |  |
+| 5. |  |  |  |
 
-| Name | Current Skill Level (1-5) | Learning Resource (Course/Doc) |
-| --- | --- | --- |
-| 1. | | |
-| 2. | | |
-| 3. | | |
-| 4. | | |
-| 5. | | |
+If the selected stack creates a clear execution risk, document one of the following before Gate 2:
 
-Adviser’s Rule: If the average skill level for the chosen stack is below 3, the team must provide a "Sprint 1 Learning Plan" or change their stack to a language they already know (e.g., Java/C#).
+- a Sprint 1 learning plan
+- a simplified implementation approach
+- an approved fallback stack
 
 ## IV. Environmental Readiness
 
-IDE/Compiler: _____________________________________________________
-GitHub Action Workflow: (How will you test this? e.g., PyTest, Jest) _________
-Hardware Availability: Do you already own the sensors/devices? [ ] Yes [ ] No
+| Check | Response | Notes |
+| --- | --- | --- |
+| Development environment is available to the team | [ ] Yes [ ] No |  |
+| Required IDE, compiler, runtime, or SDK is installed | [ ] Yes [ ] No |  |
+| CI workflow approach is defined | [ ] Yes [ ] No |  |
+| Testing framework is identified | [ ] Yes [ ] No |  |
+| Required hardware or external services are available | [ ] Yes [ ] No |  |
+| Data source or sample dataset is available when needed | [ ] Yes [ ] No |  |
 
-## V. Advisor and Research Coordinator Sign-off:
-"I confirm this stack supports the User Stories in the Backlog."
+## V. Feasibility Summary
 
-Research Coordinator Username: _________________________
+### Why this stack is realistic for the approved MVP
 
-"I approve this stack as technically viable and maintainable for THS 102."
 
-Adviser Username: _________________________
+### Main technical risks
+
+
+### Approved mitigation or fallback plan
+
+
+## VI. Adviser and Research Coordinator Review
+
+| Role | Name | Approval Note | Date |
+| --- | --- | --- | --- |
+| Research Coordinator |  | I confirm that the stack is documented clearly enough for process review. |  |
+| Adviser |  | I confirm that the stack is technically viable for the approved MVP. |  |

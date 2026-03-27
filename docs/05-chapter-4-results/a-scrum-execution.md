@@ -1,8 +1,40 @@
 # Scrum Execution
 
-> _Replace this placeholder with your content._
+Use this section to report how the team executed the approved Scrum plan from **Sprint 0** through the final implementation sprint.
 
-Summarize sprint-by-sprint execution, completed backlog items, development evidence, and key implementation decisions.
+## Recommended Coverage
+
+Summarize the following:
+
+- the sprint goal for each sprint
+- the major backlog items completed
+- important carryover or deferred work
+- key implementation decisions made during the sprint
+- repository evidence such as issues, pull requests, release branches, or tags
+- blockers and how the team responded
+
+## Suggested Structure
+
+### Sprint 0
+
+Describe how the team established the repositories, backlog, architecture direction, validation plan, and project controls.
+
+### Sprint 1 and Later Sprints
+
+For each sprint, report:
+
+| Item | Details |
+| --- | --- |
+| Sprint Goal |  |
+| Covered Dates |  |
+| Completed Stories or Issues |  |
+| Important Evidence |  |
+| Blockers or Scope Changes |  |
+| Review Outcome |  |
+
+## Writing Reminder
+
+Write this section in past tense in THS 102. Focus on actual execution evidence rather than generic Scrum definitions.
 
 
 ---

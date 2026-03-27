@@ -1,35 +1,62 @@
 # Gate 2 - Proposal Defense
 
-## 📅 Proposal Defense: The "Blueprint Audit" Activities
-To keep the 17-week momentum, the defense should be a 30-minute high-intensity session structured as follows:
+Use this appendix to record whether the project is ready to proceed from planning into full implementation.
+
+## Suggested Proposal Defense Flow
+
+The actual time allocation may vary by course schedule, but the session should normally cover the following:
 
 | Time | Activity | Focus |
 | --- | --- | --- |
-| 00-05 min | The Problem Pitch | Presentation of the "I" (Introduction). Must prove the problem is real and the "Technical Gap" exists. |
-| 05-15 min | The Technical "M" | Deep dive into Methods: System Architecture, ERDs, and the specific Algorithm/Logic to be used. |
-| 15-20 min | The Backlog Walkthrough | Showing the GitHub Project Board. Highlighting the User Stories for Sprints 1 and 2. |
-| 20-30 min | The Panel "Grilling" | Questioning the feasibility, the tech stack, and the "Definition of Done." |
+| Part 1 | Problem and scope review | Confirm that the problem, objectives, literature basis, and MVP boundaries are defensible. |
+| Part 2 | Methods and architecture review | Review the architecture, logic flow, backlog, definition of done, and validation plan. |
+| Part 3 | Repository and execution review | Verify repository setup, project board readiness, and Sprint 1 implementation feasibility. |
+| Part 4 | Panel questioning | Resolve issues on feasibility, measurement, and scope control. |
 
-# 📝 Proposal Defense Rubric (THS 101)Team Number: 
+# Proposal Defense Rubric (THS 101)
 
-## Pillar 1: The "I" - Introduction & Problem Rigor (20%)Evaluates the "Why" and the research foundation.
+Team Number:
+
+## Pillar 1: The "I" - Introduction and Problem Rigor (20%)
+
+Evaluates the research foundation and project direction.
 
 | Criteria | 5 (Excellent) | 3 (Developing) | 1 (Poor) |Score |
 | --- | --- | --- | --- | --- |
-| Problem & Gap | Problem is quantified (data-driven); Technical gap is clearly defined. | Problem is clear but lacks specific metrics or strong literature support. | Problem is vague or "invented." No clear gap identified. | /10 |
-| Research Objectives | Follows the Standardized 3 Objectives (Analyze, Design & Implement, Validate). |Objectives are present but poorly mapped to the specific project. | Objectives are missing or non-functional. | /10 |
+| Problem and Gap | Problem is specific, evidence-based, and supported by a clear technical gap. | Problem is understandable but lacks strong evidence or a clear gap statement. | Problem is vague, unverified, or disconnected from a technical need. | /10 |
+| Research Objectives | Objectives are specific and clearly aligned to RQ1, RQ2, and RQ3. | Objectives exist but are weakly written or poorly aligned to the project. | Objectives are missing or not usable for implementation and validation. | /10 |
 
-## Pillar 2: The "M" - Methods & Technical Design (50%)Evaluates the "How." This is the core of the CS degree.
+## Pillar 2: The "M" - Methods and Technical Design (50%)
 
-| Criteria | 5 (Excellent) | 3 (Developing) | 1 (Poor) | Score |
-| --- | --- | --- | --- | --- |
-| Architecture Rigor | Full system stack is detailed; Block diagrams and API flows are professional. | Architecture is present but lacks detail on data flow or integration points. | Diagrams are messy or logically impossible to build. | /20 |
-| Core Logic/Alg. | The specific algorithm or logic is detailed (e.g., pseudo-code or flowcharts). | Algorithm is mentioned by name but not "unpacked" or explained. | No core logic identified; project is purely CRUD. | /20 |
-| Validation Design | Clear plan for Unit Testing (70% target) and SUS/UAT metrics. | Mentions testing but lacks specific tools (e.g., PyTest, Jest) or targets. | No scientific validation plan. | /10 |
-
-## Pillar 3: The Roadmap - Backlog & Scrum Readiness (30%)Evaluates the "When" and the team's ability to execute.
+Evaluates how the team intends to build and measure the project.
 
 | Criteria | 5 (Excellent) | 3 (Developing) | 1 (Poor) | Score |
 | --- | --- | --- | --- | --- |
-| Backlog Maturity | All Sprints (1-4) have prioritized User Stories; follows INVEST criteria. | Only Sprint 1 is clear; other stories are vague or poorly written. | Backlog is empty or not hosted on GitHub Projects. | /15 |
-| GitHub Readineess | Repo has README.md, TECH_STACK.md, and all team roles are assigned. | Repo exists but is missing mandatory documentation/audit files. | No GitHub Classroom activity; team is not organized. | /15 |
+| Architecture Rigor | The architecture, data flow, and repository separation are clear and buildable. | The architecture exists but still lacks important implementation detail. | The architecture is incomplete or not feasible. | /20 |
+| Core Logic or Algorithm | The project explains the specific technical mechanism to be built and how it supports the research objective. | The core logic is named but not explained well enough for implementation. | No meaningful core logic is identified. | /20 |
+| Validation Design | The plan defines the actual evidence to be gathered, including tests, SUS when applicable, and other justified metrics. | Testing is mentioned but the evidence plan is incomplete or poorly defined. | Validation is missing or purely subjective. | /10 |
+
+## Pillar 3: The Roadmap - Backlog and Scrum Readiness (30%)
+
+Evaluates the team's ability to execute within the term.
+
+| Criteria | 5 (Excellent) | 3 (Developing) | 1 (Poor) | Score |
+| --- | --- | --- | --- | --- |
+| Backlog Maturity | The product backlog is populated, prioritized, and ready to support Sprint 1. | A backlog exists but is still too vague or incomplete for reliable sprint planning. | No usable backlog exists. | /15 |
+| Repository and Workflow Readiness | Documentation and system repositories are organized, review rules are defined, and key Sprint 0 artifacts are in place. | Repositories exist but important controls or required artifacts are still incomplete. | Repository structure and workflow controls are not ready for implementation. | /15 |
+
+## Gate 2 Decision
+
+- [ ] Approved and ready to proceed to THS 102 implementation
+- [ ] Approved with required revisions
+- [ ] Not yet ready
+
+## Panel Notes
+
+Strengths:
+
+
+Required Revisions:
+
+
+Decision Summary:

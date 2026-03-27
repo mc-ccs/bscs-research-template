@@ -1,19 +1,19 @@
 # Sprint 0 Retrospective
 
 
-# Facilitator (Scrum Master): _____________________  
+# Facilitator: _____________________  
 # Date: _______________
 
 # 1. The "Start, Stop, Continue" Board
 The team brainstorms items for each category to improve their workflow for the next 3 weeks.
-| Category | Items | Action Owner |
-| --- | --- | --- |
-| 🚀 START Doing | e.g., Reviewing PRs within 24 hours of posting. | Dev Lead |
-| 🛑 STOP Doing | e.g., Coding on the main branch directly. | Whole Team |
-| ✅ CONTINUE Doing | e.g., Our Wednesday sync-ups with the Advisor. | Scrum Master |
+| Category | Items |
+| --- | --- |
+| 🚀 START Doing | e.g., Reviewing PRs within 24 hours of posting. |
+| 🛑 STOP Doing | e.g., Coding on the main branch directly. |
+| ✅ CONTINUE Doing | e.g., Our Wednesday sync-ups with the Advisor. |
 
 # 2. Team Health Check (Anonymous 1-5 Scale)
-Each member votes on these four pillars. If the average is below 3, the Scrum Master (RC) must be notified of a potential "Team Crash."
+Each member votes on these four pillars. If the average is below 3, the Research Coordinator must be notified of a potential "Team Crash."
 1. Velocity: Are we moving fast enough to hit our 17-week deadline? [ ]
 2. Code Quality: Are we proud of the code, or is it "spaghetti"? [ ]
 3. Communication: Are the Dev and Doc teams talking to each other? [ ]
@@ -23,4 +23,8 @@ Each member votes on these four pillars. If the average is below 3, the Scrum Ma
 
 Identify exactly three things the team will change. These must be measurable.Improvement 1: _______________________________________________________Improvement 2: _______________________________________________________Improvement 3: _______________________________________________________
 
-💡 Instructions for the Student Scrum MasterNeutrality: Your job is to listen, not to blame. If "Developer A" didn't finish their task, ask why (e.g., "Was the task too big?"), rather than accusing them.The "Vegas Rule": What is said in the Retrospective stays in the Retrospective—unless it involves an Ethical Breach or Plagiarism, which must be reported to the Research Coordinator (SM) immediately.Action Items: Don't just complain. Every "Stop doing" item needs a concrete "Start doing" replacement.
+💡 Instructions for the Student Facilitator
+
+Neutrality: Your job is to listen, not to blame. If "Developer A" didn't finish their task, ask why (e.g., "Was the task too big?"), rather than accusing them.
+The "Vegas Rule": What is said in the Retrospective stays in the Retrospective—unless it involves an Ethical Breach or Plagiarism, which must be reported to the Research Coordinator (SM) immediately.
+Action Items: Don't just complain. Every "Stop doing" item needs a concrete "Start doing" replacement.

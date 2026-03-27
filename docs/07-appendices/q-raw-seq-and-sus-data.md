@@ -125,5 +125,7 @@ Use this section for notable respondent comments, repeated usability issues, or 
 - Use the same respondent IDs here and in the discussion chapter.
 - If the team has more than five respondents or more than five tasks, duplicate the needed rows or columns.
 
+If SUS is not applicable to the project, keep this appendix only if another approved raw validation instrument is being preserved here. Otherwise, document the exception clearly in the manuscript and the relevant appendix.
+
 ---
-[⬅️ Previous](s-gate-4-final-defense.md)
+[⬅️ Previous](p-gate-3-pre-defense.md) | [Next ➡️](r-final-sprint-retrospective.md)
