@@ -4,6 +4,8 @@ This section should define the minimum conditions that a backlog item must satis
 
 Use the institutional baseline below, then add project-specific quality checks when needed.
 
+Treat the items in the minimum Definition of Done as required unless the team has a documented approved exception. For items marked "when applicable," the team should state in this section why the item applies or does not apply to the project.
+
 ## Institutional Minimum Definition of Done
 
 A backlog item should normally be counted as complete only when:
@@ -37,6 +39,8 @@ The team may extend the Definition of Done with additional requirements such as:
 | CI checks passed when applicable | Yes | Use `N/A` only with justification. |
 | Documentation updated | Yes | Include manuscript, README, or appendix updates when relevant. |
 | Extra project-specific condition | No | Add rows as needed. |
+
+If `N/A` is used for a minimum item, identify the approval basis in the notes column.
 
 ## Writing Reminder
 

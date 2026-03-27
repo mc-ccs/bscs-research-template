@@ -27,6 +27,8 @@ Document realistic constraints such as unavailable integrations, limited trainin
 
 ## Optional MoSCoW Table
 
+This table is only a scope-writing aid. It does not replace the product backlog, sprint planning, or GitHub issue prioritization used elsewhere in the project.
+
 | Priority | Features |
 | --- | --- |
 | Must Have |  |

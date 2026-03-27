@@ -2,9 +2,18 @@
 
 Use this section to present the final validation evidence for the system and explain whether the project objectives were met.
 
+## Minimum Required Evidence
+
+At minimum, this section should show:
+
+- documented functional validation of the core MVP features
+- the main technical verification evidence used by the project
+- user validation evidence for user-facing systems or the approved alternative metric for non-user-facing systems
+- a short explanation of whether the project met its validation basis
+
 ## Recommended Coverage
 
-Report the actual evidence gathered during validation, such as:
+Beyond the minimum required evidence, report the strongest additional evidence gathered during validation, such as:
 
 - functional test results
 - automated testing or CI evidence when applicable
@@ -49,7 +58,7 @@ Explain clearly:
 
 ## Writing Reminder
 
-If a metric was not applicable, say so directly and identify the replacement evidence used instead.
+If a metric was not applicable, say so directly, identify the replacement evidence used instead, and make sure the approved exception is traceable in the validation plan or review record.
 
 
 ---
