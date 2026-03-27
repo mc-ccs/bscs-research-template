@@ -62,6 +62,21 @@ docs/
 │   ├── c-title-proposal-and-problem-statement-form.md
 │   ├── d-comparative-summary.md
 │   ├── e-gate-1-title-defense.md
+│   ├── f-tech-stack.md
+│   ├── g-sprint-0-retrospective.md
+│   ├── h-sprint-0-review-and-sprint-1-planning.md
+│   ├── i-gate-2-proposal-defense.md
+│   ├── j-sprint-1-retrospective.md
+│   ├── k-sprint-1-review-and-sprint-2-planning.md
+│   ├── l-sprint-2-retrospective.md
+│   ├── m-sprint-2-review-and-sprint-3-planning.md
+│   ├── n-sprint-3-retrospective.md
+│   ├── o-sprint-3-review-and-final-sprint-planning.md
+│   ├── p-gate-3-pre-defense.md
+│   ├── q-raw-seq-and-sus-data.md
+│   ├── r-final-sprint-retrospective.md
+│   ├── s-final-sprint-3-review.md
+│   └── t-gate-4-final-defense.md
 ├── img/
 └── src/
 ```

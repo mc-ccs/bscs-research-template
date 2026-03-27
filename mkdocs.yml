@@ -57,10 +57,23 @@ nav:
       - Member 1: 07-appendices/b-topic-mine/member1.md
       - Member 2: 07-appendices/b-topic-mine/member2.md
     - Title Proposal and Problem Statement Form: 07-appendices/c-title-proposal-and-problem-statement-form.md
-    - Title Presentation: 07-appendices/d-comparative-summary.md
+    - Comparative Summary: 07-appendices/d-comparative-summary.md
     - Gate 1 Title Defense: 07-appendices/e-gate-1-title-defense.md
+    - Tech Stack: 07-appendices/f-tech-stack.md
+    - Sprint 0 Retrospective: 07-appendices/g-sprint-0-retrospective.md
     - Sprint 0 Review and Sprint 1 Planning: 07-appendices/h-sprint-0-review-and-sprint-1-planning.md
-    - Raw SEQ and SUS Data: 07-appendices/t-raw-seq-and-sus-data.md
+    - Gate 2 Proposal Defense: 07-appendices/i-gate-2-proposal-defense.md
+    - Sprint 1 Retrospective: 07-appendices/j-sprint-1-retrospective.md
+    - Sprint 1 Review and Sprint 2 Planning: 07-appendices/k-sprint-1-review-and-sprint-2-planning.md
+    - Sprint 2 Retrospective: 07-appendices/l-sprint-2-retrospective.md
+    - Sprint 2 Review and Sprint 3 Planning: 07-appendices/m-sprint-2-review-and-sprint-3-planning.md
+    - Sprint 3 Retrospective: 07-appendices/n-sprint-3-retrospective.md
+    - Sprint 3 Review and Final Sprint Planning: 07-appendices/o-sprint-3-review-and-final-sprint-planning.md
+    - Gate 3 Pre-Defense: 07-appendices/p-gate-3-pre-defense.md
+    - Raw SEQ and SUS Data: 07-appendices/q-raw-seq-and-sus-data.md
+    - Final Sprint Retrospective: 07-appendices/r-final-sprint-retrospective.md
+    - Final Sprint Review: 07-appendices/s-final-sprint-review.md
+    - Gate 4 Final Defense: 07-appendices/t-gate-4-final-defense.md
 extra:
   social:
     - icon: fontawesome/brands/github
