@@ -1,13 +1,13 @@
-# 📘 Thesis Documentation Template
+# 📘 Research Documentation Template
 
-This repository is a modular thesis-writing template built with:
+This repository is a modular research-writing template built with:
 
 - **Markdown** for writing and versioning content
 - **MkDocs + Material** for local preview and web publishing
 - **GitHub** for collaboration and progress tracking
 - **GitHub Actions** for validation and deployment
 
-The thesis is organized by chapter and section so teams can write, review, and revise content without working in one large document.
+The research manuscript is organized by chapter and section so teams can write, review, and revise content without working in one large document.
 
 This repository is distributed to students through a GitHub Classroom assignment, so each student or group starts from an assigned repository before cloning it locally.
 
@@ -15,7 +15,7 @@ This repository is distributed to students through a GitHub Classroom assignment
 
 # 📁 Project Structure
 
-All thesis content lives in the `docs/` directory.
+All research manuscript content lives in the `docs/` directory.
 
 ```text
 docs/
@@ -81,7 +81,7 @@ docs/
 └── src/
 ```
 
-This structure keeps the thesis:
+This structure keeps the research manuscript:
 
 - Modular
 - Easier to review
@@ -113,7 +113,7 @@ Edit the Markdown files inside `docs/`.
 
 Use these folders consistently:
 
-- `docs/` for thesis chapters and appendices
+- `docs/` for research chapters and appendices
 - `docs/img/` for screenshots, diagrams, and figures
 - `docs/src/` for source code, scripts, datasets, or supporting files
 
@@ -249,7 +249,7 @@ Staging:    https://<username>.github.io/<repository-name>/<release-name>/
 flowchart TD
     A[Accept GitHub Classroom Assignment] --> B[Clone Repository]
     B --> C[Create Working Branch]
-    C --> D[Edit Thesis Files in docs/]
+    C --> D[Edit Research Files in docs/]
     D --> E[Preview with MkDocs]
     E --> F[Commit and Push Changes]
     F --> G[Open Pull Request to Develop]
@@ -269,7 +269,7 @@ flowchart TD
 
 This template gives you:
 
-- A chapter-based thesis structure
+- A chapter-based research structure
 - A clean Markdown authoring workflow
 - Local preview with MkDocs
 - Team collaboration through Git and pull requests

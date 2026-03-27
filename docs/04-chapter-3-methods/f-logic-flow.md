@@ -1,6 +1,6 @@
 # Logic Flow
 
-This section describes the end-to-end operational flow of the proposed system. While the system architecture explains how the major components are organized, the logic flow explains how data moves through the application during actual use. The sequence below is written as a reusable template for a typical thesis system and should be revised to reflect the project's real workflow.
+This section describes the end-to-end operational flow of the proposed system. While the system architecture explains how the major components are organized, the logic flow explains how data moves through the application during actual use. The sequence below is written as a reusable template for a typical research system and should be revised to reflect the project's real workflow.
 
 ## General Processing Flow
 
@@ -17,7 +17,7 @@ This section describes the end-to-end operational flow of the proposed system. W
 
 ## Module-Level Logic
 
-The workflow of most thesis systems can be divided into four recurring phases:
+The workflow of most research systems can be divided into four recurring phases:
 
 ### 1. Input Phase
 
@@ -35,7 +35,7 @@ Before business logic is executed, the application checks the submitted data aga
 
 ### 3. Processing Phase
 
-Once validation succeeds, the project-specific logic is executed. Depending on the thesis topic, this may include:
+Once validation succeeds, the project-specific logic is executed. Depending on the research topic, this may include:
 
 - Rule-based decision making
 - Statistical computation
@@ -44,7 +44,7 @@ Once validation succeeds, the project-specific logic is executed. Depending on t
 - Search and retrieval
 - Report generation
 
-This is the core stage where the main contribution of the thesis should be visible.
+This is the core stage where the main contribution of the research project should be visible.
 
 ### 4. Output Phase
 
@@ -59,7 +59,7 @@ The result of the processing stage is then displayed or exported. Common outputs
 
 ## Exception and Error Handling Flow
 
-The logic flow should also account for non-ideal scenarios. A complete thesis system should define what happens when:
+The logic flow should also account for non-ideal scenarios. A complete research system should define what happens when:
 
 - A user enters incomplete or invalid data
 - Authentication fails

@@ -96,7 +96,7 @@ All validation evidence should be summarized in Chapter 4. Supporting materials 
 
 ## Final Customization Notes
 
-Before final submission, tailor this validation plan to the actual thesis by specifying:
+Before final submission, tailor this validation plan to the actual research project by specifying:
 
 - The exact testing instruments used
 - The exact number and type of evaluators

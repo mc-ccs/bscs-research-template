@@ -1,6 +1,6 @@
 # System Architecture
 
-This section presents a reference system architecture for a typical BSCS thesis project that delivers a web-based or mobile-supported application. The diagram below is intentionally written as a reusable baseline: students should replace the module names with the actual services, actors, and deployment components used by their study.
+This section presents a reference system architecture for a typical BSCS research project that delivers a web-based or mobile-supported application. The diagram below is intentionally written as a reusable baseline: students should replace the module names with the actual services, actors, and deployment components used by their study.
 
 ![Architecture](../img/architecture-diagram.png)
 
@@ -20,7 +20,7 @@ This layered arrangement keeps presentation, processing, and persistence concern
 
 ### 1. User Roles
 
-The architecture assumes three common actors: students or respondents, faculty users such as advisers or panel members, and administrators. In an actual thesis implementation, these roles may be renamed depending on the domain. For example, a healthcare project may use patients and clinicians, while an inventory project may use staff and managers.
+The architecture assumes three common actors: students or respondents, faculty users such as advisers or panel members, and administrators. In an actual research implementation, these roles may be renamed depending on the domain. For example, a healthcare project may use patients and clinicians, while an inventory project may use staff and managers.
 
 ### 2. Client Layer
 
@@ -34,7 +34,7 @@ The client layer is responsible for collecting input and presenting system outpu
 
 ### 3. Core Application Services
 
-The core application layer contains the main processing logic of the project. In a completed thesis, this is the layer where the study's algorithm, workflow engine, decision rules, or analytics module should be placed. Typical services include:
+The core application layer contains the main processing logic of the project. In a completed research project, this is the layer where the study's algorithm, workflow engine, decision rules, or analytics module should be placed. Typical services include:
 
 - Authentication and access control
 - Business rules and validation
@@ -49,7 +49,7 @@ The data layer stores the information needed by the system during normal operati
 
 ### 5. Deployment and Integrations
 
-The final layer describes where the system runs and what outside services it depends on. Depending on the thesis scope, this may include a cloud host, on-premise server, email gateway, SMS provider, or third-party API.
+The final layer describes where the system runs and what outside services it depends on. Depending on the approved scope, this may include a cloud host, on-premise server, email gateway, SMS provider, or third-party API.
 
 ## Data Flow Summary
 
@@ -64,7 +64,7 @@ The expected interaction flow is as follows:
 
 ## Adaptation Guide
 
-Before final submission, revise this section so it matches the actual thesis project. At minimum, replace the generic labels in the figure and text with the following project-specific details:
+Before final submission, revise this section so it matches the actual research project. At minimum, replace the generic labels in the figure and text with the following project-specific details:
 
 - Actual system users
 - Actual frontend technology
@@ -72,7 +72,7 @@ Before final submission, revise this section so it matches the actual thesis pro
 - Actual database or storage platform
 - Actual external services and deployment target
 
-If the thesis includes a machine learning model, optimization algorithm, or decision support component, it should be explicitly named under the core application services subsection.
+If the research project includes a machine learning model, optimization algorithm, or decision support component, it should be explicitly named under the core application services subsection.
 
 
 ---

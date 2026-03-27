@@ -1,5 +1,5 @@
-site_name: Thesis Project
-site_description: A modular thesis written in Markdown and published with MkDocs
+site_name: Research Project
+site_description: A modular research manuscript written in Markdown and published with MkDocs
 theme:
   name: material
   features:

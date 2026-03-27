@@ -16,7 +16,7 @@ Example (AgriTech): Currently, small-scale cacao farmers in the Bicol Region rel
 ```
 
 ## III. Technical Architecture (The "How")
-A valid BSCS thesis must include a "High-Level Design" of the logic.
+A valid BSCS research project must include a "High-Level Design" of the logic.
 
 Proposed Core Innovation: `(e.g., Convolutional Neural Network for Image Recognition, Dijkstra’s Algorithm for Logistics, AES-256 for Secure Messaging).`
 

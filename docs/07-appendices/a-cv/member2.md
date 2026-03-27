@@ -5,7 +5,7 @@
 ## 1. Public Profile
 
 **Full Name:** [Enter full name]  
-**Role in the Thesis Project:** [Example: Lead Developer, Research Writer, QA Lead]  
+**Role in the Research Project:** [Example: Lead Developer, Research Writer, QA Lead]  
 **Program:** Bachelor of Science in Computer Science  
 **Institution:** [Enter institution name]  
 **Professional or Academic Email:** [Use a public-safe contact address]  
@@ -17,7 +17,7 @@
 
 Write 2 to 4 sentences describing this contributor's academic background, technical interests, and role in the project.
 
-## 3. Thesis Contributions
+## 3. Research Contributions
 
 - [Example: Conducted literature review and requirements analysis]
 - [Example: Implemented system modules or datasets]

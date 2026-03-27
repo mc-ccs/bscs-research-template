@@ -1,6 +1,6 @@
-# Thesis Repository
+# Research Repository
 
-Welcome to the official thesis repository for **[Project Title]**.
+Welcome to the official research repository for **[Project Title]**.
 
 Use the navigation at the left (MkDocs) or the links below to browse by section.
 
