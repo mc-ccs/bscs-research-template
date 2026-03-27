@@ -1,8 +1,33 @@
 # Institutional Framework
 
-> _Replace this placeholder with your content._
+Use this section to explain the institutional framework that governs the project and how the team applied it in the study.
 
-Explain the institutional research framework, including how the project uses DSR, Scrum, and the program's required checkpoints.
+## Recommended Coverage
+
+Describe the following:
+
+- the use of **Design Science Research** as the institutional research design
+- the alignment of the project to **RQ1**, **RQ2**, and **RQ3**
+- the use of **Scrum** as the development methodology for planning, implementation, review, and improvement
+- the major institutional checkpoints such as Gate 1, Gate 2, Gate 3, and Gate 4
+
+## Suggested Structure
+
+### 1. Design Science Research
+
+Explain that the study focuses on defining the problem, building an artifact, and validating that artifact.
+
+### 2. Scrum-Based Development
+
+Explain how the backlog, sprint structure, reviews, and retrospectives support the implementation process.
+
+### 3. Institutional Checkpoints
+
+Summarize how the gates and appendix records support approval, monitoring, and final evaluation.
+
+## Writing Reminder
+
+Keep this section focused on how the framework was applied to the project. Avoid spending excessive space justifying why DSR or Scrum was chosen, because they are already institutional defaults.
 
 ---
 [⬅️ Previous](../03-chapter-2-related-literature/c-technical-gap.md) | [Next ➡️](b-product-backlog.md)

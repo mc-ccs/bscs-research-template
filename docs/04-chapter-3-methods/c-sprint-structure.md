@@ -1,6 +1,28 @@
-# Block Diagrams
+# Sprint Structure
 
-> _Replace this placeholder with your content._
+Use this section to explain how the project work was distributed across Sprint 0 and the succeeding development sprints.
+
+## Recommended Coverage
+
+Describe the following:
+
+- the purpose of **Sprint 0** in preparing the repositories, backlog, architecture, and validation plan
+- the number of development sprints used in the project
+- the normal activities performed in each sprint, such as planning, execution, review, and retrospective
+- how sprint outputs were documented in the appendices and repositories
+
+## Suggested Table
+
+| Sprint | Main Objective | Typical Outputs |
+| --- | --- | --- |
+| Sprint 0 | Establish project foundation and planning artifacts | backlog, architecture draft, repository setup, Sprint 0 records |
+| Sprint 1 |  |  |
+| Sprint 2 |  |  |
+| Sprint 3 or Final Sprint |  |  |
+
+## Writing Reminder
+
+In THS 101, this section may describe the planned sprint structure in future tense. In THS 102, revise it to reflect the actual sprint sequence and outputs completed by the team.
 
 
 
