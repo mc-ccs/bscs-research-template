@@ -11,6 +11,8 @@ The research manuscript is organized by chapter and section so teams can write, 
 
 This repository is distributed to students through a GitHub Classroom assignment, so each student or group starts from an assigned repository before cloning it locally.
 
+The template is designed to work together with the institutional research manual. Students should use the manual for policy, workflow, and evaluation rules, and use this repository as the working manuscript and appendix structure.
+
 ---
 
 # 📁 Project Structure
@@ -111,6 +113,8 @@ pip install mkdocs mkdocs-material
 
 Edit the Markdown files inside `docs/`.
 
+Most chapter pages now include structured scaffolds. Replace the guide text with project-specific content as the manuscript develops.
+
 Use these folders consistently:
 
 - `docs/` for research chapters and appendices
@@ -186,7 +190,9 @@ Promotion flow:
 
 1. Merge `doc/*` or `rev/*` into `develop`
 2. Create or update `release/<name>` from `develop`
-3. Merge to `main` after final approval
+3. Merge to `main` only after the required release-related review and approval
+
+For release-related merges to `main`, the normal institutional expectation is review by both the adviser and the research coordinator.
 
 ## 5. Sync Before Starting New Work
 
@@ -270,6 +276,7 @@ flowchart TD
 This template gives you:
 
 - A chapter-based research structure
+- Student-facing scaffolds for the main manuscript sections
 - A clean Markdown authoring workflow
 - Local preview with MkDocs
 - Team collaboration through Git and pull requests

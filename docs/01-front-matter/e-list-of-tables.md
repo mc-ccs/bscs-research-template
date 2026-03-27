@@ -1,6 +1,18 @@
 # List of Tables
 
-> _Replace this placeholder with your content._
+Use this page only if the manuscript includes enough labeled tables to require a separate list.
+
+## Suggested Format
+
+| Table No. | Title | Page or Section |
+| --- | --- | --- |
+| Table 1 |  |  |
+| Table 2 |  |  |
+| Table 3 |  |  |
+
+## Writing Reminder
+
+Include only the final tables that appear in the manuscript, such as synthesis matrices, backlog summaries, validation summaries, or result tables.
 
 
 

@@ -1,9 +1,20 @@
-# Conclusions and Recommendations
+# Limitations
 
-> _Replace this placeholder with your content._
+Use this section to state the real limitations of the study and the developed system.
 
+## Recommended Coverage
 
-Summarize findings, limitations, and future work.
+Identify limitations such as:
+
+- restricted MVP scope
+- limited respondent count or evaluation setting
+- unavailable integrations or datasets
+- prototype-only deployment conditions
+- algorithmic, performance, or usability constraints still present at final defense
+
+## Writing Reminder
+
+Limitations should be specific and honest. Do not hide important constraints, but do distinguish between approved scope boundaries and unexpected implementation problems.
 
 
 ---

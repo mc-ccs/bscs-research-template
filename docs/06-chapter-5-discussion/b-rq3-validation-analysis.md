@@ -1,9 +1,19 @@
-# Conclusions and Recommendations
+# RQ3 Validation Analysis
 
-> _Replace this placeholder with your content._
+Use this section to interpret the validation results and explain what they mean for the success, usefulness, and readiness of the developed artifact.
 
+## Recommended Coverage
 
-Summarize findings, limitations, and future work.
+Discuss the following:
+
+- whether the system met the approved validation criteria
+- what the functional testing, usability results, or technical metrics suggest about the artifact
+- where the strongest evidence of success was observed
+- where the validation still reveals weaknesses or unresolved issues
+
+## Writing Reminder
+
+Do not present raw data here for the first time. This section should interpret the results already shown in Chapter 4 and connect them to RQ3.
 
 
 ---
