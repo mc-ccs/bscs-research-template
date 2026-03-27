@@ -18,5 +18,4 @@ Recommendations should follow directly from the findings and limitations. Avoid 
 
 
 ---
-[⬅️ Previous](c-limitations.md) | [Next ➡️](../07-appendices/evaluation-tools.md)
 [⬅️ Previous](c-limitations.md) | [Next ➡️](../07-appendices/a-cv/member1.md)
