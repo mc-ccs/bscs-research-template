@@ -1,6 +1,6 @@
 # Final Sprint Review
 
-Use this appendix as the formal working record for the closeout of the **Final Sprint**. It is intended to be completed by the team together with the **adviser** and **research coordinator** after the final sprint outputs have been reviewed.
+Use this appendix as the formal working record for the closeout of the **Final Sprint**. It must be completed by the team together with the **adviser** and **research coordinator** after the final sprint outputs have been reviewed.
 
 ## A. Final Sprint Review Record
 
@@ -20,7 +20,7 @@ Use this appendix as the formal working record for the closeout of the **Final S
 
 ### 2. Final Sprint Output Completion Checklist
 
-Mark each item after review.
+Mark each item during review.
 
 | Expected Final Sprint Output | Status | Notes / Evidence |
 | --- | --- | --- |
@@ -41,7 +41,7 @@ This section verifies the institutional review responsibilities for the final sp
 | System repository release-related work to `main` was reviewed. | [ ] | [ ] |  |
 | Required pull request reviews were completed before merge. | [ ] | [ ] |  |
 | Final sprint evidence is traceable to issues, pull requests, release references, and tags. | [ ] | [ ] |  |
-| CI/CD workflow results were checked when applicable. | [ ] | [ ] |  |
+| CI/CD workflow results were checked, or the approved exception basis was recorded. | [ ] | [ ] |  |
 | Security or dependency checks were reviewed when available. | [ ] | [ ] |  |
 
 ### 4. Final Sprint Review Summary

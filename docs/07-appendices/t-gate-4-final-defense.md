@@ -2,6 +2,8 @@
 
 Use this record to capture the final institutional evaluation of the project. This gate applies to both capstone projects and theses, even if the local schedule uses labels such as final defense, final presentation, or terminal review.
 
+The team must complete the required manuscript, repository, and validation evidence before Gate 4 is treated as complete.
+
 ## Team Information
 
 | Field | Details |

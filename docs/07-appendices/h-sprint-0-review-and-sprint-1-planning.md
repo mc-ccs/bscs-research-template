@@ -1,6 +1,6 @@
 # Sprint 0 Review and Sprint 1 Planning
 
-Use this appendix as the formal working record for the closeout of **Sprint 0** and the preparation of **Sprint 1**. It is intended to be completed by the team together with the **adviser** and **research coordinator** after Sprint 0 outputs have been reviewed.
+Use this appendix as the formal working record for the closeout of **Sprint 0** and the preparation of **Sprint 1**. It must be completed by the team together with the **adviser** and **research coordinator** after Sprint 0 outputs have been reviewed.
 
 ## A. Sprint 0 Review Record
 
@@ -20,7 +20,7 @@ Use this appendix as the formal working record for the closeout of **Sprint 0** 
 
 ### 2. Sprint 0 Output Completion Checklist
 
-Mark each item after review.
+Mark each item during review.
 
 | Expected Sprint 0 Output | Status | Notes / Evidence |
 | --- | --- | --- |
@@ -137,12 +137,12 @@ List the user stories or issues approved for Sprint 1. These should come from th
 
 ### 4. Sprint 1 Definition of Done Reminder
 
-Each approved backlog item for Sprint 1 should satisfy the following before it is counted as complete.
+Each approved backlog item for Sprint 1 must satisfy the following before it is counted as complete.
 
 - [ ] Work is committed to the correct repository.
 - [ ] A pull request is created and reviewed.
 - [ ] Relevant testing or verification is completed.
-- [ ] CI checks pass when applicable.
+- [ ] CI checks pass when CI is part of the approved workflow, or the approved exception basis is recorded.
 - [ ] Related documentation is updated.
 - [ ] Evidence is ready for the next sprint review.
 
@@ -155,7 +155,7 @@ For **Sprint 1**, the normal institutional review pattern is as follows:
 | Documentation repository | Adviser and Research Coordinator | Both reviewers are expected for release-related merges to `main`. |
 | System repository | Adviser and Research Coordinator | Both reviewers are expected for release-related merges to `main`. |
 
-If a different review arrangement is approved, document it here:
+If a different review arrangement is approved, it must be documented here and in the corresponding review record:
 
 
 ### 6. Risks and Early Escalation Items

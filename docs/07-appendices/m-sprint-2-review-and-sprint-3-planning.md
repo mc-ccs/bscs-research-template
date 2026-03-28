@@ -131,12 +131,12 @@ List the user stories or issues approved for Sprint 3. These should come from th
 
 ### 4. Sprint 3 Definition of Done Reminder
 
-Each approved backlog item for Sprint 3 should satisfy the following before it is counted as complete.
+Each approved backlog item for Sprint 3 must satisfy the following before it is counted as complete.
 
 - [ ] Work is committed to the correct repository.
 - [ ] A pull request is created and reviewed.
 - [ ] Relevant testing or verification is completed.
-- [ ] CI checks pass when applicable.
+- [ ] CI checks pass when CI is part of the approved workflow, or the approved exception basis is recorded.
 - [ ] Related documentation is updated.
 - [ ] Evidence is ready for the next sprint review.
 
@@ -149,7 +149,7 @@ For **Sprint 3**, the normal institutional review pattern is as follows:
 | Documentation repository | Adviser and Research Coordinator | Both reviewers are expected for release-related merges to `main`. |
 | System repository | Adviser and Research Coordinator | Both reviewers are expected for release-related merges to `main`. |
 
-If a different review arrangement is approved, document it here:
+If a different review arrangement is approved, it must be documented here and in the corresponding review record:
 
 
 ### 6. Risks and Early Escalation Items

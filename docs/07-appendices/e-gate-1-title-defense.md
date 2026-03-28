@@ -1,6 +1,6 @@
 # Gate 1 - Title Defense
 
-Use this record to capture panel evaluation of title-defense readiness. The team should complete the title proposal, topic comparison, and initial validation direction before this gate.
+Use this record to capture panel evaluation of title-defense readiness. The team must complete the title proposal, topic comparison, and initial validation direction before this gate.
 
 This gate applies to both capstone projects and theses.
 

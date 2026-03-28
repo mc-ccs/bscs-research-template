@@ -12,9 +12,9 @@ This gate applies to both capstone projects and theses.
 | Date |  |
 | Title |  |
 
-## Suggested Gate 2 Flow
+## Standard Gate 2 Flow
 
-The actual time allocation may vary by course schedule, but the session should normally cover the following:
+The actual time allocation may vary by course schedule, but the session covers the following standard review areas:
 
 | Time | Activity | Focus |
 | --- | --- | --- |
