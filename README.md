@@ -58,7 +58,7 @@ docs/
 │   └── g-validation-results.md
 ├── 06-chapter-5-discussion/
 │   ├── a-summary-of-key-findings.md
-│   ├── b-rq3-validation-analysis.md
+│   ├── b-conclusions.md
 │   ├── c-limitations.md
 │   └── d-recommendations.md
 ├── 07-appendices/

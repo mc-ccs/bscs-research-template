@@ -25,4 +25,4 @@ This section should synthesize the results, not repeat every table or screenshot
 
 
 ---
-[⬅️ Previous](../05-chapter-4-results/g-validation-results.md) | [Next ➡️](b-rq3-validation-analysis.md)
+[⬅️ Previous](../05-chapter-4-results/g-validation-results.md) | [Next ➡️](b-conclusions.md)
