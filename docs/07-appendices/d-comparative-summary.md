@@ -1,6 +1,6 @@
 # Comparative Summary of Proposed Topics
 
-Use this template to compare the proposed research topics gathered from each team member's Title Proposal and Problem Statement Form. Summarize the three strongest candidate topics, rate them using the agreed criteria, and identify the topic the team recommends pursuing.
+Use this template to compare the proposed research topics gathered from each team member's Title Proposal and Problem Statement Form. Summarize the three strongest candidate topics, rate them using the agreed criteria, and identify the topic the team will pursue.
 
 ## I. Candidate Topics for Comparison
 
@@ -72,12 +72,12 @@ Limitations:
 
 ## IV. Preferred Topic
 
-Recommended Topic:
+Selected Topic:
 
 Proposed by:
 
 ## V. Justification
 
-Provide a short justification explaining why the team recommends this topic in terms of feasibility, relevance, and personal interest or passion.
+Provide a short justification explaining why the team selected this topic in terms of feasibility, relevance, and personal interest or commitment.
 
 Short Justification:

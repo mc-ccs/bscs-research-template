@@ -57,7 +57,7 @@ If the selected stack creates a clear execution risk, document one of the follow
 | CI workflow approach is defined | [ ] Yes [ ] No |  |
 | Testing framework is identified | [ ] Yes [ ] No |  |
 | Required hardware or external services are available | [ ] Yes [ ] No |  |
-| Data source or sample dataset is available when needed | [ ] Yes [ ] No |  |
+| Data source or sample dataset is available when the approved scope requires it | [ ] Yes [ ] No |  |
 
 ## V. Feasibility Summary
 

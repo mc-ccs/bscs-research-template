@@ -41,7 +41,7 @@ This section verifies the institutional review responsibilities for Sprint 2.
 | System repository release-related work to `main` was reviewed. | [ ] | [ ] |  |
 | Required pull request reviews were completed before merge. | [ ] | [ ] |  |
 | Sprint evidence is traceable to issues, pull requests, and release references. | [ ] | [ ] |  |
-| CI/CD workflow results were checked when applicable. | [ ] | [ ] |  |
+| CI/CD workflow results were checked, or the approved exception basis was recorded. | [ ] | [ ] |  |
 | Security or dependency checks were reviewed when available. | [ ] | [ ] |  |
 
 ### 4. Sprint 2 Review Summary

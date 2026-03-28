@@ -60,7 +60,7 @@ If a respondent did not complete a task, enter `N/A` and explain the reason in t
 
 ## V. SEQ Summary Table
 
-This optional summary table can be used to compute per-task averages before writing the narrative discussion.
+This summary table should be used to compute per-task averages before writing the narrative discussion when SEQ is part of the approved validation plan.
 
 | Task Code | Mean SEQ Score | Interpretation / Notes |
 | --- | --- | --- |

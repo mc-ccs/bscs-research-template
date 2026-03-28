@@ -42,7 +42,7 @@ This pillar evaluates how the team intends to build and measure the project.
 | --- | --- | --- | --- | --- |
 | Architecture Rigor | The architecture, data flow, and repository separation are clear and buildable. | The architecture exists but still lacks important implementation detail. | The architecture is incomplete or not feasible. | /20 |
 | Core Logic or Algorithm | The project explains the specific technical mechanism to be built and how it supports the research objective. | The core logic is named but not explained well enough for implementation. | No meaningful core logic is identified. | /20 |
-| Validation Design | The plan defines the actual evidence to be gathered, including tests, SUS when applicable, and other justified metrics. | Testing is mentioned but the evidence plan is incomplete or poorly defined. | Validation is missing or purely subjective. | /10 |
+| Validation Design | The plan defines the actual evidence to be gathered, including the required tests, the user-validation basis for user-facing systems, or the approved alternative metrics for non-user-facing systems. | Testing is mentioned but the evidence plan is incomplete or poorly defined. | Validation is missing or purely subjective. | /10 |
 
 ## Pillar 3: The Roadmap - Backlog and Scrum Readiness (30%)
 

@@ -64,15 +64,15 @@ Write 2 to 4 sentences describing this contributor's academic background, techni
 **Title of Seminar/Training:** [Enter title]  
 **Organizer:** [Enter organizer]  
 **Date:** [Enter date]  
-**Remarks:** [Optional]
+**Remarks:** [State a brief note when needed; otherwise write N/A.]
 
 ## 8. Awards and Achievements
 
 - [Enter academic award, competition result, dean's list recognition, or project achievement]
 
-## 9. Optional Public Contact Note
+## 9. Public Contact Note
 
-Use only public-facing contact details on this page.
+Use only public-facing contact details on this page. If no public contact detail will be shown, write N/A.
 
 
 

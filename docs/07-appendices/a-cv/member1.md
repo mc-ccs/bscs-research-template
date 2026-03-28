@@ -82,21 +82,21 @@ List formal trainings, webinars, bootcamps, or certifications relevant to the pr
 **Title of Seminar/Training:** [Enter title]  
 **Organizer:** [Enter organizer]  
 **Date:** [Enter date]  
-**Remarks:** [Optional: certificate earned, participant, speaker, etc.]
+**Remarks:** [State the certificate earned, role, or other relevant note when present; otherwise write N/A.]
 
 **Title of Seminar/Training:** [Enter title]  
 **Organizer:** [Enter organizer]  
 **Date:** [Enter date]  
-**Remarks:** [Optional]
+**Remarks:** [State a brief note when needed; otherwise write N/A.]
 
 ## 8. Awards and Achievements
 
 - [Enter academic award, competition result, dean's list recognition, or project achievement]
 - [Enter award or achievement]
 
-## 9. Optional Public Contact Note
+## 9. Public Contact Note
 
-If readers need to contact this contributor, use a professional email address, a portfolio contact form, or an institutional profile page. Do not publish personal contact information unless the contributor explicitly wants it public.
+If readers need to contact this contributor, use a professional email address, a portfolio contact form, or an institutional profile page. If no public contact detail will be shown, write N/A. Do not publish personal contact information unless the contributor explicitly wants it public.
 
 ---
 [⬅️ Previous](../../06-chapter-5-discussion/d-recommendations.md) | [Next ➡️](member2.md)
