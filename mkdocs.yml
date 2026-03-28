@@ -1,9 +1,10 @@
-site_name: Research Project
-site_description: A modular research manuscript written in Markdown and published with MkDocs
+site_name: Research Project Website
+site_description: A modular research website written in Markdown and published with MkDocs
 theme:
   name: material
   features:
     - navigation.sections
+    - navigation.expand
     - navigation.top
     - content.code.copy
 markdown_extensions:
@@ -17,12 +18,8 @@ markdown_extensions:
   - attr_list
 nav:
   - Home: index.md
-  - Front Matter:
-    - Title Page: 01-front-matter/a-title-page.md
+  - Overview:
     - Abstract or Executive Summary: 01-front-matter/b-abstract.md
-    - Table of Contents: 01-front-matter/c-table-of-contents.md
-    - List of Figures: 01-front-matter/d-list-of-figures.md
-    - List of Tables: 01-front-matter/e-list-of-tables.md
   - Chapter 1 Introduction:
     - Project Context: 02-chapter-1-introduction/a-project-context.md
     - Purpose and Description: 02-chapter-1-introduction/b-purpose-and-description.md
@@ -79,6 +76,11 @@ nav:
     - Final Sprint Retrospective: 07-appendices/r-final-sprint-retrospective.md
     - Final Sprint Review: 07-appendices/s-final-sprint-review.md
     - Gate 4 - Final Review and Defense: 07-appendices/t-gate-4-final-defense.md
+  - Print Companion:
+    - Title Page: 01-front-matter/a-title-page.md
+    - Table of Contents: 01-front-matter/c-table-of-contents.md
+    - List of Figures: 01-front-matter/d-list-of-figures.md
+    - List of Tables: 01-front-matter/e-list-of-tables.md
 extra:
   social:
     - icon: fontawesome/brands/github

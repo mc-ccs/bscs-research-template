@@ -1,25 +1,25 @@
-# 📘 Research Documentation Template
+# 📘 Research Website Template
 
-This repository is a modular research-writing template built with:
+This repository is a modular research website template built with:
 
 - **Markdown** for writing and versioning content
 - **MkDocs + Material** for local preview and web publishing
 - **GitHub** for collaboration and progress tracking
 - **GitHub Actions** for validation and deployment
 
-The research manuscript is organized by chapter and section so teams can write, review, and revise content without working in one large document.
+The research site is organized by chapter and section so teams can write, review, and publish content without working in one large document.
 
 The template supports the standard BSCS research workflow for either a capstone project or a thesis. In this repository, both are treated as research outputs under the same institutional framework.
 
 This repository is distributed to students through a GitHub Classroom assignment, so each student or group starts from an assigned repository before cloning it locally.
 
-The template is designed to work together with the institutional research manual. Students should use the manual for policy, workflow, and evaluation rules, and use this repository as the working manuscript and appendix structure.
+The template is designed to work together with the institutional research manual. Students should use the manual for policy, workflow, and evaluation rules, and use this repository as the working website and appendix structure.
 
 ---
 
 # 📁 Project Structure
 
-All research manuscript content lives in the `docs/` directory.
+All research website content lives in the `docs/` directory.
 
 ```text
 docs/
@@ -90,12 +90,13 @@ docs/
 └── src/
 ```
 
-This structure keeps the research manuscript:
+This structure keeps the research website:
 
 - Modular
 - Easier to review
 - Easier to maintain
 - Ready for web publication
+- Easy to browse as a site instead of a print-first document
 
 For Chapter 4, Epic 4 User Stories 1 to 6 are treated as recurring sprint-reporting artifacts. Teams should update those result areas for each completed sprint, including the final sprint when applicable, while keeping the formal final defense in its own gate appendix rather than treating it as another recursive sprint record.
 
@@ -126,11 +127,11 @@ On macOS or Linux, activate the environment with `source .venv/bin/activate` ins
 
 Edit the Markdown files inside `docs/`.
 
-Most chapter pages now include structured scaffolds. Replace the guide text with project-specific content as the manuscript develops.
+Most chapter pages now include structured scaffolds. Replace the guide text with project-specific content as the website develops.
 
 Use these folders consistently:
 
-- `docs/` for research chapters and appendices
+- `docs/` for research chapters, appendices, and published pages
 - `docs/img/` for screenshots, diagrams, and figures
 - `docs/src/` for source code, scripts, datasets, or supporting files
 
@@ -291,7 +292,7 @@ flowchart TD
 This template gives you:
 
 - A chapter-based research structure
-- Student-facing scaffolds for the main manuscript sections
+- Student-facing scaffolds for the main website sections
 - A clean Markdown authoring workflow
 - Local preview with MkDocs
 - Team collaboration through Git and pull requests
