@@ -26,6 +26,7 @@ The formal gate panel for this checkpoint is the **Teacher** together with the *
 ## Pillar 1: The Technical Process (30%)
 
 This pillar evaluates how the team worked. The technical critic reviews GitHub insights.
+
 | Criteria | 5 (Excellent) | 3 (Developing) | 1 (Poor) | Score |
 | --- | --- | --- | --- | --- |
 | GitHub Audit Trail | Features, issues, pull requests, and release evidence are traceable and regularly updated. | Some work is traceable, but important links or review evidence are missing. | Repository history is too weak to verify the work. | /10 |
@@ -34,6 +35,7 @@ This pillar evaluates how the team worked. The technical critic reviews GitHub i
 
 ## Pillar 2: The Artifact (50%)
 This pillar evaluates the prototype's functionality and technical rigor.
+
 | Criteria | 5 (Excellent) | 3 (Developing) | 1 (Poor) | Score |
 | --- | --- | --- | --- | --- |
 | Core Innovation | The algorithm/logic is fully functional and addresses the Research Question. | Core logic is partially working or "mocked" (hard-coded results). | Core logic is non-functional or missing entirely. | /15 |
