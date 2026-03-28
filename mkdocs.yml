@@ -1,5 +1,5 @@
-site_name: Thesis Project
-site_description: A modular thesis written in Markdown and published with MkDocs
+site_name: Research Project
+site_description: A modular research manuscript written in Markdown and published with MkDocs
 theme:
   name: material
   features:
@@ -18,34 +18,62 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Front Matter:
-      - Title Page: 01-front-matter/title-page.md
-      - Abstract: 01-front-matter/abstract.md
-      - Table of Contents: 01-front-matter/table-of-contents.md
-      - List of Figures: 01-front-matter/list-of-figures.md
-      - List of Tables: 01-front-matter/list-of-tables.md
-      - List of Notations: 01-front-matter/list-of-notations.md
-  - Introduction:
-      - Project Context: 02-introduction/project-context.md
-      - Purpose and Description: 02-introduction/purpose-and-description.md
-      - Objectives: 02-introduction/objectives.md
-      - Scope and Limitations: 02-introduction/scope-and-limitations.md
-  - Related Literature: 03-related-literature/related-literature.md
-  - Technical Background: 04-technical-background/technical-background.md
-  - Design and Methodology:
-      - Conceptual Design: 05-design-and-methodology/conceptual-design.md
-      - System Architecture: 05-design-and-methodology/system-architecture.md
-      - Block Diagrams: 05-design-and-methodology/block-diagrams.md
-      - Algorithms: 05-design-and-methodology/algorithms.md
-  - Results and Discussion: 06-results-and-discussion/results-and-discussion.md
-  - Conclusions and Recommendations: 07-conclusions-and-recommendations/conclusions-and-recommendations.md
+    - Title Page: 01-front-matter/a-title-page.md
+    - Abstract: 01-front-matter/b-abstract.md
+    - Table of Contents: 01-front-matter/c-table-of-contents.md
+    - List of Figures: 01-front-matter/d-list-of-figures.md
+    - List of Tables: 01-front-matter/e-list-of-tables.md
+  - Chapter 1 Introduction:
+    - Project Context: 02-chapter-1-introduction/a-project-context.md
+    - Purpose and Description: 02-chapter-1-introduction/b-purpose-and-description.md
+    - Objectives and RQ Alignment: 02-chapter-1-introduction/c-objectives-rq-alignment.md
+    - Scope and MVP: 02-chapter-1-introduction/d-scope-and-limitation.md
+  - Chapter 2 Related Literature:
+    - Domain Literature: 03-chapter-2-related-literature/a-domain-literature.md
+    - Synthesis Matrix: 03-chapter-2-related-literature/b-synthesis-matrix.md
+    - Technical Gap: 03-chapter-2-related-literature/c-technical-gap.md
+  - Chapter 3 Methods:
+    - Institutional Framework: 04-chapter-3-methods/a-institutional-framework.md
+    - Product Backlog: 04-chapter-3-methods/b-product-backlog.md
+    - Sprint Structure: 04-chapter-3-methods/c-sprint-structure.md
+    - Definition of Done: 04-chapter-3-methods/d-definition-of-done.md
+    - System Architecture: 04-chapter-3-methods/e-system-architecture.md
+    - Logic Flow: 04-chapter-3-methods/f-logic-flow.md
+    - Validation Plan: 04-chapter-3-methods/g-validation-plan.md
+  - Chapter 4 Results:
+    - Scrum Execution: 05-chapter-4-results/a-scrum-execution.md
+    - Features and Outputs: 05-chapter-4-results/b-features-and-outputs.md
+    - Report Validation: 05-chapter-4-results/c-report-validation.md
+  - Chapter 5 Discussion:
+    - Summary of Key Findings: 06-chapter-5-discussion/a-summary-of-key-findings.md
+    - RQ3 Validation Analysis: 06-chapter-5-discussion/b-rq3-validation-analysis.md
+    - Limitations: 06-chapter-5-discussion/c-limitations.md
+    - Recommendations: 06-chapter-5-discussion/d-recommendations.md
   - Appendices:
-      - Relevant Source Code: 08-appendices/source-code.md
-      - Evaluation Tools or Test Documents: 08-appendices/evaluation-tools.md
-      - Sample Input/Output or Reports: 08-appendices/sample-input-output.md
-      - User Guide: 08-appendices/user-guide.md
-      - CVs:
-          - Member 1: 08-appendices/cv/member1.md
-          - Member 2: 08-appendices/cv/member2.md
+    - CVs:
+      - Member 1: 07-appendices/a-cv/member1.md
+      - Member 2: 07-appendices/a-cv/member2.md
+    - Topic Mine:
+      - Member 1: 07-appendices/b-topic-mine/member1.md
+      - Member 2: 07-appendices/b-topic-mine/member2.md
+    - Title Proposal and Problem Statement Form: 07-appendices/c-title-proposal-and-problem-statement-form.md
+    - Comparative Summary: 07-appendices/d-comparative-summary.md
+    - Gate 1 Title Defense: 07-appendices/e-gate-1-title-defense.md
+    - Tech Stack: 07-appendices/f-tech-stack.md
+    - Sprint 0 Retrospective: 07-appendices/g-sprint-0-retrospective.md
+    - Sprint 0 Review and Sprint 1 Planning: 07-appendices/h-sprint-0-review-and-sprint-1-planning.md
+    - Gate 2 Proposal Defense: 07-appendices/i-gate-2-proposal-defense.md
+    - Sprint 1 Retrospective: 07-appendices/j-sprint-1-retrospective.md
+    - Sprint 1 Review and Sprint 2 Planning: 07-appendices/k-sprint-1-review-and-sprint-2-planning.md
+    - Sprint 2 Retrospective: 07-appendices/l-sprint-2-retrospective.md
+    - Sprint 2 Review and Sprint 3 Planning: 07-appendices/m-sprint-2-review-and-sprint-3-planning.md
+    - Sprint 3 Retrospective: 07-appendices/n-sprint-3-retrospective.md
+    - Sprint 3 Review and Final Sprint Planning: 07-appendices/o-sprint-3-review-and-final-sprint-planning.md
+    - Gate 3 Pre-Oral Defense: 07-appendices/p-gate-3-pre-defense.md
+    - Raw SEQ and SUS Data: 07-appendices/q-raw-seq-and-sus-data.md
+    - Final Sprint Retrospective: 07-appendices/r-final-sprint-retrospective.md
+    - Final Sprint Review: 07-appendices/s-final-sprint-review.md
+    - Gate 4 Final Defense: 07-appendices/t-gate-4-final-defense.md
 extra:
   social:
     - icon: fontawesome/brands/github

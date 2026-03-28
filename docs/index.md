@@ -1,15 +1,15 @@
-# Thesis Repository
+# Research Repository
 
-Welcome to the official thesis repository for **[Project Title]**.
+Welcome to the official research repository for your approved research project.
+
+This template is intended for either a **capstone project** or a **thesis** under the BSCS research workflow. The same chapter structure and appendix gates apply unless the department approves a specific exception.
 
 Use the navigation at the left (MkDocs) or the links below to browse by section.
 
 ## 📑 Contents
-1. [Front Matter](01-front-matter/title-page.md)
-2. [Introduction](02-introduction/project-context.md)
-3. [Related Literature](03-related-literature/related-literature.md)
-4. [Technical Background](04-technical-background/technical-background.md)
-5. [Design and Methodology](05-design-and-methodology/conceptual-design.md)
-6. [Results and Discussion](06-results-and-discussion/results-and-discussion.md)
-7. [Conclusions and Recommendations](07-conclusions-and-recommendations/conclusions-and-recommendations.md)
-8. [Appendices](08-appendices/source-code.md)
+1. [Front Matter](01-front-matter/a-title-page.md)
+2. [Introduction](02-chapter-1-introduction/a-project-context.md)
+3. [Related Literature](03-chapter-2-related-literature/a-domain-literature.md)
+4. [Methods](04-chapter-3-methods/a-institutional-framework.md)
+5. [Results](05-chapter-4-results/a-scrum-execution.md)
+6. [Discussion](06-chapter-5-discussion/a-summary-of-key-findings.md)
