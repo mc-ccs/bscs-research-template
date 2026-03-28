@@ -46,7 +46,8 @@ docs/
 │   ├── d-definition-of-done.md
 │   ├── e-system-architecture.md
 │   ├── f-logic-flow.md
-│   └── g-validation-plan.md
+│   ├── g-data-schema.md
+│   └── h-validation-plan.md
 ├── 05-chapter-4-results/
 │   ├── a-scrum-execution.md
 │   ├── b-features-and-outputs.md

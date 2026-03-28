@@ -39,7 +39,8 @@ nav:
     - Definition of Done: 04-chapter-3-methods/d-definition-of-done.md
     - System Architecture: 04-chapter-3-methods/e-system-architecture.md
     - Logic Flow: 04-chapter-3-methods/f-logic-flow.md
-    - Validation Plan: 04-chapter-3-methods/g-validation-plan.md
+    - Data Schema: 04-chapter-3-methods/g-data-schema.md
+    - Validation Plan: 04-chapter-3-methods/h-validation-plan.md
   - Chapter 4 Results:
     - Scrum Execution: 05-chapter-4-results/a-scrum-execution.md
     - Features and Outputs: 05-chapter-4-results/b-features-and-outputs.md

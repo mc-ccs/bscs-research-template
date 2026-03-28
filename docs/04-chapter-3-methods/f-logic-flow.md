@@ -83,4 +83,4 @@ If the study includes a decision-support model, machine learning workflow, or op
 
 
 ---
-[⬅️ Previous](e-system-architecture.md) | [Next ➡️](g-validation-plan.md)
+[⬅️ Previous](e-system-architecture.md) | [Next ➡️](g-data-schema.md)
