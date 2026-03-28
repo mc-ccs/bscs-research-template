@@ -4,6 +4,8 @@ Use this appendix to record whether the project is ready to proceed from plannin
 
 This gate applies to both capstone projects and theses.
 
+The formal gate panel for this checkpoint is the **Teacher** together with the **Faculty Panel**. The **Adviser** and **Research Coordinator** support the team in preparing the proposal package, implementation plan, and evidence before the gate.
+
 ## Team Information
 
 | Field | Details |
@@ -11,6 +13,15 @@ This gate applies to both capstone projects and theses.
 | Team Name |  |
 | Date |  |
 | Title |  |
+
+## Gate Authorities
+
+| Role | Function at Gate 2 |
+| --- | --- |
+| Teacher | Formal gate-panel member for technical-governance and feasibility judgment |
+| Faculty Panel | Formal gate-panel member for proposal and academic evaluation |
+| Adviser | Delivery-support authority for scope, backlog value, and proposal readiness |
+| Research Coordinator | Delivery-support authority for engineering workflow and documentation readiness |
 
 ## Standard Gate 2 Flow
 

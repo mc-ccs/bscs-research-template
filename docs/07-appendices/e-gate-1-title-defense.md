@@ -4,6 +4,8 @@ Use this record to capture panel evaluation of title-defense readiness. The team
 
 This gate applies to both capstone projects and theses.
 
+The formal gate panel for this checkpoint is the **Teacher** together with the **Faculty Panel**. The **Adviser** and **Research Coordinator** support the team in preparing for the gate but are not the primary gate evaluators.
+
 ## Team Information
 
 | Field | Details |
@@ -11,6 +13,15 @@ This gate applies to both capstone projects and theses.
 | Team Name |  |
 | Date |  |
 | Title |  |
+
+## Gate Authorities
+
+| Role | Function at Gate 1 |
+| --- | --- |
+| Teacher | Formal gate-panel member for technical governance and readiness judgment |
+| Faculty Panel | Formal gate-panel member for feasibility and academic evaluation |
+| Adviser | Delivery-support authority for scope and value preparation |
+| Research Coordinator | Delivery-support authority for engineering and documentation readiness |
 
 ## Pillar 1: Problem Rigor (The "Why")
 

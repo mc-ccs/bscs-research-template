@@ -4,6 +4,8 @@ Use this record to capture the Gate 3 checkpoint before the final validation and
 
 The team must complete the required sprint records, implementation evidence, and validation-readiness evidence before Gate 3 is treated as complete.
 
+The formal gate panel for this checkpoint is the **Teacher** together with the **Faculty Panel**. The **Adviser** and **Research Coordinator** support the team in surfacing implementation, documentation, and validation-readiness gaps before the gate.
+
 ## Team Information
 
 | Field | Details |
@@ -11,6 +13,15 @@ The team must complete the required sprint records, implementation evidence, and
 | Team Name |  |
 | Date |  |
 | Title |  |
+
+## Gate Authorities
+
+| Role | Function at Gate 3 |
+| --- | --- |
+| Teacher | Formal gate-panel member for technical-governance and readiness judgment |
+| Faculty Panel | Formal gate-panel member for milestone and academic evaluation |
+| Adviser | Delivery-support authority for MVP acceptance and scope readiness |
+| Research Coordinator | Delivery-support authority for engineering evidence and documentation readiness |
 
 ## Pillar 1: The Technical Process (30%)
 

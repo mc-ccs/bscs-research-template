@@ -4,6 +4,8 @@ Use this record to capture the final institutional evaluation of the project. Th
 
 The team must complete the required manuscript, repository, and validation evidence before Gate 4 is treated as complete.
 
+The formal gate panel for this checkpoint is the **Teacher** together with the **Faculty Panel**. The **Adviser** and **Research Coordinator** support final preparation and readiness but do not replace the formal gate evaluation role.
+
 ## Team Information
 
 | Field | Details |
@@ -11,6 +13,15 @@ The team must complete the required manuscript, repository, and validation evide
 | Team Name |  |
 | Date |  |
 | Title |  |
+
+## Gate Authorities
+
+| Role | Function at Gate 4 |
+| --- | --- |
+| Teacher | Formal gate-panel member for institutional technical-governance judgment |
+| Faculty Panel | Formal gate-panel member for final academic and milestone evaluation |
+| Adviser | Delivery-support authority for final product and scope readiness |
+| Research Coordinator | Delivery-support authority for final engineering evidence and documentation readiness |
 
 ## Pillar 1: The Technical Process (30%)
 
