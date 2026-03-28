@@ -19,7 +19,8 @@ Describe the following:
 | Sprint 0 | Establish project foundation and planning artifacts | backlog, architecture draft, repository setup, Sprint 0 records |
 | Sprint 1 |  |  |
 | Sprint 2 |  |  |
-| Sprint 3 or Final Sprint |  |  |
+| Sprint 3 |  |  |
+| Final Sprint |  |  |
 
 ## Writing Reminder
 
