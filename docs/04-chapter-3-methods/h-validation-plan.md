@@ -108,4 +108,4 @@ Before final submission, tailor this validation plan to the actual research proj
 
 
 ---
-[⬅️ Previous](f-logic-flow.md) | [Next ➡️](../05-chapter-4-results/a-scrum-execution.md)
+[⬅️ Previous](g-data-schema.md) | [Next ➡️](../05-chapter-4-results/a-scrum-execution.md)

@@ -12,15 +12,25 @@ Describe the following:
 - how the team maintained at least three asynchronous progress updates per week and one synchronous weekly progress check-in facilitated by the Research Coordinator or an approved equivalent
 - how sprint outputs were documented in the appendices and repositories
 
+## Sprint 0 Expectations
+
+Sprint 0 should establish the project's working foundation before feature implementation begins. Depending on the project scope, this usually includes:
+
+- repository initialization and branching workflow setup
+- initial product backlog creation and prioritization
+- architecture, logic flow, and data schema drafting
+- validation planning and Definition of Done agreement
+- assignment of initial issues, milestones, or project board columns
+
 ## Standard Table
 
-| Sprint | Main Objective | Typical Outputs |
-| --- | --- | --- |
-| Sprint 0 | Establish project foundation and planning artifacts | backlog, architecture draft, repository setup, Sprint 0 records |
-| Sprint 1 |  |  |
-| Sprint 2 |  |  |
-| Sprint 3 |  |  |
-| Final Sprint |  |  |
+| Sprint | Main Objective | Typical Outputs | Tracking Evidence |
+| --- | --- | --- | --- |
+| Sprint 0 | Establish project foundation and planning artifacts | backlog, architecture draft, data schema draft, repository setup, Sprint 0 records | project board, setup commits, Sprint 0 appendix |
+| Sprint 1 |  |  |  |
+| Sprint 2 |  |  |  |
+| Sprint 3 |  |  |  |
+| Final Sprint |  |  |  |
 
 ## Writing Reminder
 

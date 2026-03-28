@@ -32,10 +32,23 @@ Mark each item after review.
 | Pull requests, issues, and related evidence are traceable. | [ ] Complete [ ] Needs Revision |  |
 | Sprint review demo or equivalent evidence was completed. | [ ] Complete [ ] Needs Revision |  |
 | At least three asynchronous progress updates and one synchronous weekly progress check-in were documented for the sprint. | [ ] Complete [ ] Needs Revision |  |
-| Chapter 4 progress and related appendices were updated as needed. | [ ] Complete [ ] Needs Revision |  |
+| Recurring Appendix A to F or Epic 4 User Story 1 to 6 evidence was updated for Sprint 3 as applicable. | [ ] Complete [ ] Needs Revision |  |
 | Blockers, defects, or deferred items were documented. | [ ] Complete [ ] Needs Revision |  |
 
-### 3. Repository Governance and Review Checklist
+### 3. Recurring Epic 4 Results Record
+
+Use this tracker to document the recurring **Epic 4 - Chapter 4: Results** evidence for **User Story 1 to 6**. These Appendix **A to F** result areas should be updated for every completed sprint, while the formal final defense remains separate in the gate appendix.
+
+| Appendix Slot | Epic 4 User Story | Chapter 4 Section | Sprint 3 Evidence to Record | Status | Notes / Reference |
+| --- | --- | --- | --- | --- | --- |
+| A | User Story 1 - Document Scrum Execution Narrative | `a-scrum-execution.md` | Sprint 3 goal, completed stories, blockers, release evidence | [ ] Complete [ ] Partial [ ] Not Applicable |  |
+| B | User Story 2 - Report Implemented Features and Outputs | `b-features-and-outputs.md` | Implemented Sprint 3 features, outputs, screenshots, or repository artifacts | [ ] Complete [ ] Partial [ ] Not Applicable |  |
+| C | User Story 3 - Report CI/CD Results | `c-ci-cd-results.md` | Workflow runs, build checks, failed runs, fixes, or approved exception basis | [ ] Complete [ ] Partial [ ] Not Applicable |  |
+| D | User Story 4 - Report System Testing Results | `d-system-testing-results.md` | Executed Sprint 3 test cases, expected versus actual results, defects | [ ] Complete [ ] Partial [ ] Not Applicable |  |
+| E | User Story 5 - Report Code Coverage Results | `e-code-coverage-results.md` | Coverage report for Sprint 3 modules or approved exception basis | [ ] Complete [ ] Partial [ ] Not Applicable |  |
+| F | User Story 6 - Report Security Verification Results | `f-security-verification-results.md` | Dependency checks, code scanning, secret scanning, or approved exception basis | [ ] Complete [ ] Partial [ ] Not Applicable |  |
+
+### 4. Repository Governance and Review Checklist
 
 This section verifies the institutional review responsibilities for Sprint 3.
 
@@ -48,7 +61,7 @@ This section verifies the institutional review responsibilities for Sprint 3.
 | CI/CD workflow results were checked, or the approved exception basis was recorded. | [ ] | [ ] |  |
 | Security or dependency checks were reviewed when available. | [ ] | [ ] |  |
 
-### 4. Sprint 3 Review Summary
+### 5. Sprint 3 Review Summary
 
 #### Accomplishments
 
@@ -80,7 +93,7 @@ Record the main references used during the review.
 | Async updates and weekly sync record |  |  |
 | CI/CD workflow results |  |  |
 
-### 5. Sprint 3 Retrospective
+### 6. Sprint 3 Retrospective
 
 Summarize the retrospective discussion at the end of Sprint 3.
 
@@ -92,7 +105,7 @@ Summarize the retrospective discussion at the end of Sprint 3.
 | What should the team improve in the final sprint? |  |
 | What support or decisions are needed from the Adviser or Research Coordinator? |  |
 
-### 6. Sprint 3 Decision
+### 7. Sprint 3 Decision
 
 Select the review outcome.
 
@@ -184,5 +197,6 @@ List the issues that may affect final sprint execution and the action to be take
 
 - Use this appendix as a record of the end-of-sprint conversation, not just as a checklist.
 - Keep repository links, pull request references, and milestone names specific so the appendix can serve as evidence during proposal and later sprint reviews.
+- Update Appendix A to F or Epic 4 User Story 1 to 6 evidence again in the final sprint so Chapter 4 remains traceable by sprint.
 - Preserve at least three asynchronous progress updates and one synchronous weekly progress check-in record for the final sprint.
 - Revise the planned final sprint backlog only through an agreed planning update.

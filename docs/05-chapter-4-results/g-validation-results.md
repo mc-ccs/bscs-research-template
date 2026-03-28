@@ -1,6 +1,8 @@
-# Report Validation
+# Validation Results
 
 Use this section to present the final validation evidence for the system and explain whether the project objectives were met.
+
+This section synthesizes the strongest evidence gathered across the recurring result areas in Chapter 4. User Stories 1 to 6 may be updated per sprint, while this final validation section consolidates the approved evidence basis used for interpretation in Chapter 5.
 
 ## Minimum Required Evidence
 
@@ -18,6 +20,7 @@ Beyond the minimum required evidence, report the strongest additional evidence g
 - functional test results
 - automated testing or CI evidence when applicable
 - code coverage when coverage tooling is used
+- security verification or dependency scan results when applicable
 - SUS and SEQ findings for user-facing systems when applicable
 - other approved technical metrics such as accuracy, latency, error rate, or expert evaluation
 
@@ -39,7 +42,15 @@ Beyond the minimum required evidence, report the strongest additional evidence g
 | Code coverage when applicable |  |  |
 | Security or dependency checks when applicable |  |  |
 
-### 3. User Validation Summary
+### 3. Automation and Repository Evidence
+
+When the project uses repository automation, summarize the checks that supported build stability and traceability. This may include:
+
+- CI or workflow run status for the final release or major sprint outputs
+- the checks performed by the pipeline such as build verification, test execution, linting, or static analysis
+- failed runs or pipeline revisions that materially affected the project
+
+### 4. User Validation Summary
 
 | Metric | Result | Minimum Target or Basis | Interpretation |
 | --- | --- | --- | --- |
@@ -47,7 +58,7 @@ Beyond the minimum required evidence, report the strongest additional evidence g
 | SEQ |  | Task-level usability evidence |  |
 | UAT completion rate |  | Team-defined task basis |  |
 
-### 4. Interpretation
+### 5. Interpretation
 
 Explain clearly:
 
@@ -56,10 +67,18 @@ Explain clearly:
 - what limitations remained after validation
 - how the findings affect deployment, turnover, or future work
 
+### 6. Optional Evidence Areas
+
+If applicable to the approved workflow, add short summaries for:
+
+- code coverage results and what areas remained uncovered
+- security scanning or dependency verification findings
+- performance, accuracy, or reliability measures that support the project's technical claims
+
 ## Writing Reminder
 
 If a metric was not applicable, say so directly, identify the replacement evidence used instead, and make sure the approved exception is traceable in the validation plan or review record.
 
 
 ---
-[⬅️ Previous](b-features-and-outputs.md) | [Next ➡️](../06-chapter-5-discussion/a-summary-of-key-findings.md)
+[⬅️ Previous](f-security-verification-results.md) | [Next ➡️](../06-chapter-5-discussion/a-summary-of-key-findings.md)
