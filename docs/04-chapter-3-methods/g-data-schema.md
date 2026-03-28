@@ -2,9 +2,9 @@
 
 This section describes how persistent data is organized in the proposed system and how that structure supports the workflow described in the previous sections. If the project uses a relational database, this section should present the major entities, their important attributes, and the relationships that support the system's core transactions. If the project instead uses document storage, files, or other structured records, the same section may be adapted into a data structure view.
 
-The figure below should be replaced with the actual entity relationship diagram or equivalent schema diagram used by the project.
+The figure below provides a reusable baseline entity relationship diagram. Replace it with the project's actual schema before final submission.
 
-![Data Schema](../img/data-schema-diagram.png)
+![Data Schema](../img/data-schema-diagram.svg)
 
 ## Data Design Overview
 
@@ -75,6 +75,8 @@ The data schema should not be treated as a standalone database diagram. It shoul
 - Logs or history tables support traceability, monitoring, or validation evidence
 
 When writing the final version of this section, explain how the stored records move through the system from data entry to processing to output generation.
+
+The final manuscript should make it easy to map the workflow to the stored data. For example, an input step typically creates a new core record, a validation step may reject or update submitted values, a processing step may produce detail rows or derived results, and an output step may read those saved values for dashboards, reports, or notifications.
 
 ## When a Full ER Diagram Is Not Needed
 

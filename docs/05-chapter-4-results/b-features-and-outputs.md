@@ -10,15 +10,16 @@ For each major feature or module, report:
 - what was implemented
 - the output produced by the system
 - the evidence used to verify the feature
+- whether the implemented output satisfied its acceptance criteria or expected behavior
 - any remaining limitation relevant to interpretation
 
 ## Standard Table
 
-| Feature or Output | Related Requirement or Story | What Was Implemented | Evidence | Notes or Limitation |
-| --- | --- | --- | --- | --- |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
+| Feature or Output | Related Requirement or Story | What Was Implemented | Evidence | Acceptance Check | Notes or Limitation |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
 
 ## Figures and Screenshots
 

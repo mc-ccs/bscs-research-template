@@ -15,6 +15,17 @@ This section describes the end-to-end operational flow of the proposed system. W
 9. If needed, the system triggers notifications, logging, or external service calls.
 10. The final output is presented to the user through the interface.
 
+## Relationship to Stored Data
+
+When the project uses persistent storage, the logic flow should be consistent with the data schema presented in the next section. In most systems, the workflow includes a mix of read, create, update, and report-generation actions such as:
+
+- creating a new transaction, submission, or core record from user input
+- updating record status after validation, review, approval, or processing
+- reading related detail rows, reference records, or historical entries during processing
+- writing generated results, logs, or notifications after the main logic completes
+
+This connection between process steps and stored records helps show that the architecture, workflow, and data design describe the same system rather than separate diagrams.
+
 ## Module-Level Logic
 
 The workflow of most research systems can be divided into four recurring phases:

@@ -10,14 +10,25 @@ Summarize the following:
 - how backlog items were grouped into epics or functional areas
 - how priorities were assigned
 - how acceptance criteria and story points were used when applicable
+- how GitHub issues or equivalent tracking IDs were assigned to backlog items
+- how the Definition of Done was applied before a story could be treated as complete
+
+## Backlog Traceability
+
+The backlog should make it possible to trace each planned feature from user story to implementation evidence. When applicable, the final manuscript should show how each backlog item connects to:
+
+- a requirement, objective, or approved user story
+- an issue, card, or ticket in the project tracker
+- acceptance criteria used to verify the item
+- the sprint where the item was planned or completed
 
 ## Standard Table
 
-| Epic or Functional Area | Sample User Story or Requirement | Priority | Planned Sprint | Notes |
-| --- | --- | --- | --- | --- |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
+| Epic or Functional Area | Sample User Story or Requirement | Tracking ID | Priority | Planned Sprint | Acceptance Basis |
+| --- | --- | --- | --- | --- | --- |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
+|  |  |  |  |  |  |
 
 ## Writing Reminder
 
