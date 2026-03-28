@@ -9,7 +9,7 @@ Describe the following:
 - the purpose of **Sprint 0** in preparing the repositories, backlog, architecture, and validation plan
 - the number of development sprints used in the project
 - the normal activities performed in each sprint, such as planning, execution, review, and retrospective
-- how the team maintained at least three asynchronous progress updates per week and one synchronous weekly progress check-in facilitated by the research coordinator or an approved equivalent
+- how the team maintained at least three asynchronous progress updates per week and one synchronous weekly progress check-in facilitated by the Research Coordinator or an approved equivalent
 - how sprint outputs were documented in the appendices and repositories
 
 ## Standard Table

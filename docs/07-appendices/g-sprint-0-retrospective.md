@@ -29,7 +29,7 @@ The team should identify concrete workflow changes for the next sprint.
 | --- | --- |
 | START Doing | e.g., Reviewing pull requests within 24 hours of posting. |
 | STOP Doing | e.g., Coding on the main branch directly. |
-| CONTINUE Doing | e.g., Our weekly facilitated progress check-in with the research coordinator. |
+| CONTINUE Doing | e.g., Our weekly facilitated progress check-in with the Research Coordinator. |
 
 ## 3. Team Health Check (Anonymous 1-5 Scale)
 
@@ -52,7 +52,7 @@ Improvement 3: _______________________________________________________
 
 ## 5. Escalation Items
 
-Document any issue that must be raised to the adviser or research coordinator before Sprint 1 proceeds.
+Document any issue that must be raised to the Adviser or Research Coordinator before Sprint 1 proceeds.
 
 | Issue | Why it matters | Owner | Due Date |
 | --- | --- | --- | --- |

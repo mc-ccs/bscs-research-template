@@ -1,6 +1,6 @@
 # Final Sprint Review
 
-Use this appendix as the formal working record for the closeout of the **Final Sprint**. It must be completed by the team together with the **adviser** and **research coordinator** after the final sprint outputs have been reviewed.
+Use this appendix as the formal working record for the closeout of the **Final Sprint**. It must be completed by the team together with the **Adviser** and **Research Coordinator** after the final sprint outputs have been reviewed.
 
 ## A. Final Sprint Review Record
 
@@ -88,7 +88,7 @@ Summarize the retrospective discussion at the end of the final sprint.
 | What problems or blockers were encountered? |  |
 | Were at least three asynchronous updates and one weekly synchronous check-in completed and recorded? |  |
 | What should the team address before final institutional evaluation? |  |
-| What support or decisions are needed from the adviser or research coordinator? |  |
+| What support or decisions are needed from the Adviser or Research Coordinator? |  |
 
 ### 6. Final Sprint Decision
 

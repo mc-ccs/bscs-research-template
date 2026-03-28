@@ -1,6 +1,6 @@
 # Sprint 3 Review and Final Sprint Planning
 
-Use this appendix as the formal working record for the closeout of **Sprint 3** and the preparation of the **Final Sprint**. It is intended to be completed by the team together with the **adviser** and **research coordinator** after Sprint 3 outputs have been reviewed.
+Use this appendix as the formal working record for the closeout of **Sprint 3** and the preparation of the **Final Sprint**. It is intended to be completed by the team together with the **Adviser** and **Research Coordinator** after Sprint 3 outputs have been reviewed.
 
 ## A. Sprint 3 Review Record
 
@@ -88,7 +88,7 @@ Summarize the retrospective discussion at the end of Sprint 3.
 | What problems or blockers were encountered? |  |
 | Were at least three asynchronous updates and one weekly synchronous check-in completed and recorded? |  |
 | What should the team improve in the final sprint? |  |
-| What support or decisions are needed from the adviser or research coordinator? |  |
+| What support or decisions are needed from the Adviser or Research Coordinator? |  |
 
 ### 6. Sprint 3 Decision
 

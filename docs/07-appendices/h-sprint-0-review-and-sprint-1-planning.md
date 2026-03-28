@@ -1,6 +1,6 @@
 # Sprint 0 Review and Sprint 1 Planning
 
-Use this appendix as the formal working record for the closeout of **Sprint 0** and the preparation of **Sprint 1**. It must be completed by the team together with the **adviser** and **research coordinator** after Sprint 0 outputs have been reviewed.
+Use this appendix as the formal working record for the closeout of **Sprint 0** and the preparation of **Sprint 1**. It must be completed by the team together with the **Adviser** and **Research Coordinator** after Sprint 0 outputs have been reviewed.
 
 ## A. Sprint 0 Review Record
 
@@ -94,7 +94,7 @@ Summarize the retrospective discussion at the end of Sprint 0.
 | What problems or blockers were encountered? |  |
 | Were at least three asynchronous updates and one weekly synchronous check-in completed and recorded? |  |
 | What should the team improve in Sprint 1? |  |
-| What support or decisions are needed from the adviser or research coordinator? |  |
+| What support or decisions are needed from the Adviser or Research Coordinator? |  |
 
 ### 6. Sprint 0 Decision
 
