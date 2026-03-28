@@ -6,12 +6,13 @@ Use this section to report how the team executed the approved Scrum plan from **
 
 Summarize the following:
 
+- the number of sprints executed and the normal sprint duration
 - the sprint goal for each sprint
 - the major backlog items completed
 - important carryover or deferred work
 - key implementation decisions made during the sprint
 - repository evidence such as issues, pull requests, release branches, or tags
-- blockers and how the team responded
+- blockers, revisions, or scope adjustments and how the team responded
 
 ## Standard Structure
 
@@ -31,6 +32,10 @@ For each sprint, report:
 | Important Evidence |  |
 | Blockers or Scope Changes |  |
 | Review Outcome |  |
+
+## Traceability Reminder
+
+The narrative in this section should remain consistent with the product backlog, sprint appendices, and repository history. If a planned item was deferred, descoped, or replaced, state that directly so the implementation record remains traceable.
 
 ## Writing Reminder
 

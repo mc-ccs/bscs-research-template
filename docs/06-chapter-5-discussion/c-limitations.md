@@ -6,11 +6,18 @@ Use this section to state the real limitations of the study and the developed sy
 
 Identify limitations such as:
 
-- restricted MVP scope
+- restricted MVP scope or approved out-of-scope boundaries
 - limited respondent count or evaluation setting
 - unavailable integrations or datasets
 - prototype-only deployment conditions
 - algorithmic, performance, or usability constraints still present at final defense
+
+## Distinguish Two Kinds of Limits
+
+This section should separate:
+
+- scope boundaries that were intentionally excluded from the approved MVP
+- actual limitations or constraints that affected implementation, validation, or interpretation of results
 
 ## Writing Reminder
 

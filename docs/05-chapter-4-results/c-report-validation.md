@@ -18,6 +18,7 @@ Beyond the minimum required evidence, report the strongest additional evidence g
 - functional test results
 - automated testing or CI evidence when applicable
 - code coverage when coverage tooling is used
+- security verification or dependency scan results when applicable
 - SUS and SEQ findings for user-facing systems when applicable
 - other approved technical metrics such as accuracy, latency, error rate, or expert evaluation
 
@@ -39,7 +40,15 @@ Beyond the minimum required evidence, report the strongest additional evidence g
 | Code coverage when applicable |  |  |
 | Security or dependency checks when applicable |  |  |
 
-### 3. User Validation Summary
+### 3. Automation and Repository Evidence
+
+When the project uses repository automation, summarize the checks that supported build stability and traceability. This may include:
+
+- CI or workflow run status for the final release or major sprint outputs
+- the checks performed by the pipeline such as build verification, test execution, linting, or static analysis
+- failed runs or pipeline revisions that materially affected the project
+
+### 4. User Validation Summary
 
 | Metric | Result | Minimum Target or Basis | Interpretation |
 | --- | --- | --- | --- |
@@ -47,7 +56,7 @@ Beyond the minimum required evidence, report the strongest additional evidence g
 | SEQ |  | Task-level usability evidence |  |
 | UAT completion rate |  | Team-defined task basis |  |
 
-### 4. Interpretation
+### 5. Interpretation
 
 Explain clearly:
 
@@ -55,6 +64,14 @@ Explain clearly:
 - what evidence was strongest
 - what limitations remained after validation
 - how the findings affect deployment, turnover, or future work
+
+### 6. Optional Evidence Areas
+
+If applicable to the approved workflow, add short summaries for:
+
+- code coverage results and what areas remained uncovered
+- security scanning or dependency verification findings
+- performance, accuracy, or reliability measures that support the project's technical claims
 
 ## Writing Reminder
 
