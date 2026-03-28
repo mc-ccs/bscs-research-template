@@ -4,9 +4,13 @@ Use this appendix to record whether the project is ready to proceed from plannin
 
 This gate applies to both capstone projects and theses.
 
-## Team Name: ________________________
-## Date: _______________
-## Title: ______________________________________________
+## Team Information
+
+| Field | Details |
+| --- | --- |
+| Team Name |  |
+| Date |  |
+| Title |  |
 
 ## Suggested Gate 2 Flow
 

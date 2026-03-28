@@ -1,10 +1,14 @@
 # Final Sprint Retrospective
 
-# Facilitator: _____________________  
-# Date: _______________
-# Sprint Goal Reviewed: ___________________________________________
+## Session Information
 
-# 1. Final Sprint Summary
+| Field | Details |
+| --- | --- |
+| Facilitator |  |
+| Date |  |
+| Sprint Goal Reviewed |  |
+
+## 1. Final Sprint Summary
 
 | Item | Response |
 | --- | --- |
@@ -14,7 +18,7 @@
 | Main blocker during the final sprint |  |
 | Key repository or workflow evidence reviewed |  |
 
-# 2. The "Start, Stop, Continue" Board
+## 2. The "Start, Stop, Continue" Board
 
 Use this final retrospective to identify lessons that should inform project closeout, turnover, or future team practice.
 
@@ -24,7 +28,7 @@ Use this final retrospective to identify lessons that should inform project clos
 | STOP Doing | e.g., Deferring documentation updates until the end of implementation. |
 | CONTINUE Doing | e.g., Cross-checking manuscript claims against repository evidence. |
 
-# 3. Team Health Check (Anonymous 1-5 Scale)
+## 3. Team Health Check (Anonymous 1-5 Scale)
 
 Each member may vote on the following indicators. Low scores should trigger a specific action plan rather than a vague warning.
 
@@ -33,7 +37,7 @@ Each member may vote on the following indicators. Low scores should trigger a sp
 3. Communication: Did technical and documentation tasks stay coordinated through closeout? [ ]
 4. Morale: Is the team stable enough to complete remaining validation and presentation work? [ ]
 
-# 4. Top 3 Process Lessons
+## 4. Top 3 Process Lessons
 
 Identify exactly three measurable lessons or improvements to carry into project closeout or future iterations.
 
@@ -43,7 +47,7 @@ Lesson 2: _______________________________________________________
 
 Lesson 3: _______________________________________________________
 
-# 5. Escalation Items
+## 5. Escalation Items
 
 Document any issue that must be raised outside the team before final review, validation completion, or defense preparation proceeds.
 

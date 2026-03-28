@@ -2,9 +2,13 @@
 
 Use this record to capture the final institutional evaluation of the project. This gate applies to both capstone projects and theses, even if the local schedule uses labels such as final defense, final presentation, or terminal review.
 
-## Team Name: ________________________ 
-## Date: _______________
-## Title: ______________________________________________
+## Team Information
+
+| Field | Details |
+| --- | --- |
+| Team Name |  |
+| Date |  |
+| Title |  |
 
 ## Pillar 1: The Technical Process (30%)
 

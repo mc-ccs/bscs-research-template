@@ -1,10 +1,13 @@
-
 # Technical Stack Audit Form
 
 Use this appendix during **Sprint 0** to confirm that the proposed stack is feasible, maintainable, and aligned with the approved MVP.
 
-## Working Title: _________________________________________________
-## Team Name: _________________________________________________
+## Project Information
+
+| Field | Details |
+| --- | --- |
+| Working Title |  |
+| Team Name |  |
 
 ## I. Core Architecture
 

@@ -2,9 +2,13 @@
 
 Use this record to capture the Gate 3 checkpoint before the final validation and presentation stage. This gate applies to both capstone projects and theses, even if the local schedule uses labels such as pre-oral defense, pre-defense, or milestone review.
 
-## Team Name: ________________________ 
-## Date: _______________
-## Title: ______________________________________________
+## Team Information
+
+| Field | Details |
+| --- | --- |
+| Team Name |  |
+| Date |  |
+| Title |  |
 
 ## Pillar 1: The Technical Process (30%)
 

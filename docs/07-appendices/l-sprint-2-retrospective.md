@@ -1,10 +1,14 @@
 # Sprint 2 Retrospective
 
-# Facilitator: _____________________
-# Date: _______________
-# Sprint Goal Reviewed: ___________________________________________
+## Session Information
 
-# 1. Sprint 2 Summary
+| Field | Details |
+| --- | --- |
+| Facilitator |  |
+| Date |  |
+| Sprint Goal Reviewed |  |
+
+## 1. Sprint 2 Summary
 
 | Item | Response |
 | --- | --- |
@@ -14,7 +18,7 @@
 | Main blocker during Sprint 2 |  |
 | Key repository or workflow evidence reviewed |  |
 
-# 2. The "Start, Stop, Continue" Board
+## 2. The "Start, Stop, Continue" Board
 
 The team should identify concrete workflow changes for Sprint 3.
 
@@ -24,7 +28,7 @@ The team should identify concrete workflow changes for Sprint 3.
 | STOP Doing | e.g., Carrying unresolved blockers without an owner. |
 | CONTINUE Doing | e.g., Demo rehearsal before the formal sprint review. |
 
-# 3. Team Health Check (Anonymous 1-5 Scale)
+## 3. Team Health Check (Anonymous 1-5 Scale)
 
 Each member may vote on the following indicators. Low scores should trigger a specific action plan rather than a vague warning.
 
@@ -33,7 +37,7 @@ Each member may vote on the following indicators. Low scores should trigger a sp
 3. Communication: Are technical and documentation tasks staying coordinated? [ ]
 4. Morale: Is the team sustainable for the next sprint? [ ]
 
-# 4. Top 3 Process Improvements for Next Sprint
+## 4. Top 3 Process Improvements for Next Sprint
 
 Identify exactly three measurable improvements.
 
@@ -43,7 +47,7 @@ Improvement 2: _______________________________________________________
 
 Improvement 3: _______________________________________________________
 
-# 5. Escalation Items
+## 5. Escalation Items
 
 Document any issue that must be raised outside the team before Sprint 3 proceeds.
 

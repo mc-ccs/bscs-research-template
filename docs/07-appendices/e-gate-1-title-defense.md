@@ -4,9 +4,13 @@ Use this record to capture panel evaluation of title-defense readiness. The team
 
 This gate applies to both capstone projects and theses.
 
-## Team Name: ________________________
-## Date: _______________
-## Title: ______________________________________________
+## Team Information
+
+| Field | Details |
+| --- | --- |
+| Team Name |  |
+| Date |  |
+| Title |  |
 
 ## Pillar 1: Problem Rigor (The "Why")
 
