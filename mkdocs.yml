@@ -19,7 +19,7 @@ nav:
   - Home: index.md
   - Front Matter:
     - Title Page: 01-front-matter/a-title-page.md
-    - Abstract: 01-front-matter/b-abstract.md
+    - Abstract or Executive Summary: 01-front-matter/b-abstract.md
     - Table of Contents: 01-front-matter/c-table-of-contents.md
     - List of Figures: 01-front-matter/d-list-of-figures.md
     - List of Tables: 01-front-matter/e-list-of-tables.md
@@ -27,7 +27,7 @@ nav:
     - Project Context: 02-chapter-1-introduction/a-project-context.md
     - Purpose and Description: 02-chapter-1-introduction/b-purpose-and-description.md
     - Objectives and RQ Alignment: 02-chapter-1-introduction/c-objectives-rq-alignment.md
-    - Scope and MVP: 02-chapter-1-introduction/d-scope-and-limitation.md
+    - Scope and Limitations: 02-chapter-1-introduction/d-scope-and-limitation.md
   - Chapter 2 Related Literature:
     - Domain Literature: 03-chapter-2-related-literature/a-domain-literature.md
     - Synthesis Matrix: 03-chapter-2-related-literature/b-synthesis-matrix.md
@@ -47,20 +47,20 @@ nav:
     - Report Validation: 05-chapter-4-results/c-report-validation.md
   - Chapter 5 Discussion:
     - Summary of Key Findings: 06-chapter-5-discussion/a-summary-of-key-findings.md
-    - RQ3 Validation Analysis: 06-chapter-5-discussion/b-rq3-validation-analysis.md
+    - Conclusions Based on Validation: 06-chapter-5-discussion/b-rq3-validation-analysis.md
     - Limitations: 06-chapter-5-discussion/c-limitations.md
     - Recommendations: 06-chapter-5-discussion/d-recommendations.md
   - Appendices:
     - CVs:
-      - Member 1: 07-appendices/a-cv/member1.md
-      - Member 2: 07-appendices/a-cv/member2.md
+      - Contributor Profile - Member 1: 07-appendices/a-cv/member1.md
+      - Contributor Profile - Member 2: 07-appendices/a-cv/member2.md
     - Topic Mine:
-      - Member 1: 07-appendices/b-topic-mine/member1.md
-      - Member 2: 07-appendices/b-topic-mine/member2.md
+      - Topic Mine - Member 1: 07-appendices/b-topic-mine/member1.md
+      - Topic Mine - Member 2: 07-appendices/b-topic-mine/member2.md
     - Title Proposal and Problem Statement Form: 07-appendices/c-title-proposal-and-problem-statement-form.md
-    - Comparative Summary: 07-appendices/d-comparative-summary.md
+    - Comparative Summary of Proposed Topics: 07-appendices/d-comparative-summary.md
     - Gate 1 Title Defense: 07-appendices/e-gate-1-title-defense.md
-    - Tech Stack: 07-appendices/f-tech-stack.md
+    - Technical Stack Audit Form: 07-appendices/f-tech-stack.md
     - Sprint 0 Retrospective: 07-appendices/g-sprint-0-retrospective.md
     - Sprint 0 Review and Sprint 1 Planning: 07-appendices/h-sprint-0-review-and-sprint-1-planning.md
     - Gate 2 Proposal Defense: 07-appendices/i-gate-2-proposal-defense.md
@@ -70,11 +70,11 @@ nav:
     - Sprint 2 Review and Sprint 3 Planning: 07-appendices/m-sprint-2-review-and-sprint-3-planning.md
     - Sprint 3 Retrospective: 07-appendices/n-sprint-3-retrospective.md
     - Sprint 3 Review and Final Sprint Planning: 07-appendices/o-sprint-3-review-and-final-sprint-planning.md
-    - Gate 3 Pre-Oral Defense: 07-appendices/p-gate-3-pre-defense.md
-    - Raw SEQ and SUS Data: 07-appendices/q-raw-seq-and-sus-data.md
+    - Gate 3 - Pre-Defense Review: 07-appendices/p-gate-3-pre-defense.md
+    - Raw Single Ease Question (SEQ) and System Usability Scale (SUS) Data: 07-appendices/q-raw-seq-and-sus-data.md
     - Final Sprint Retrospective: 07-appendices/r-final-sprint-retrospective.md
     - Final Sprint Review: 07-appendices/s-final-sprint-review.md
-    - Gate 4 Final Defense: 07-appendices/t-gate-4-final-defense.md
+    - Gate 4 - Final Review and Defense: 07-appendices/t-gate-4-final-defense.md
 extra:
   social:
     - icon: fontawesome/brands/github
