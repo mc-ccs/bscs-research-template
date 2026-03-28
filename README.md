@@ -34,7 +34,7 @@ docs/
 │   ├── a-project-context.md
 │   ├── b-purpose-and-description.md
 │   ├── c-objectives-rq-alignment.md
-│   └── d-scope-and-mvp.md
+│   └── d-scope-and-limitation.md
 ├── 03-chapter-2-related-literature/
 │   ├── a-domain-literature.md
 │   ├── b-synthesis-matrix.md

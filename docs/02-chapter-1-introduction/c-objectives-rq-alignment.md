@@ -24,4 +24,4 @@ Use action verbs such as analyze, design, implement, and validate. Avoid vague o
 
 
 ---
-[⬅️ Previous](b-purpose-and-description.md) | [Next ➡️](d-scope-and-mvp.md)
+[⬅️ Previous](b-purpose-and-description.md) | [Next ➡️](d-scope-and-limitation.md)
