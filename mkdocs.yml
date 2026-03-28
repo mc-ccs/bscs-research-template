@@ -44,7 +44,11 @@ nav:
   - Chapter 4 Results:
     - Scrum Execution: 05-chapter-4-results/a-scrum-execution.md
     - Features and Outputs: 05-chapter-4-results/b-features-and-outputs.md
-    - Report Validation: 05-chapter-4-results/c-report-validation.md
+    - CI/CD Results: 05-chapter-4-results/c-ci-cd-results.md
+    - System Testing Results: 05-chapter-4-results/d-system-testing-results.md
+    - Code Coverage Results: 05-chapter-4-results/e-code-coverage-results.md
+    - Security Verification Results: 05-chapter-4-results/f-security-verification-results.md
+    - Validation Results: 05-chapter-4-results/g-validation-results.md
   - Chapter 5 Discussion:
     - Summary of Key Findings: 06-chapter-5-discussion/a-summary-of-key-findings.md
     - Conclusions Based on Validation: 06-chapter-5-discussion/b-rq3-validation-analysis.md

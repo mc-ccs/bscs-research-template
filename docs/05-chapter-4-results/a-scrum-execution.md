@@ -2,6 +2,8 @@
 
 Use this section to report how the team executed the approved Scrum plan from **Sprint 0** through the final implementation sprint.
 
+This section is a recurring sprint narrative area under **Epic 4 - User Story 1**. Update it alongside the sprint appendices so each completed sprint remains traceable in the manuscript.
+
 ## Required Coverage
 
 Summarize the following:

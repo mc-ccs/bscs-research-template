@@ -51,7 +51,11 @@ docs/
 ├── 05-chapter-4-results/
 │   ├── a-scrum-execution.md
 │   ├── b-features-and-outputs.md
-│   └── c-report-validation.md
+│   ├── c-ci-cd-results.md
+│   ├── d-system-testing-results.md
+│   ├── e-code-coverage-results.md
+│   ├── f-security-verification-results.md
+│   └── g-validation-results.md
 ├── 06-chapter-5-discussion/
 │   ├── a-summary-of-key-findings.md
 │   ├── b-rq3-validation-analysis.md
@@ -92,6 +96,8 @@ This structure keeps the research manuscript:
 - Easier to review
 - Easier to maintain
 - Ready for web publication
+
+For Chapter 4, Epic 4 User Stories 1 to 6 are treated as recurring sprint-reporting artifacts. Teams should update those result areas for each completed sprint, including the final sprint when applicable, while keeping the formal final defense in its own gate appendix rather than treating it as another recursive sprint record.
 
 ---
 

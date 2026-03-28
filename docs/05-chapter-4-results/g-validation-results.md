@@ -1,6 +1,8 @@
-# Report Validation
+# Validation Results
 
 Use this section to present the final validation evidence for the system and explain whether the project objectives were met.
+
+This section synthesizes the strongest evidence gathered across the recurring result areas in Chapter 4. User Stories 1 to 6 may be updated per sprint, while this final validation section consolidates the approved evidence basis used for interpretation in Chapter 5.
 
 ## Minimum Required Evidence
 
@@ -79,4 +81,4 @@ If a metric was not applicable, say so directly, identify the replacement eviden
 
 
 ---
-[⬅️ Previous](b-features-and-outputs.md) | [Next ➡️](../06-chapter-5-discussion/a-summary-of-key-findings.md)
+[⬅️ Previous](f-security-verification-results.md) | [Next ➡️](../06-chapter-5-discussion/a-summary-of-key-findings.md)

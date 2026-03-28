@@ -35,12 +35,28 @@ Mark each item during review.
 | Documentation repository is properly configured. | [ ] Complete [ ] Needs Revision |  |
 | System repository is properly configured. | [ ] Complete [ ] Needs Revision |  |
 | Development workflow tools and controls are configured. | [ ] Complete [ ] Needs Revision |  |
+| Recurring Appendix A to F or Epic 4 User Story 1 to 6 result slots were initialized for Sprint 0 and marked not yet applicable where evidence does not exist yet. | [ ] Complete [ ] Needs Revision |  |
 | At least three asynchronous progress updates and one synchronous weekly progress check-in were documented for the sprint. | [ ] Complete [ ] Needs Revision |  |
 | Chapter 1 draft is ready for proposal-level review. | [ ] Complete [ ] Needs Revision |  |
 | Chapter 2 draft is ready for proposal-level review. | [ ] Complete [ ] Needs Revision |  |
 | Chapter 3 draft is ready for proposal-level review. | [ ] Complete [ ] Needs Revision |  |
 
-### 3. Repository Governance and Review Checklist
+### 3. Recurring Epic 4 Results Record
+
+Use this tracker to align the sprint appendix with **Epic 4 - Chapter 4: Results** in the predefined user stories. Appendix **A to F** or **User Story 1 to 6** should be revisited for every completed sprint, including the final sprint when applicable. The formal final defense remains in its own gate appendix and is not treated as another recursive sprint record.
+
+For **Sprint 0**, fill the rows that already have evidence and mark later implementation-result rows as not yet applicable when the project has not reached that stage.
+
+| Appendix Slot | Epic 4 User Story | Chapter 4 Section | Sprint 0 Evidence to Record | Status | Notes / Reference |
+| --- | --- | --- | --- | --- | --- |
+| A | User Story 1 - Document Scrum Execution Narrative | `a-scrum-execution.md` | Sprint structure, sprint goal, governance setup, major Sprint 0 outputs | [ ] Complete [ ] Partial [ ] Not Yet Applicable |  |
+| B | User Story 2 - Report Implemented Features and Outputs | `b-features-and-outputs.md` | Sprint 0 planning outputs, repository setup, architecture or manuscript artifacts | [ ] Complete [ ] Partial [ ] Not Yet Applicable |  |
+| C | User Story 3 - Report CI/CD Results | `c-ci-cd-results.md` | Initial workflow setup, first build checks, or approved exception basis | [ ] Complete [ ] Partial [ ] Not Yet Applicable |  |
+| D | User Story 4 - Report System Testing Results | `d-system-testing-results.md` | Early verification evidence, environment smoke checks, or approved exception basis | [ ] Complete [ ] Partial [ ] Not Yet Applicable |  |
+| E | User Story 5 - Report Code Coverage Results | `e-code-coverage-results.md` | Coverage workflow setup or approved not-applicable basis | [ ] Complete [ ] Partial [ ] Not Yet Applicable |  |
+| F | User Story 6 - Report Security Verification Results | `f-security-verification-results.md` | Security tooling setup, dependency checks, or approved exception basis | [ ] Complete [ ] Partial [ ] Not Yet Applicable |  |
+
+### 4. Repository Governance and Review Checklist
 
 This section verifies the institutional review responsibilities for Sprint 0.
 
@@ -54,7 +70,7 @@ This section verifies the institutional review responsibilities for Sprint 0.
 | CI/CD workflow is present and appropriate for the chosen stack. | [ ] | [ ] |  |
 | Security controls such as Dependabot, secret scanning, or code scanning were checked when available. | [ ] | [ ] |  |
 
-### 4. Sprint 0 Review Summary
+### 5. Sprint 0 Review Summary
 
 #### Accomplishments
 
@@ -86,7 +102,7 @@ Record the main references used during the review.
 | Async updates and weekly sync record |  |  |
 | CI/CD workflow results |  |  |
 
-### 5. Sprint 0 Retrospective
+### 6. Sprint 0 Retrospective
 
 Summarize the retrospective discussion at the end of Sprint 0.
 
@@ -98,7 +114,7 @@ Summarize the retrospective discussion at the end of Sprint 0.
 | What should the team improve in Sprint 1? |  |
 | What support or decisions are needed from the Adviser or Research Coordinator? |  |
 
-### 6. Sprint 0 Decision
+### 7. Sprint 0 Decision
 
 Select the review outcome.
 
@@ -190,5 +206,6 @@ List the issues that may affect Sprint 1 execution and the action to be taken.
 
 - Use this appendix as a record of the end-of-sprint conversation, not just as a checklist.
 - Keep repository links, pull request references, and milestone names specific so the appendix can serve as evidence during proposal and later sprint reviews.
+- Revisit Appendix A to F or Epic 4 User Story 1 to 6 during every later sprint and mark not-yet-applicable rows explicitly when a result area has not started.
 - Preserve at least three asynchronous progress updates and one synchronous weekly progress check-in record for Sprint 1.
 - Revise the planned Sprint 1 backlog only through an agreed planning update.

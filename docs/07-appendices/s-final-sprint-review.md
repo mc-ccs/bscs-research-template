@@ -32,10 +32,23 @@ Mark each item during review.
 | Validation evidence is complete or any approved remaining work is clearly documented. | [ ] Complete [ ] Needs Revision |  |
 | Pull requests, issues, release evidence, and related references are traceable. | [ ] Complete [ ] Needs Revision |  |
 | At least three asynchronous progress updates and one synchronous weekly progress check-in were documented for the sprint. | [ ] Complete [ ] Needs Revision |  |
-| Chapter 4 and Chapter 5 closeout updates were completed as needed. | [ ] Complete [ ] Needs Revision |  |
+| Recurring Appendix A to F or Epic 4 User Story 1 to 6 evidence was updated for the final sprint as applicable. | [ ] Complete [ ] Needs Revision |  |
 | Remaining limitations, risks, or turnover items were documented. | [ ] Complete [ ] Needs Revision |  |
 
-### 3. Repository Governance and Review Checklist
+### 3. Recurring Epic 4 Results Record
+
+Use this tracker to document the recurring **Epic 4 - Chapter 4: Results** evidence for **User Story 1 to 6** through the **Final Sprint**. These Appendix **A to F** result areas still recur at final sprint closeout when applicable, but the formal **Gate 4 final defense** is separate and should remain in its dedicated gate appendix.
+
+| Appendix Slot | Epic 4 User Story | Chapter 4 Section | Final Sprint Evidence to Record | Status | Notes / Reference |
+| --- | --- | --- | --- | --- | --- |
+| A | User Story 1 - Document Scrum Execution Narrative | `a-scrum-execution.md` | Final sprint goal, completed stories, blockers, release evidence | [ ] Complete [ ] Partial [ ] Not Applicable |  |
+| B | User Story 2 - Report Implemented Features and Outputs | `b-features-and-outputs.md` | Final implemented features, outputs, screenshots, or repository artifacts | [ ] Complete [ ] Partial [ ] Not Applicable |  |
+| C | User Story 3 - Report CI/CD Results | `c-ci-cd-results.md` | Final workflow runs, build checks, failed runs, fixes, or approved exception basis | [ ] Complete [ ] Partial [ ] Not Applicable |  |
+| D | User Story 4 - Report System Testing Results | `d-system-testing-results.md` | Final executed test cases, expected versus actual results, defects | [ ] Complete [ ] Partial [ ] Not Applicable |  |
+| E | User Story 5 - Report Code Coverage Results | `e-code-coverage-results.md` | Final coverage report or approved exception basis | [ ] Complete [ ] Partial [ ] Not Applicable |  |
+| F | User Story 6 - Report Security Verification Results | `f-security-verification-results.md` | Final dependency checks, code scanning, secret scanning, or approved exception basis | [ ] Complete [ ] Partial [ ] Not Applicable |  |
+
+### 4. Repository Governance and Review Checklist
 
 This section verifies the institutional review responsibilities for the final sprint.
 
@@ -48,7 +61,7 @@ This section verifies the institutional review responsibilities for the final sp
 | CI/CD workflow results were checked, or the approved exception basis was recorded. | [ ] | [ ] |  |
 | Security or dependency checks were reviewed when available. | [ ] | [ ] |  |
 
-### 4. Final Sprint Review Summary
+### 5. Final Sprint Review Summary
 
 #### Accomplishments
 
@@ -80,7 +93,7 @@ Record the main references used during the review.
 | Async updates and weekly sync record |  |  |
 | CI/CD workflow results |  |  |
 
-### 5. Final Sprint Retrospective
+### 6. Final Sprint Retrospective
 
 Summarize the retrospective discussion at the end of the final sprint.
 
@@ -92,7 +105,7 @@ Summarize the retrospective discussion at the end of the final sprint.
 | What should the team address before final institutional evaluation? |  |
 | What support or decisions are needed from the Adviser or Research Coordinator? |  |
 
-### 6. Final Sprint Decision
+### 7. Final Sprint Decision
 
 Select the review outcome.
 
@@ -147,5 +160,6 @@ Use this section to summarize readiness before the formal Level 2 checkpoints. G
 
 - Use this appendix as a closeout and readiness record, not as a new sprint planning form.
 - Keep repository links, pull request references, and milestone names specific so the appendix can serve as evidence during Gate 3, Gate 4, and final evaluation.
+- Keep Appendix A to F or Epic 4 User Story 1 to 6 traceable through the final sprint, but do not treat Gate 4 as another recursive sprint evidence sheet.
 - Preserve at least three asynchronous progress updates and one synchronous weekly progress check-in record for the final sprint.
 - Record any approved exceptions or remaining revisions clearly so the final status is traceable.
