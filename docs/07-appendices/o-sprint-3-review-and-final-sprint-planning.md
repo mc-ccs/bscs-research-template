@@ -2,6 +2,8 @@
 
 Use this appendix as the formal working record for the closeout of **Sprint 3** and the preparation of the **Final Sprint**. It is intended to be completed by the team together with the **Adviser** and **Research Coordinator** after Sprint 3 outputs have been reviewed.
 
+This is a routine sprint-governance record. The **Student Team** owns the sprint work at **Level 0**, while the **Adviser** and **Research Coordinator** provide **Level 1** delivery-support review. The **Teacher** and **Faculty Panel** may inspect this record later as gate evidence, but they are not the normal Sprint 3 approvers.
+
 ## A. Sprint 3 Review Record
 
 ### 1. Basic Sprint Information
@@ -155,6 +157,8 @@ For the **Final Sprint**, the normal institutional review pattern is as follows:
 | Documentation repository | Adviser and Research Coordinator | Both reviewers are expected for release-related merges to `main`. |
 | System repository | Adviser and Research Coordinator | Both reviewers are expected for release-related merges to `main`. |
 
+Level 2 gate reviewers should be referenced in the gate forms, not substituted for this sprint review pattern.
+
 If a different review arrangement is approved, it must be documented here and in the corresponding review record:
 
 
@@ -172,7 +176,7 @@ List the issues that may affect final sprint execution and the action to be take
 
 | Role | Name | Signature / Approval Note | Date |
 | --- | --- | --- | --- |
-| Scrum Team Representative |  |  |  |
+| Student Team Representative |  |  |  |
 | Adviser |  |  |  |
 | Research Coordinator |  |  |  |
 

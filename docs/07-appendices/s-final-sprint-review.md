@@ -2,6 +2,8 @@
 
 Use this appendix as the formal working record for the closeout of the **Final Sprint**. It must be completed by the team together with the **Adviser** and **Research Coordinator** after the final sprint outputs have been reviewed.
 
+This is a routine sprint-governance record. The **Student Team** owns the sprint work at **Level 0**, while the **Adviser** and **Research Coordinator** provide **Level 1** delivery-support review. The **Teacher** and **Faculty Panel** may inspect this record later as gate evidence, but they are not the normal final sprint approvers.
+
 ## A. Final Sprint Review Record
 
 ### 1. Basic Sprint Information
@@ -103,6 +105,8 @@ Overall review remarks:
 
 ## B. Final Validation and Evaluation Readiness
 
+Use this section to summarize readiness before the formal Level 2 checkpoints. Gate decisions themselves still belong in the Gate 3 and Gate 4 forms completed by the **Teacher** and **Faculty Panel**.
+
 ### 1. Readiness Overview
 
 | Field | Details |
@@ -135,7 +139,7 @@ Overall review remarks:
 
 | Role | Name | Signature / Approval Note | Date |
 | --- | --- | --- | --- |
-| Scrum Team Representative |  |  |  |
+| Student Team Representative |  |  |  |
 | Adviser |  |  |  |
 | Research Coordinator |  |  |  |
 

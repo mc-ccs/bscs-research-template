@@ -2,6 +2,8 @@
 
 Use this appendix during **Sprint 0** to confirm that the proposed stack is feasible, maintainable, and aligned with the approved MVP.
 
+This is a **Level 0** working artifact prepared by the Student Team and reviewed at **Level 1** by the **Adviser** and **Research Coordinator**. It may later be cited during Gate 2 or later checkpoints, but gate panels do not replace the required Sprint 0 delivery review.
+
 ## Project Information
 
 | Field | Details |
@@ -70,9 +72,11 @@ If the selected stack creates a clear execution risk, document one of the follow
 ### Approved mitigation or fallback plan
 
 
-## VI. Adviser and Research Coordinator Review
+## VI. Level 1 Delivery-Support Review
 
 | Role | Name | Approval Note | Date |
 | --- | --- | --- | --- |
 | Research Coordinator |  | I confirm that the stack is documented clearly enough for process review. |  |
 | Adviser |  | I confirm that the stack is technically viable for the approved MVP. |  |
+
+If the Teacher or Faculty Panel later requests clarification during a gate, record that feedback in the relevant gate form rather than replacing this review section.
