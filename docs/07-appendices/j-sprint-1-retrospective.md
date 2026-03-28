@@ -7,12 +7,15 @@
 | Facilitator |  |
 | Date |  |
 | Sprint Goal Reviewed |  |
+| Weekly Synchronous Check-In Dates |  |
 
 ## 1. Sprint 1 Summary
 
 | Item | Response |
 | --- | --- |
 | Covered Dates |  |
+| Asynchronous updates submitted this sprint (minimum 3) |  |
+| Weekly synchronous check-in completed |  |
 | Major outputs completed |  |
 | Major outputs still incomplete |  |
 | Main blocker during Sprint 1 |  |
@@ -26,7 +29,7 @@ The team should identify concrete workflow changes for Sprint 2.
 | --- | --- |
 | START Doing | e.g., Reviewing pull requests within 24 hours of posting. |
 | STOP Doing | e.g., Merging work without linking it to the sprint issue. |
-| CONTINUE Doing | e.g., Our midweek async progress check-ins. |
+| CONTINUE Doing | e.g., Our Monday-Wednesday-Friday async progress check-ins. |
 
 ## 3. Team Health Check (Anonymous 1-5 Scale)
 
@@ -60,4 +63,5 @@ Document any issue that must be raised outside the team before Sprint 2 proceeds
 
 - Keep the discussion constructive and evidence-based.
 - The retrospective is primarily for the development team; record only the issues that need to be escalated beyond the team.
+- Cross-check this form against the sprint's asynchronous updates and the weekly synchronous check-in record.
 - If the retrospective identifies an ethics issue, plagiarism concern, or blocking process failure, escalate it immediately through the approved channel.

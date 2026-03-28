@@ -17,6 +17,7 @@ Use this appendix as the formal working record for the closeout of the **Final S
 | System Repository |  |
 | Adviser |  |
 | Research Coordinator |  |
+| Weekly Synchronous Check-In Dates |  |
 
 ### 2. Final Sprint Output Completion Checklist
 
@@ -28,6 +29,7 @@ Mark each item during review.
 | Final implementation outputs are demonstrable and traceable. | [ ] Complete [ ] Needs Revision |  |
 | Validation evidence is complete or any approved remaining work is clearly documented. | [ ] Complete [ ] Needs Revision |  |
 | Pull requests, issues, release evidence, and related references are traceable. | [ ] Complete [ ] Needs Revision |  |
+| At least three asynchronous progress updates and one synchronous weekly progress check-in were documented for the sprint. | [ ] Complete [ ] Needs Revision |  |
 | Chapter 4 and Chapter 5 closeout updates were completed as needed. | [ ] Complete [ ] Needs Revision |  |
 | Remaining limitations, risks, or turnover items were documented. | [ ] Complete [ ] Needs Revision |  |
 
@@ -73,6 +75,7 @@ Record the main references used during the review.
 | GitHub Project board |  |  |
 | Validation evidence |  |  |
 | Demonstration artifacts or screenshots |  |  |
+| Async updates and weekly sync record |  |  |
 | CI/CD workflow results |  |  |
 
 ### 5. Final Sprint Retrospective
@@ -83,6 +86,7 @@ Summarize the retrospective discussion at the end of the final sprint.
 | --- | --- |
 | What went well during the final sprint? |  |
 | What problems or blockers were encountered? |  |
+| Were at least three asynchronous updates and one weekly synchronous check-in completed and recorded? |  |
 | What should the team address before final institutional evaluation? |  |
 | What support or decisions are needed from the adviser or research coordinator? |  |
 
@@ -139,4 +143,5 @@ Overall review remarks:
 
 - Use this appendix as a closeout and readiness record, not as a new sprint planning form.
 - Keep repository links, pull request references, and milestone names specific so the appendix can serve as evidence during Gate 3, Gate 4, and final evaluation.
+- Preserve at least three asynchronous progress updates and one synchronous weekly progress check-in record for the final sprint.
 - Record any approved exceptions or remaining revisions clearly so the final status is traceable.

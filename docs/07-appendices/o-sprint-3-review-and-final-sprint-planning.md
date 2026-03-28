@@ -17,6 +17,7 @@ Use this appendix as the formal working record for the closeout of **Sprint 3** 
 | System Repository |  |
 | Adviser |  |
 | Research Coordinator |  |
+| Weekly Synchronous Check-In Dates |  |
 
 ### 2. Sprint 3 Output Completion Checklist
 
@@ -28,6 +29,7 @@ Mark each item after review.
 | Implemented features or technical outputs are demonstrable. | [ ] Complete [ ] Needs Revision |  |
 | Pull requests, issues, and related evidence are traceable. | [ ] Complete [ ] Needs Revision |  |
 | Sprint review demo or equivalent evidence was completed. | [ ] Complete [ ] Needs Revision |  |
+| At least three asynchronous progress updates and one synchronous weekly progress check-in were documented for the sprint. | [ ] Complete [ ] Needs Revision |  |
 | Chapter 4 progress and related appendices were updated as needed. | [ ] Complete [ ] Needs Revision |  |
 | Blockers, defects, or deferred items were documented. | [ ] Complete [ ] Needs Revision |  |
 
@@ -73,6 +75,7 @@ Record the main references used during the review.
 | GitHub Project board |  |  |
 | Chapter 4 manuscript updates |  |  |
 | Demo artifacts or screenshots |  |  |
+| Async updates and weekly sync record |  |  |
 | CI/CD workflow results |  |  |
 
 ### 5. Sprint 3 Retrospective
@@ -83,6 +86,7 @@ Summarize the retrospective discussion at the end of Sprint 3.
 | --- | --- |
 | What went well during Sprint 3? |  |
 | What problems or blockers were encountered? |  |
+| Were at least three asynchronous updates and one weekly synchronous check-in completed and recorded? |  |
 | What should the team improve in the final sprint? |  |
 | What support or decisions are needed from the adviser or research coordinator? |  |
 
@@ -107,6 +111,7 @@ Overall review remarks:
 | Covered Dates |  |
 | Sprint Goal |  |
 | Planned Demo or Review Date |  |
+| Planned Weekly Synchronous Check-In Dates |  |
 | Expected Release Branch or Milestone |  |
 
 ### 2. Final Sprint Planned Backlog
@@ -125,6 +130,7 @@ List the user stories or issues approved for the final sprint. These should come
 | Planning Check | Response |
 | --- | --- |
 | Sprint 3 velocity or equivalent baseline used for planning |  |
+| Default async update cadence for the sprint (minimum 3 per week) |  |
 | Team members available during the final sprint |  |
 | Major academic or technical constraints during the final sprint |  |
 | Dependencies that must be resolved early in the final sprint |  |
@@ -174,4 +180,5 @@ List the issues that may affect final sprint execution and the action to be take
 
 - Use this appendix as a record of the end-of-sprint conversation, not just as a checklist.
 - Keep repository links, pull request references, and milestone names specific so the appendix can serve as evidence during proposal and later sprint reviews.
+- Preserve at least three asynchronous progress updates and one synchronous weekly progress check-in record for the final sprint.
 - Revise the planned final sprint backlog only through an agreed planning update.
