@@ -37,4 +37,4 @@ Do not repeat the full methodology here. Focus on what was actually built and wh
 
 
 ---
-[⬅️ Previous](a-scrum-execution.md) | [Next ➡️](c-report-validation.md)
+[⬅️ Previous](a-scrum-execution.md) | [Next ➡️](c-ci-cd-results.md)
