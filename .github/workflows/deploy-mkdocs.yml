@@ -46,7 +46,24 @@ jobs:
           fi
           echo "dir=$dir" >> "$GITHUB_OUTPUT"
 
-      # PRODUCTION: main -> gh-pages root
+      # PRODUCTION: main -> gh-pages root (clean deploy; UAT/staging subdirs are re-injected)
+      - name: Preserve UAT and staging subdirs before production deploy
+        if: github.ref == 'refs/heads/main'
+        shell: bash
+        run: |
+          if git ls-remote --exit-code origin gh-pages > /dev/null 2>&1; then
+            git fetch origin gh-pages
+            # Re-inject every top-level subdirectory (e.g. uat/, sprint-0/) into ./site
+            # so they survive the clean deploy and are not wiped by peaceiris.
+            git ls-tree --name-only origin/gh-pages | while IFS= read -r entry; do
+              if git cat-file -t "origin/gh-pages:${entry}" 2>/dev/null | grep -q '^tree$'; then
+                git archive origin/gh-pages "${entry}" | tar -x -C ./site/
+              fi
+            done
+          else
+            echo "gh-pages branch does not exist yet; skipping subdir preservation (first-time deploy)."
+          fi
+
       - name: Deploy Production (main)
         if: github.ref == 'refs/heads/main'
         uses: peaceiris/actions-gh-pages@v3
@@ -54,7 +71,6 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: gh-pages
           publish_dir: ./site
-          keep_files: true
 
       # UAT: develop -> gh-pages/uat
       - name: Deploy UAT (develop)
