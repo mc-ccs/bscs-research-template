@@ -95,7 +95,7 @@ Use the standard SUS scoring method when computing the `Total Contribution` and 
 | Total Contribution | Sum of the adjusted values for all 10 items |
 | SUS Score | `Total Contribution x 2.5` |
 
-Reference Threshold Used in This Template: `68` or higher indicates acceptable usability unless the adviser or research manual requires a different interpretation.
+Reference Threshold Used in This Template: `68` or higher indicates acceptable usability unless the Adviser or research manual requires a different interpretation.
 
 ## VIII. SUS Summary Table
 

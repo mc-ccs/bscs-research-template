@@ -103,7 +103,7 @@ Before final submission, tailor this validation plan to the actual research proj
 - The exact testing instruments used
 - The exact number and type of evaluators
 - The scoring or interpretation method
-- The success thresholds approved by the adviser or research manual
+- The success thresholds approved by the Adviser or research manual
 - Any additional validation required by the study, such as model accuracy, expert review, or comparative analysis
 
 

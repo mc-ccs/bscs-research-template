@@ -20,7 +20,7 @@ This layered arrangement keeps presentation, processing, and persistence concern
 
 ### 1. User Roles
 
-The architecture assumes three common actors: students or respondents, faculty users such as advisers or panel members, and administrators. In an actual research implementation, these roles may be renamed depending on the domain. For example, a healthcare project may use patients and clinicians, while an inventory project may use staff and managers.
+The architecture assumes three common actors: students or respondents, faculty users such as Advisers or Faculty Panel members, and administrators. In an actual research implementation, these roles may be renamed depending on the domain. For example, a healthcare project may use patients and clinicians, while an inventory project may use staff and managers.
 
 ### 2. Client Layer
 

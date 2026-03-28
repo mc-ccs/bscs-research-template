@@ -22,7 +22,7 @@ Bachelor of Science in Computer Science
 [Example: Academic Year 2026-2027]  
 
 **Adviser**  
-[Enter adviser name]  
+[Enter Adviser name]  
 
 **Date Submitted**  
 [Month Day, Year]
