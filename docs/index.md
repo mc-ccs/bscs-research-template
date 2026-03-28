@@ -1,6 +1,6 @@
 # Research Repository
 
-Welcome to the official research repository for **[Project Title]**.
+Welcome to the official research repository for your approved research project.
 
 This template is intended for either a **capstone project** or a **thesis** under the BSCS research workflow. The same chapter structure and appendix gates apply unless the department approves a specific exception.
 

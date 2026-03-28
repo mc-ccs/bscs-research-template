@@ -1,4 +1,6 @@
-# Topic Mine - Member 1 (_Replace this with your name_)
+# Topic Mine - Member 1
+
+Use this page to document three candidate research topics for Member 1.
 
 ## Topic 1
 

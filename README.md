@@ -108,8 +108,12 @@ Before cloning, accept the GitHub Classroom assignment link provided by your ins
 ## 2. Install Requirements
 
 ```bash
+python -m venv .venv
+.venv\Scripts\activate
 pip install mkdocs mkdocs-material
 ```
+
+On macOS or Linux, activate the environment with `source .venv/bin/activate` instead.
 
 ## 3. Start Writing
 
@@ -157,6 +161,8 @@ git push
 ```bash
 git checkout -b doc/<your-topic>
 ```
+
+If `develop` already exists in the repository, create the branch from `develop` so your pull request target stays aligned with the documented workflow.
 
 Examples:
 
