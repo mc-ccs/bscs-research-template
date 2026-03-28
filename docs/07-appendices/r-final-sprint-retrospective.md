@@ -1,29 +1,59 @@
-# Sprint 0 Retrospective
-
+# Final Sprint Retrospective
 
 # Facilitator: _____________________  
 # Date: _______________
+# Sprint Goal Reviewed: ___________________________________________
 
-# 1. The "Start, Stop, Continue" Board
-The team brainstorms items for each category to improve their workflow for the next 3 weeks.
+# 1. Final Sprint Summary
+
+| Item | Response |
+| --- | --- |
+| Covered Dates |  |
+| Major outputs completed |  |
+| Major outputs still incomplete |  |
+| Main blocker during the final sprint |  |
+| Key repository or workflow evidence reviewed |  |
+
+# 2. The "Start, Stop, Continue" Board
+
+Use this final retrospective to identify lessons that should inform project closeout, turnover, or future team practice.
+
 | Category | Items |
 | --- | --- |
-| 🚀 START Doing | e.g., Reviewing PRs within 24 hours of posting. |
-| 🛑 STOP Doing | e.g., Coding on the main branch directly. |
-| ✅ CONTINUE Doing | e.g., Our Wednesday sync-ups with the Advisor. |
+| START Doing | e.g., Preparing evidence packages earlier in the sprint. |
+| STOP Doing | e.g., Deferring documentation updates until the end of implementation. |
+| CONTINUE Doing | e.g., Cross-checking manuscript claims against repository evidence. |
 
-# 2. Team Health Check (Anonymous 1-5 Scale)
-Each member votes on these four pillars. If the average is below 3, the Research Coordinator must be notified of a potential "Team Crash."
-1. Velocity: Are we moving fast enough to hit our 17-week deadline? [ ]
-2. Code Quality: Are we proud of the code, or is it "spaghetti"? [ ]
-3. Communication: Are the Dev and Doc teams talking to each other? [ ]
-4. Morale: Is the team feeling burnt out or motivated? [ ]
+# 3. Team Health Check (Anonymous 1-5 Scale)
 
-# 4. Top 3 Process Improvements for Next Sprint
+Each member may vote on the following indicators. Low scores should trigger a specific action plan rather than a vague warning.
 
-Identify exactly three things the team will change. These must be measurable.Improvement 1: _______________________________________________________Improvement 2: _______________________________________________________Improvement 3: _______________________________________________________
+1. Delivery pace: Did the team sustain an acceptable pace through the final sprint? [ ]
+2. Code or document quality: Did the team produce reviewable and defensible outputs? [ ]
+3. Communication: Did technical and documentation tasks stay coordinated through closeout? [ ]
+4. Morale: Is the team stable enough to complete remaining validation and presentation work? [ ]
 
-💡 Instructions for the Student Facilitator
-Neutrality: Your job is to listen, not to blame. If "Developer A" didn't finish their task, ask why (e.g., "Was the task too big?"), rather than accusing them.
-The "Vegas Rule": What is said in the Retrospective stays in the Retrospective—unless it involves an Ethical Breach or Plagiarism, which must be reported to the Research Coordinator immediately.
-Action Items: Don't just complain. Every "Stop doing" item needs a concrete "Start doing" replacement.
+# 4. Top 3 Process Lessons
+
+Identify exactly three measurable lessons or improvements to carry into project closeout or future iterations.
+
+Lesson 1: _______________________________________________________
+
+Lesson 2: _______________________________________________________
+
+Lesson 3: _______________________________________________________
+
+# 5. Escalation Items
+
+Document any issue that must be raised outside the team before final review, validation completion, or defense preparation proceeds.
+
+| Issue | Why it matters | Owner | Due Date |
+| --- | --- | --- | --- |
+|  |  |  |  |
+|  |  |  |  |
+
+## Notes for the Facilitator
+
+- Keep the discussion constructive and evidence-based.
+- The retrospective is primarily for the development team; record only the issues that need to be escalated beyond the team.
+- If the retrospective identifies an ethics issue, plagiarism concern, or blocking process failure, escalate it immediately through the approved channel.

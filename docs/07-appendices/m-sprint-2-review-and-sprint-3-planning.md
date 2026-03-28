@@ -1,8 +1,8 @@
-# Sprint 0 Review and Sprint 1 Planning
+# Sprint 2 Review and Sprint 3 Planning
 
-Use this appendix as the formal working record for the closeout of **Sprint 0** and the preparation of **Sprint 1**. It is intended to be completed by the team together with the **adviser** and **research coordinator** after Sprint 0 outputs have been reviewed.
+Use this appendix as the formal working record for the closeout of **Sprint 2** and the preparation of **Sprint 3**. It is intended to be completed by the team together with the **adviser** and **research coordinator** after Sprint 2 outputs have been reviewed.
 
-## A. Sprint 0 Review Record
+## A. Sprint 2 Review Record
 
 ### 1. Basic Sprint Information
 
@@ -10,51 +10,45 @@ Use this appendix as the formal working record for the closeout of **Sprint 0** 
 | --- | --- |
 | Team Name |  |
 | Project Title |  |
-| Sprint | Sprint 0 |
+| Sprint | Sprint 2 |
 | Covered Dates |  |
-| Sprint Goal | Establish the project foundation, define the MVP, and prepare both repositories and planning artifacts for implementation. |
+| Sprint Goal |  |
 | Documentation Repository |  |
 | System Repository |  |
 | Adviser |  |
 | Research Coordinator |  |
 
-### 2. Sprint 0 Output Completion Checklist
+### 2. Sprint 2 Output Completion Checklist
 
 Mark each item after review.
 
-| Expected Sprint 0 Output | Status | Notes / Evidence |
+| Expected Sprint 2 Output | Status | Notes / Evidence |
 | --- | --- | --- |
-| Stakeholder list is identified and documented. | [ ] Complete [ ] Needs Revision |  |
-| Initial user stories are defined using the institutional format. | [ ] Complete [ ] Needs Revision |  |
-| Product backlog is created and organized in GitHub Projects. | [ ] Complete [ ] Needs Revision |  |
-| Initial architecture or system design is documented. | [ ] Complete [ ] Needs Revision |  |
-| MVP scope and boundaries are clearly defined. | [ ] Complete [ ] Needs Revision |  |
-| Documentation repository is properly configured. | [ ] Complete [ ] Needs Revision |  |
-| System repository is properly configured. | [ ] Complete [ ] Needs Revision |  |
-| Development workflow tools and controls are configured. | [ ] Complete [ ] Needs Revision |  |
-| Chapter 1 draft is ready for proposal-level review. | [ ] Complete [ ] Needs Revision |  |
-| Chapter 2 draft is ready for proposal-level review. | [ ] Complete [ ] Needs Revision |  |
-| Chapter 3 draft is ready for proposal-level review. | [ ] Complete [ ] Needs Revision |  |
+| Planned Sprint 2 backlog items were completed or properly carried over. | [ ] Complete [ ] Needs Revision |  |
+| Implemented features or technical outputs are demonstrable. | [ ] Complete [ ] Needs Revision |  |
+| Pull requests, issues, and related evidence are traceable. | [ ] Complete [ ] Needs Revision |  |
+| Sprint review demo or equivalent evidence was completed. | [ ] Complete [ ] Needs Revision |  |
+| Chapter 4 progress and related appendices were updated as needed. | [ ] Complete [ ] Needs Revision |  |
+| Blockers, defects, or deferred items were documented. | [ ] Complete [ ] Needs Revision |  |
 
 ### 3. Repository Governance and Review Checklist
 
-This section verifies the institutional review responsibilities for Sprint 0.
+This section verifies the institutional review responsibilities for Sprint 2.
 
 | Review Item | Adviser | Research Coordinator | Remarks |
 | --- | --- | --- | --- |
 | Documentation repository release-related work to `main` was reviewed. | [ ] | [ ] |  |
 | System repository release-related work to `main` was reviewed. | [ ] | [ ] |  |
-| `CODEOWNERS` is updated and aligned with the team setup. | [ ] | [ ] |  |
-| Protected branches (`main`, `develop`) are established. | [ ] | [ ] |  |
-| Pull request review rules are enabled for protected branches. | [ ] | [ ] |  |
-| CI/CD workflow is present and appropriate for the chosen stack. | [ ] | [ ] |  |
-| Security controls such as Dependabot, secret scanning, or code scanning were checked when available. | [ ] | [ ] |  |
+| Required pull request reviews were completed before merge. | [ ] | [ ] |  |
+| Sprint evidence is traceable to issues, pull requests, and release references. | [ ] | [ ] |  |
+| CI/CD workflow results were checked when applicable. | [ ] | [ ] |  |
+| Security or dependency checks were reviewed when available. | [ ] | [ ] |  |
 
-### 4. Sprint 0 Review Summary
+### 4. Sprint 2 Review Summary
 
 #### Accomplishments
 
-List the major outputs completed during Sprint 0.
+List the major outputs completed during Sprint 2.
 
 1. 
 2. 
@@ -62,11 +56,11 @@ List the major outputs completed during Sprint 0.
 
 #### Gaps Requiring Revision
 
-List the items that still need correction before or during Sprint 1.
+List the items that still need correction before or during Sprint 3.
 
-1. 
-2. 
-3. 
+1.
+2.
+3.
 
 #### Key Evidence Reviewed
 
@@ -77,47 +71,47 @@ Record the main references used during the review.
 | Pull requests |  |  |
 | Commits or release tag |  |  |
 | GitHub Project board |  |  |
-| Chapter 1 to 3 manuscript sections |  |  |
-| Architecture artifacts |  |  |
+| Chapter 4 manuscript updates |  |  |
+| Demo artifacts or screenshots |  |  |
 | CI/CD workflow results |  |  |
 
-### 5. Sprint 0 Retrospective
+### 5. Sprint 2 Retrospective
 
-Summarize the retrospective discussion at the end of Sprint 0.
+Summarize the retrospective discussion at the end of Sprint 2.
 
 | Retrospective Prompt | Response |
 | --- | --- |
-| What went well during Sprint 0? |  |
+| What went well during Sprint 2? |  |
 | What problems or blockers were encountered? |  |
-| What should the team improve in Sprint 1? |  |
+| What should the team improve in Sprint 3? |  |
 | What support or decisions are needed from the adviser or research coordinator? |  |
 
-### 6. Sprint 0 Decision
+### 6. Sprint 2 Decision
 
 Select the review outcome.
 
-- [ ] Sprint 0 outputs are accepted and the team is ready for Sprint 1.
-- [ ] Sprint 0 outputs are accepted with minor revisions to be completed during Sprint 1.
-- [ ] Sprint 0 outputs require major revision before Sprint 1 work should proceed.
+- [ ] Sprint 2 outputs are accepted and the team is ready for Sprint 3.
+- [ ] Sprint 2 outputs are accepted with minor revisions to be completed during Sprint 3.
+- [ ] Sprint 2 outputs require major revision before Sprint 3 work should proceed.
 
 Overall review remarks:
 
 
-## B. Sprint 1 Planning Record
+## B. Sprint 3 Planning Record
 
-### 1. Sprint 1 Planning Overview
+### 1. Sprint 3 Planning Overview
 
 | Field | Details |
 | --- | --- |
-| Planned Sprint | Sprint 1 |
+| Planned Sprint | Sprint 3 |
 | Covered Dates |  |
 | Sprint Goal |  |
 | Planned Demo or Review Date |  |
 | Expected Release Branch or Milestone |  |
 
-### 2. Sprint 1 Planned Backlog
+### 2. Sprint 3 Planned Backlog
 
-List the user stories or issues approved for Sprint 1. These should come from the prioritized backlog and must be feasible within the planned sprint window.
+List the user stories or issues approved for Sprint 3. These should come from the prioritized backlog and must be feasible within the planned sprint window.
 
 | Epic / Story | Repository | Issue / PR Reference | Story Points | Assigned Owner(s) | Acceptance Criteria Ready | Notes |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -130,14 +124,14 @@ List the user stories or issues approved for Sprint 1. These should come from th
 
 | Planning Check | Response |
 | --- | --- |
-| Sprint 0 velocity or equivalent baseline used for planning |  |
-| Team members available during Sprint 1 |  |
-| Major academic or technical constraints during Sprint 1 |  |
-| Dependencies that must be resolved early in Sprint 1 |  |
+| Sprint 2 velocity or equivalent baseline used for planning |  |
+| Team members available during Sprint 3 |  |
+| Major academic or technical constraints during Sprint 3 |  |
+| Dependencies that must be resolved early in Sprint 3 |  |
 
-### 4. Sprint 1 Definition of Done Reminder
+### 4. Sprint 3 Definition of Done Reminder
 
-Each approved backlog item for Sprint 1 should satisfy the following before it is counted as complete.
+Each approved backlog item for Sprint 3 should satisfy the following before it is counted as complete.
 
 - [ ] Work is committed to the correct repository.
 - [ ] A pull request is created and reviewed.
@@ -146,21 +140,21 @@ Each approved backlog item for Sprint 1 should satisfy the following before it i
 - [ ] Related documentation is updated.
 - [ ] Evidence is ready for the next sprint review.
 
-### 5. Sprint 1 Review Responsibility Reminder
+### 5. Sprint 3 Review Responsibility Reminder
 
-For **Sprint 1**, the normal institutional review pattern is as follows:
+For **Sprint 3**, the normal institutional review pattern is as follows:
 
 | Repository | Typical Reviewer for Merges to `main` | Notes |
 | --- | --- | --- |
-| Documentation repository | Research Coordinator | Used for manuscript and documentation release-related review. |
-| System repository | Adviser | Used for system implementation release-related review. |
+| Documentation repository | Adviser and Research Coordinator | Both reviewers are expected for release-related merges to `main`. |
+| System repository | Adviser and Research Coordinator | Both reviewers are expected for release-related merges to `main`. |
 
 If a different review arrangement is approved, document it here:
 
 
 ### 6. Risks and Early Escalation Items
 
-List the issues that may affect Sprint 1 execution and the action to be taken.
+List the issues that may affect Sprint 3 execution and the action to be taken.
 
 | Risk / Concern | Impact | Mitigation / Owner |
 | --- | --- | --- |
@@ -180,4 +174,4 @@ List the issues that may affect Sprint 1 execution and the action to be taken.
 
 - Use this appendix as a record of the end-of-sprint conversation, not just as a checklist.
 - Keep repository links, pull request references, and milestone names specific so the appendix can serve as evidence during proposal and later sprint reviews.
-- Revise the planned Sprint 1 backlog only through an agreed planning update.
+- Revise the planned Sprint 3 backlog only through an agreed planning update.
