@@ -1,0 +1,109 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760" role="img" aria-labelledby="title desc">
+  <title id="title">Reusable Data Schema Diagram</title>
+  <desc id="desc">A generic entity relationship diagram showing users, profiles, core records, record details, results, and audit logs.</desc>
+  <defs>
+    <style>
+      .bg { fill: #f7f4ec; }
+      .panel { fill: #fffdf8; stroke: #23313f; stroke-width: 2; rx: 14; }
+      .head { fill: #d6e7df; stroke: #23313f; stroke-width: 2; rx: 14; }
+      .text { font-family: Georgia, 'Times New Roman', serif; fill: #1f2a33; font-size: 20px; }
+      .small { font-size: 16px; }
+      .label { font-family: Arial, sans-serif; fill: #1f2a33; font-size: 16px; font-weight: bold; }
+      .line { stroke: #23313f; stroke-width: 3; fill: none; }
+      .card { font-family: Arial, sans-serif; fill: #9d3d00; font-size: 18px; font-weight: bold; }
+    </style>
+    <marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#23313f" />
+    </marker>
+  </defs>
+
+  <rect class="bg" x="0" y="0" width="1200" height="760" />
+
+  <text class="text" x="60" y="55" font-size="30" font-weight="bold">Generic Data Schema Template</text>
+  <text class="text small" x="60" y="84">Replace entity names and attributes below with the actual records used by the project.</text>
+
+  <g transform="translate(70 130)">
+    <rect class="head" x="0" y="0" width="260" height="54" />
+    <rect class="panel" x="0" y="54" width="260" height="150" />
+    <text class="text" x="20" y="34" font-weight="bold">Users</text>
+    <text class="text small" x="20" y="86">PK user_id</text>
+    <text class="text small" x="20" y="114">email</text>
+    <text class="text small" x="20" y="142">password_hash</text>
+    <text class="text small" x="20" y="170">role, status</text>
+  </g>
+
+  <g transform="translate(390 130)">
+    <rect class="head" x="0" y="0" width="260" height="54" />
+    <rect class="panel" x="0" y="54" width="260" height="150" />
+    <text class="text" x="20" y="34" font-weight="bold">Profiles</text>
+    <text class="text small" x="20" y="86">PK profile_id</text>
+    <text class="text small" x="20" y="114">FK user_id</text>
+    <text class="text small" x="20" y="142">display_name</text>
+    <text class="text small" x="20" y="170">contact_details</text>
+  </g>
+
+  <g transform="translate(710 130)">
+    <rect class="head" x="0" y="0" width="320" height="54" />
+    <rect class="panel" x="0" y="54" width="320" height="150" />
+    <text class="text" x="20" y="34" font-weight="bold">CoreRecords</text>
+    <text class="text small" x="20" y="86">PK record_id</text>
+    <text class="text small" x="20" y="114">FK created_by_user_id</text>
+    <text class="text small" x="20" y="142">title, category, status</text>
+    <text class="text small" x="20" y="170">created_at, updated_at</text>
+  </g>
+
+  <g transform="translate(620 410)">
+    <rect class="head" x="0" y="0" width="320" height="54" />
+    <rect class="panel" x="0" y="54" width="320" height="150" />
+    <text class="text" x="20" y="34" font-weight="bold">RecordDetails</text>
+    <text class="text small" x="20" y="86">PK detail_id</text>
+    <text class="text small" x="20" y="114">FK record_id</text>
+    <text class="text small" x="20" y="142">attribute_name</text>
+    <text class="text small" x="20" y="170">attribute_value</text>
+  </g>
+
+  <g transform="translate(70 410)">
+    <rect class="head" x="0" y="0" width="260" height="54" />
+    <rect class="panel" x="0" y="54" width="260" height="150" />
+    <text class="text" x="20" y="34" font-weight="bold">Results</text>
+    <text class="text small" x="20" y="86">PK result_id</text>
+    <text class="text small" x="20" y="114">FK record_id</text>
+    <text class="text small" x="20" y="142">output_value</text>
+    <text class="text small" x="20" y="170">generated_at</text>
+  </g>
+
+  <g transform="translate(70 615)">
+    <rect class="head" x="0" y="0" width="260" height="54" />
+    <rect class="panel" x="0" y="54" width="260" height="90" />
+    <text class="text" x="20" y="34" font-weight="bold">AuditLogs</text>
+    <text class="text small" x="20" y="86">PK log_id</text>
+    <text class="text small" x="20" y="114">FK user_id, action, timestamp</text>
+  </g>
+
+  <path class="line" d="M 330 235 L 390 235" marker-end="url(#arrow)" />
+  <text class="card" x="348" y="222">1</text>
+  <text class="card" x="365" y="257">1</text>
+
+  <path class="line" d="M 650 235 L 710 235" marker-end="url(#arrow)" />
+  <text class="card" x="668" y="222">1</text>
+  <text class="card" x="682" y="257">N</text>
+
+  <path class="line" d="M 870 334 L 870 410" marker-end="url(#arrow)" />
+  <text class="card" x="882" y="376">1</text>
+  <text class="card" x="882" y="402">N</text>
+
+  <path class="line" d="M 710 235 C 520 235, 470 410, 330 487" marker-end="url(#arrow)" />
+  <text class="card" x="525" y="300">1</text>
+  <text class="card" x="352" y="480">N</text>
+
+  <path class="line" d="M 200 334 L 200 615" marker-end="url(#arrow)" />
+  <text class="card" x="212" y="476">1</text>
+  <text class="card" x="212" y="606">N</text>
+
+  <text class="label" x="984" y="474">Typical relationships</text>
+  <text class="text small" x="984" y="503">Users 1:1 Profiles</text>
+  <text class="text small" x="984" y="529">Users 1:N CoreRecords</text>
+  <text class="text small" x="984" y="555">CoreRecords 1:N RecordDetails</text>
+  <text class="text small" x="984" y="581">CoreRecords 1:N Results</text>
+  <text class="text small" x="984" y="607">Users 1:N AuditLogs</text>
+</svg>
