@@ -14,7 +14,7 @@
 | Teacher | [Enter teacher name] |
 | Date Submitted | [Month Day, Year] |
 | Keywords | [keyword 1], [keyword 2], [keyword 3], [keyword 4], [keyword 5] |
-| Sustainable Development Goals | [SGD 1], [SGD 2], [SGD 3] |
+| Sustainable Development Goals | [SDG 1], [SDG 2], [SDG 3] |
 
 ## Abstract
 
