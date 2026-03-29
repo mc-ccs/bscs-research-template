@@ -24,7 +24,7 @@ The backlog should make it possible to trace each planned feature from user stor
 
 ## Standard Table
 
-| Epic or Functional Area | Sample User Story or Requirement | Tracking ID | Priority | Planned Sprint | Acceptance Basis |
+| Epic or Functional Area | User Story or Requirement | Tracking ID | Priority | Planned Sprint | Acceptance Basis |
 | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  |  |
 |  |  |  |  |  |  |
