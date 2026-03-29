@@ -5,6 +5,7 @@ theme:
   features:
     - navigation.sections
     - navigation.expand
+    - navigation.indexes
     - navigation.top
     - content.code.copy
 markdown_extensions:
@@ -19,15 +20,18 @@ markdown_extensions:
 nav:
   - Home: index.md
   - Chapter 1 Introduction:
+    - 01-chapter-1-introduction/index.md
     - Project Context: 01-chapter-1-introduction/a-project-context.md
     - Purpose and Description: 01-chapter-1-introduction/b-purpose-and-description.md
     - Objectives and RQ Alignment: 01-chapter-1-introduction/c-objectives-rq-alignment.md
     - Scope and Limitations: 01-chapter-1-introduction/d-scope-and-limitation.md
   - Chapter 2 Related Literature:
+    - 02-chapter-2-related-literature/index.md
     - Domain Literature: 02-chapter-2-related-literature/a-domain-literature.md
     - Synthesis Matrix: 02-chapter-2-related-literature/b-synthesis-matrix.md
     - Technical Gap: 02-chapter-2-related-literature/c-technical-gap.md
   - Chapter 3 Methods:
+    - 03-chapter-3-methods/index.md
     - Institutional Framework: 03-chapter-3-methods/a-institutional-framework.md
     - Product Backlog: 03-chapter-3-methods/b-product-backlog.md
     - Sprint Structure: 03-chapter-3-methods/c-sprint-structure.md
@@ -37,6 +41,7 @@ nav:
     - Data Schema: 03-chapter-3-methods/g-data-schema.md
     - Validation Plan: 03-chapter-3-methods/h-validation-plan.md
   - Chapter 4 Results:
+    - 04-chapter-4-results/index.md
     - Scrum Execution: 04-chapter-4-results/a-scrum-execution.md
     - Features and Outputs: 04-chapter-4-results/b-features-and-outputs.md
     - CI/CD Results: 04-chapter-4-results/c-ci-cd-results.md
@@ -45,11 +50,13 @@ nav:
     - Security Verification Results: 04-chapter-4-results/f-security-verification-results.md
     - Validation Results: 04-chapter-4-results/g-validation-results.md
   - Chapter 5 Discussion:
+    - 05-chapter-5-discussion/index.md
     - Summary of Key Findings: 05-chapter-5-discussion/a-summary-of-key-findings.md
     - Conclusions Based on Validation: 05-chapter-5-discussion/b-conclusions.md
     - Limitations: 05-chapter-5-discussion/c-limitations.md
     - Recommendations: 05-chapter-5-discussion/d-recommendations.md
   - Appendices:
+    - 06-appendices/index.md
     - CVs:
       - Contributor Profile - Member 1: 06-appendices/a-cv/member1.md
       - Contributor Profile - Member 2: 06-appendices/a-cv/member2.md
