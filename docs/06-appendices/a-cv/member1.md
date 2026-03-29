@@ -7,7 +7,7 @@
 **Full Name:** [Enter full name]  
 **Role in the Research Project:** [Example: Lead Developer, Research Writer, UI/UX Designer]  
 **Program:** Bachelor of Science in Computer Science  
-**Institution:** [Enter institution name]  
+**Institution:** Mabini Colleges, Inc.  
 **Professional or Academic Email:** [Use a public-safe contact address]  
 **LinkedIn:** [Add link if available]  
 **GitHub:** [Add link if available]  
@@ -30,7 +30,7 @@ Summarize the member's specific responsibilities in the project.
 List only the education details necessary for public academic context.
 
 **Degree Program:** Bachelor of Science in Computer Science  
-**Institution:** [Enter institution name]  
+**Institution:** Mabini Colleges, Inc.  
 **Inclusive Dates:** [Month Year] - [Month Year or Present]
 
 ## 5. Selected Academic or Technical Projects

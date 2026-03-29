@@ -6,7 +6,7 @@
 | --- | --- |
 | Proponents | [Name 1], [Name 2], [Name 3] |
 | Program | Bachelor of Science in Computer Science |
-| Institution | [Enter institution name] |
+| Institution | Mabini Colleges, Inc. |
 | Term | [Example: Academic Year 2026-2027] |
 | Adviser | [Enter adviser name] |
 | Research Coordinator | [Enter research coordinator name] |

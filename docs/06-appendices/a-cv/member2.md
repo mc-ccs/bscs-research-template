@@ -7,7 +7,7 @@
 **Full Name:** [Enter full name]  
 **Role in the Research Project:** [Example: Lead Developer, Research Writer, QA Lead]  
 **Program:** Bachelor of Science in Computer Science  
-**Institution:** [Enter institution name]  
+**Institution:** Mabini Colleges, Inc.  
 **Professional or Academic Email:** [Use a public-safe contact address]  
 **LinkedIn:** [Add link if available]  
 **GitHub:** [Add link if available]  
@@ -26,7 +26,7 @@ Write 2 to 4 sentences describing this contributor's academic background, techni
 ## 4. Education
 
 **Degree Program:** Bachelor of Science in Computer Science  
-**Institution:** [Enter institution name]  
+**Institution:** Mabini Colleges, Inc.  
 **Inclusive Dates:** [Month Year] - [Month Year or Present]
 
 ## 5. Selected Academic or Technical Projects
