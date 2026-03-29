@@ -202,4 +202,4 @@ List the issues that may affect Sprint 2 execution and the action to be taken.
 - Revise the planned Sprint 2 backlog only through an agreed planning update.
 
 ---
-[⬅️ Previous](j-sprint-1-retrospective.md) | [Next ➡️](l-sprint-2-retrospective.md)
+[⬅️ Previous](j-sprint-1-retrospective) | [Next ➡️](l-sprint-2-retrospective.md)
