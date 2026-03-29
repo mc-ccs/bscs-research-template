@@ -209,3 +209,6 @@ List the issues that may affect Sprint 1 execution and the action to be taken.
 - Revisit Appendix A to F or Epic 4 User Story 1 to 6 during every later sprint and mark not-yet-applicable rows explicitly when a result area has not started.
 - Preserve at least three asynchronous progress updates and one synchronous weekly progress check-in record for Sprint 1.
 - Revise the planned Sprint 1 backlog only through an agreed planning update.
+
+---
+[⬅️ Previous](g-sprint-0-retrospective.md) | [Next ➡️](j-sprint-1-retrospective.md)
