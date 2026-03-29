@@ -37,3 +37,6 @@ Functional Validation: `(Target: Minimum 68/100 SUS Score)`
 * Teacher: 
 * Faculty Panel: 
 
+---
+[⬅️ Previous](b-topic-mine/member2.md) | [Next ➡️](d-comparative-summary.md)
+

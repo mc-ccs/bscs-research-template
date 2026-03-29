@@ -1,9 +1,11 @@
-site_name: Research Project
-site_description: A modular research manuscript written in Markdown and published with MkDocs
+site_name: Research Project Website
+site_description: A modular research website written in Markdown and published with MkDocs
 theme:
   name: material
   features:
     - navigation.sections
+    - navigation.expand
+    - navigation.indexes
     - navigation.top
     - content.code.copy
 markdown_extensions:
@@ -17,68 +19,68 @@ markdown_extensions:
   - attr_list
 nav:
   - Home: index.md
-  - Front Matter:
-    - Title Page: 01-front-matter/a-title-page.md
-    - Abstract or Executive Summary: 01-front-matter/b-abstract.md
-    - Table of Contents: 01-front-matter/c-table-of-contents.md
-    - List of Figures: 01-front-matter/d-list-of-figures.md
-    - List of Tables: 01-front-matter/e-list-of-tables.md
   - Chapter 1 Introduction:
-    - Project Context: 02-chapter-1-introduction/a-project-context.md
-    - Purpose and Description: 02-chapter-1-introduction/b-purpose-and-description.md
-    - Objectives and RQ Alignment: 02-chapter-1-introduction/c-objectives-rq-alignment.md
-    - Scope and Limitations: 02-chapter-1-introduction/d-scope-and-limitation.md
+    - 01-chapter-1-introduction/index.md
+    - Project Context: 01-chapter-1-introduction/a-project-context.md
+    - Purpose and Description: 01-chapter-1-introduction/b-purpose-and-description.md
+    - Objectives and RQ Alignment: 01-chapter-1-introduction/c-objectives-rq-alignment.md
+    - Scope and Limitations: 01-chapter-1-introduction/d-scope-and-limitation.md
   - Chapter 2 Related Literature:
-    - Domain Literature: 03-chapter-2-related-literature/a-domain-literature.md
-    - Synthesis Matrix: 03-chapter-2-related-literature/b-synthesis-matrix.md
-    - Technical Gap: 03-chapter-2-related-literature/c-technical-gap.md
+    - 02-chapter-2-related-literature/index.md
+    - Domain Literature: 02-chapter-2-related-literature/a-domain-literature.md
+    - Synthesis Matrix: 02-chapter-2-related-literature/b-synthesis-matrix.md
+    - Technical Gap: 02-chapter-2-related-literature/c-technical-gap.md
   - Chapter 3 Methods:
-    - Institutional Framework: 04-chapter-3-methods/a-institutional-framework.md
-    - Product Backlog: 04-chapter-3-methods/b-product-backlog.md
-    - Sprint Structure: 04-chapter-3-methods/c-sprint-structure.md
-    - Definition of Done: 04-chapter-3-methods/d-definition-of-done.md
-    - System Architecture: 04-chapter-3-methods/e-system-architecture.md
-    - Logic Flow: 04-chapter-3-methods/f-logic-flow.md
-    - Data Schema: 04-chapter-3-methods/g-data-schema.md
-    - Validation Plan: 04-chapter-3-methods/h-validation-plan.md
+    - 03-chapter-3-methods/index.md
+    - Institutional Framework: 03-chapter-3-methods/a-institutional-framework.md
+    - Product Backlog: 03-chapter-3-methods/b-product-backlog.md
+    - Sprint Structure: 03-chapter-3-methods/c-sprint-structure.md
+    - Definition of Done: 03-chapter-3-methods/d-definition-of-done.md
+    - System Architecture: 03-chapter-3-methods/e-system-architecture.md
+    - Logic Flow: 03-chapter-3-methods/f-logic-flow.md
+    - Data Schema: 03-chapter-3-methods/g-data-schema.md
+    - Validation Plan: 03-chapter-3-methods/h-validation-plan.md
   - Chapter 4 Results:
-    - Scrum Execution: 05-chapter-4-results/a-scrum-execution.md
-    - Features and Outputs: 05-chapter-4-results/b-features-and-outputs.md
-    - CI/CD Results: 05-chapter-4-results/c-ci-cd-results.md
-    - System Testing Results: 05-chapter-4-results/d-system-testing-results.md
-    - Code Coverage Results: 05-chapter-4-results/e-code-coverage-results.md
-    - Security Verification Results: 05-chapter-4-results/f-security-verification-results.md
-    - Validation Results: 05-chapter-4-results/g-validation-results.md
+    - 04-chapter-4-results/index.md
+    - Scrum Execution: 04-chapter-4-results/a-scrum-execution.md
+    - Features and Outputs: 04-chapter-4-results/b-features-and-outputs.md
+    - CI/CD Results: 04-chapter-4-results/c-ci-cd-results.md
+    - System Testing Results: 04-chapter-4-results/d-system-testing-results.md
+    - Code Coverage Results: 04-chapter-4-results/e-code-coverage-results.md
+    - Security Verification Results: 04-chapter-4-results/f-security-verification-results.md
+    - Validation Results: 04-chapter-4-results/g-validation-results.md
   - Chapter 5 Discussion:
-    - Summary of Key Findings: 06-chapter-5-discussion/a-summary-of-key-findings.md
-    - Conclusions Based on Validation: 06-chapter-5-discussion/b-conclusions.md
-    - Limitations: 06-chapter-5-discussion/c-limitations.md
-    - Recommendations: 06-chapter-5-discussion/d-recommendations.md
+    - 05-chapter-5-discussion/index.md
+    - Summary of Key Findings: 05-chapter-5-discussion/a-summary-of-key-findings.md
+    - Conclusions Based on Validation: 05-chapter-5-discussion/b-conclusions.md
+    - Limitations: 05-chapter-5-discussion/c-limitations.md
+    - Recommendations: 05-chapter-5-discussion/d-recommendations.md
   - Appendices:
+    - 06-appendices/index.md
     - CVs:
-      - Contributor Profile - Member 1: 07-appendices/a-cv/member1.md
-      - Contributor Profile - Member 2: 07-appendices/a-cv/member2.md
+      - Contributor Profile - Member 1: 06-appendices/a-cv/member1.md
+      - Contributor Profile - Member 2: 06-appendices/a-cv/member2.md
     - Topic Mine:
-      - Topic Mine - Member 1: 07-appendices/b-topic-mine/member1.md
-      - Topic Mine - Member 2: 07-appendices/b-topic-mine/member2.md
-    - Title Proposal and Problem Statement Form: 07-appendices/c-title-proposal-and-problem-statement-form.md
-    - Comparative Summary of Proposed Topics: 07-appendices/d-comparative-summary.md
-    - Gate 1 Title Defense: 07-appendices/e-gate-1-title-defense.md
-    - Technical Stack Audit Form: 07-appendices/f-tech-stack.md
-    - Sprint 0 Retrospective: 07-appendices/g-sprint-0-retrospective.md
-    - Sprint 0 Review and Sprint 1 Planning: 07-appendices/h-sprint-0-review-and-sprint-1-planning.md
-    - Gate 2 Proposal Defense: 07-appendices/i-gate-2-proposal-defense.md
-    - Sprint 1 Retrospective: 07-appendices/j-sprint-1-retrospective.md
-    - Sprint 1 Review and Sprint 2 Planning: 07-appendices/k-sprint-1-review-and-sprint-2-planning.md
-    - Sprint 2 Retrospective: 07-appendices/l-sprint-2-retrospective.md
-    - Sprint 2 Review and Sprint 3 Planning: 07-appendices/m-sprint-2-review-and-sprint-3-planning.md
-    - Sprint 3 Retrospective: 07-appendices/n-sprint-3-retrospective.md
-    - Sprint 3 Review and Final Sprint Planning: 07-appendices/o-sprint-3-review-and-final-sprint-planning.md
-    - Gate 3 - Pre-Defense Review: 07-appendices/p-gate-3-pre-defense.md
-    - Raw Single Ease Question (SEQ) and System Usability Scale (SUS) Data: 07-appendices/q-raw-seq-and-sus-data.md
-    - Final Sprint Retrospective: 07-appendices/r-final-sprint-retrospective.md
-    - Final Sprint Review: 07-appendices/s-final-sprint-review.md
-    - Gate 4 - Final Review and Defense: 07-appendices/t-gate-4-final-defense.md
+      - Topic Mine - Member 1: 06-appendices/b-topic-mine/member1.md
+      - Topic Mine - Member 2: 06-appendices/b-topic-mine/member2.md
+    - Title Proposal and Problem Statement Form: 06-appendices/c-title-proposal-and-problem-statement-form.md
+    - Comparative Summary of Proposed Topics: 06-appendices/d-comparative-summary.md
+    - Gate 1 Title Defense: 06-appendices/e-gate-1-title-defense.md
+    - Technical Stack Audit Form: 06-appendices/f-tech-stack.md
+    - Sprint 0 Retrospective: 06-appendices/g-sprint-0-retrospective.md
+    - Sprint 0 Review and Sprint 1 Planning: 06-appendices/h-sprint-0-review-and-sprint-1-planning.md
+    - Gate 2 Proposal Defense: 06-appendices/i-gate-2-proposal-defense.md
+    - Sprint 1 Retrospective: 06-appendices/j-sprint-1-retrospective.md
+    - Sprint 1 Review and Sprint 2 Planning: 06-appendices/k-sprint-1-review-and-sprint-2-planning.md
+    - Sprint 2 Retrospective: 06-appendices/l-sprint-2-retrospective.md
+    - Sprint 2 Review and Sprint 3 Planning: 06-appendices/m-sprint-2-review-and-sprint-3-planning.md
+    - Sprint 3 Retrospective: 06-appendices/n-sprint-3-retrospective.md
+    - Sprint 3 Review and Final Sprint Planning: 06-appendices/o-sprint-3-review-and-final-sprint-planning.md
+    - Gate 3 - Pre-Defense Review: 06-appendices/p-gate-3-pre-defense.md
+    - Raw Single Ease Question (SEQ) and System Usability Scale (SUS) Data: 06-appendices/q-raw-seq-and-sus-data.md
+    - Final Sprint Retrospective: 06-appendices/r-final-sprint-retrospective.md
+    - Final Sprint Review: 06-appendices/s-final-sprint-review.md
+    - Gate 4 - Final Review and Defense: 06-appendices/t-gate-4-final-defense.md
 extra:
   social:
     - icon: fontawesome/brands/github

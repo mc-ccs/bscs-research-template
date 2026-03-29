@@ -1,45 +1,39 @@
-# 📘 Research Documentation Template
+# 📘 Research Website Template
 
-This repository is a modular research-writing template built with:
+This repository is a modular research website template built with:
 
 - **Markdown** for writing and versioning content
 - **MkDocs + Material** for local preview and web publishing
 - **GitHub** for collaboration and progress tracking
 - **GitHub Actions** for validation and deployment
 
-The research manuscript is organized by chapter and section so teams can write, review, and revise content without working in one large document.
+The research site is organized by chapter and section so teams can write, review, and publish content without working in one large document.
 
 The template supports the standard BSCS research workflow for either a capstone project or a thesis. In this repository, both are treated as research outputs under the same institutional framework.
 
 This repository is distributed to students through a GitHub Classroom assignment, so each student or group starts from an assigned repository before cloning it locally.
 
-The template is designed to work together with the institutional research manual. Students should use the manual for policy, workflow, and evaluation rules, and use this repository as the working manuscript and appendix structure.
+The template is designed to work together with the institutional research manual. Students should use the manual for policy, workflow, and evaluation rules, and use this repository as the working website and appendix structure.
 
 ---
 
 # 📁 Project Structure
 
-All research manuscript content lives in the `docs/` directory.
+All research website content lives in the `docs/` directory.
 
 ```text
 docs/
 ├── index.md
-├── 01-front-matter/
-│   ├── a-title-page.md
-│   ├── b-abstract.md
-│   ├── c-table-of-contents.md
-│   ├── d-list-of-figures.md
-│   └── e-list-of-tables.md
-├── 02-chapter-1-introduction/
+├── 01-chapter-1-introduction/
 │   ├── a-project-context.md
 │   ├── b-purpose-and-description.md
 │   ├── c-objectives-rq-alignment.md
 │   └── d-scope-and-limitation.md
-├── 03-chapter-2-related-literature/
+├── 02-chapter-2-related-literature/
 │   ├── a-domain-literature.md
 │   ├── b-synthesis-matrix.md
 │   └── c-technical-gap.md
-├── 04-chapter-3-methods/
+├── 03-chapter-3-methods/
 │   ├── a-institutional-framework.md
 │   ├── b-product-backlog.md
 │   ├── c-sprint-structure.md
@@ -48,7 +42,7 @@ docs/
 │   ├── f-logic-flow.md
 │   ├── g-data-schema.md
 │   └── h-validation-plan.md
-├── 05-chapter-4-results/
+├── 04-chapter-4-results/
 │   ├── a-scrum-execution.md
 │   ├── b-features-and-outputs.md
 │   ├── c-ci-cd-results.md
@@ -56,12 +50,12 @@ docs/
 │   ├── e-code-coverage-results.md
 │   ├── f-security-verification-results.md
 │   └── g-validation-results.md
-├── 06-chapter-5-discussion/
+├── 05-chapter-5-discussion/
 │   ├── a-summary-of-key-findings.md
 │   ├── b-conclusions.md
 │   ├── c-limitations.md
 │   └── d-recommendations.md
-├── 07-appendices/
+├── 06-appendices/
 │   ├── a-cv/
 │   │   ├── member1.md
 │   │   └── member2.md
@@ -90,12 +84,15 @@ docs/
 └── src/
 ```
 
-This structure keeps the research manuscript:
+The current template starts directly with the site home page and numbered chapter folders. It does not use a separate front-matter directory.
+
+This structure keeps the research website:
 
 - Modular
 - Easier to review
 - Easier to maintain
 - Ready for web publication
+- Easy to browse as a site instead of a print-first document
 
 For Chapter 4, Epic 4 User Stories 1 to 6 are treated as recurring sprint-reporting artifacts. Teams should update those result areas for each completed sprint, including the final sprint when applicable, while keeping the formal final defense in its own gate appendix rather than treating it as another recursive sprint record.
 
@@ -126,11 +123,11 @@ On macOS or Linux, activate the environment with `source .venv/bin/activate` ins
 
 Edit the Markdown files inside `docs/`.
 
-Most chapter pages now include structured scaffolds. Replace the guide text with project-specific content as the manuscript develops.
+Most chapter pages now include structured scaffolds. Replace the guide text with project-specific content as the website develops.
 
 Use these folders consistently:
 
-- `docs/` for research chapters and appendices
+- `docs/` for research chapters, appendices, and published pages
 - `docs/img/` for screenshots, diagrams, and figures
 - `docs/src/` for source code, scripts, datasets, or supporting files
 
@@ -166,21 +163,21 @@ git push
 ## 1. Create a Working Branch
 
 ```bash
-git checkout -b doc/<your-topic>
+git checkout -b doc/<issue-number>-<short-description>-<username>
 ```
 
 If `develop` already exists in the repository, create the branch from `develop` so your pull request target stays aligned with the documented workflow.
 
 Examples:
 
-- `doc/add-abstract`
-- `doc/update-methods`
-- `rev/fix-chapter-3-typos`
+- `doc/12-write-project-context-juan`
+- `doc/18-update-methods-maria`
+- `doc/21-fix-chapter-3-typos-ken`
 
 Branch roles:
 
 - `doc/*` for regular writing and content updates
-- `rev/*` for revisions and corrections
+- `rev/*` for formal review branches and structured revisions
 - `develop` for the latest integrated version deployed to UAT
 - `release/<name>` for staging-ready versions
 - `main` for approved production content
@@ -291,7 +288,7 @@ flowchart TD
 This template gives you:
 
 - A chapter-based research structure
-- Student-facing scaffolds for the main manuscript sections
+- Student-facing scaffolds for the main website sections
 - A clean Markdown authoring workflow
 - Local preview with MkDocs
 - Team collaboration through Git and pull requests

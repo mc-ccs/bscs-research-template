@@ -99,4 +99,4 @@ List formal trainings, webinars, bootcamps, or certifications relevant to the pr
 If readers need to contact this contributor, use a professional email address, a portfolio contact form, or an institutional profile page. If no public contact detail will be shown, write N/A. Do not publish personal contact information unless the contributor explicitly wants it public.
 
 ---
-[⬅️ Previous](../../06-chapter-5-discussion/d-recommendations.md) | [Next ➡️](member2.md)
+[⬅️ Previous](../../05-chapter-5-discussion/d-recommendations.md) | [Next ➡️](member2.md)
