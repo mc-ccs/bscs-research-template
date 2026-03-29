@@ -41,7 +41,7 @@ Read the study in this order:
 - [System Architecture](03-chapter-3-methods/e-system-architecture.md)
 - [Validation Results](04-chapter-4-results/g-validation-results.md)
 - [Conclusions Based on Validation](05-chapter-5-discussion/b-conclusions.md)
-- [Appendices](06-appendices/c-title-proposal-and-problem-statement-form.md)
+- [Title Proposal and Problem Statement](06-appendices/c-title-proposal-and-problem-statement-form.md)
 
 ## Notes for Web Publishing
 
