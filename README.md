@@ -1,285 +1,262 @@
-# 📘 Thesis Documentation Template (Markdown + MkDocs)
+# 📘 Research Website Template
 
-Welcome to the **Thesis Documentation Template** — a modern, modular, and GitHub-friendly way to write your thesis using:
+This repository is a modular research website template built with:
 
-- **Markdown** for clean writing  
-- **MkDocs + Material theme** for beautiful documentation  
-- **GitHub + GitHub Pages** for tracking progress and publishing  
-- **GitHub Actions** for validating and deploying automatically  
+- **Markdown** for writing and versioning content
+- **MkDocs + Material** for local preview and web publishing
+- **GitHub** for collaboration and progress tracking
+- **GitHub Actions** for validation and deployment
 
-This template follows a **standard academic thesis format** and breaks every section into separate Markdown files for clarity and maintainability.
+The research site is organized by chapter and section so teams can write, review, and publish content without working in one large document.
 
----
+The template supports the standard BSCS research workflow for either a capstone project or a thesis. In this repository, both are treated as research outputs under the same institutional framework.
 
-# 📦 How to Use This Repository as a Template
+This repository is distributed to students through a GitHub Classroom assignment, so each student or group starts from an assigned repository before cloning it locally.
 
-This repository is configured as a **Template Repository** on GitHub.
-
-If you are a student starting your thesis project, **DO NOT fork this repo**.  
-Instead, follow these steps:
-
-### ✅ 1. Click the **“Use this template”** button at the top of the repository
-
-This will create a **brand‑new repository under your GitHub account** with the same content.
-
-### ✅ 2. Name your repository
-
-Example names:
-
-- `thesis-juan-dela-cruz`
-- `thesis-mary-anne`
-- `capstone-group5`
-
-Choose **Public** or **Private** depending on class requirements.
-
-### ✅ 3. Clone your newly created repository
-
-```bash
-git clone https://github.com/<your-username>/<your-repo>.git
-```
-
-### ✅ 4. Start editing your Markdown files inside the `docs/` folder
-
-When finished editing:
-
-```bash
-git add .
-git commit -m "Add Chapter 1 Introduction"
-git push
-```
+The template is designed to work together with the institutional research manual. Students should use the manual for policy, workflow, and evaluation rules, and use this repository as the working website and appendix structure.
 
 ---
 
-# 🧭 Notes for Students Who Already Forked Before This Template Was Enabled
+# 📁 Project Structure
 
-If you already forked the teacher’s repo earlier:
+All research website content lives in the `docs/` directory.
 
-### ✔ Your fork still works — you do NOT need to start over.
-
-To receive updates from the teacher template:
-
-```bash
-git remote add upstream https://github.com/Kinev10/thesis-markdown-template.git
-git pull upstream main
-```
-
-If your fork is broken or outdated, you may choose to:
-- create a NEW repo using the template  
-- copy your existing work into the new structure
-
----
-
-# 📁 Repository Structure
-
-Your thesis content lives entirely inside the `docs/` directory:
-
-```
+```text
 docs/
-│
 ├── index.md
-│
-├── 01-front-matter/
-│   ├── title-page.md
-│   ├── abstract.md
-│   ├── table-of-contents.md
-│   ├── list-of-figures.md
-│   ├── list-of-tables.md
-│   └── list-of-notations.md
-│
-├── 02-introduction/
-│   ├── project-context.md
-│   ├── purpose-and-description.md
-│   ├── objectives.md
-│   └── scope-and-limitations.md
-│
-├── 03-related-literature/
-│   └── related-literature.md
-│
-├── 04-technical-background/
-│   └── technical-background.md
-│
-├── 05-design-and-methodology/
-│   ├── conceptual-design.md
-│   ├── system-architecture.md
-│   ├── block-diagrams.md
-│   └── algorithms.md
-│
-├── 06-results-and-discussion/
-│   └── results-and-discussion.md
-│
-├── 07-conclusions-and-recommendations/
-│   └── conclusions-and-recommendations.md
-│
-├── 08-appendices/
-│   ├── source-code.md
-│   ├── evaluation-tools.md
-│   ├── sample-input-output.md
-│   ├── user-guide.md
-│   └── cv/
-│       ├── member1.md
-│       └── member2.md
-│
+├── 01-chapter-1-introduction/
+│   ├── a-project-context.md
+│   ├── b-purpose-and-description.md
+│   ├── c-objectives-rq-alignment.md
+│   └── d-scope-and-limitation.md
+├── 02-chapter-2-related-literature/
+│   ├── a-domain-literature.md
+│   ├── b-synthesis-matrix.md
+│   └── c-technical-gap.md
+├── 03-chapter-3-methods/
+│   ├── a-institutional-framework.md
+│   ├── b-product-backlog.md
+│   ├── c-sprint-structure.md
+│   ├── d-definition-of-done.md
+│   ├── e-system-architecture.md
+│   ├── f-logic-flow.md
+│   ├── g-data-schema.md
+│   └── h-validation-plan.md
+├── 04-chapter-4-results/
+│   ├── a-scrum-execution.md
+│   ├── b-features-and-outputs.md
+│   ├── c-ci-cd-results.md
+│   ├── d-system-testing-results.md
+│   ├── e-code-coverage-results.md
+│   ├── f-security-verification-results.md
+│   └── g-validation-results.md
+├── 05-chapter-5-discussion/
+│   ├── a-summary-of-key-findings.md
+│   ├── b-conclusions.md
+│   ├── c-limitations.md
+│   └── d-recommendations.md
+├── 06-appendices/
+│   ├── a-cv/
+│   │   ├── member1.md
+│   │   └── member2.md
+│   ├── b-topic-mine/
+│   │   ├── member1.md
+│   │   └── member2.md
+│   ├── c-title-proposal-and-problem-statement-form.md
+│   ├── d-comparative-summary.md
+│   ├── e-gate-1-title-defense.md
+│   ├── f-tech-stack.md
+│   ├── g-sprint-0-retrospective.md
+│   ├── h-sprint-0-review-and-sprint-1-planning.md
+│   ├── i-gate-2-proposal-defense.md
+│   ├── j-sprint-1-retrospective.md
+│   ├── k-sprint-1-review-and-sprint-2-planning.md
+│   ├── l-sprint-2-retrospective.md
+│   ├── m-sprint-2-review-and-sprint-3-planning.md
+│   ├── n-sprint-3-retrospective.md
+│   ├── o-sprint-3-review-and-final-sprint-planning.md
+│   ├── p-gate-3-pre-defense.md
+│   ├── q-raw-seq-and-sus-data.md
+│   ├── r-final-sprint-retrospective.md
+│   ├── s-final-sprint-review.md
+│   └── t-gate-4-final-defense.md
 ├── img/
 └── src/
 ```
 
-This structure ensures your thesis is:
+The current template starts directly with the site home page and numbered chapter folders. It does not use a separate front-matter directory.
 
-✔ Modular  
-✔ Easy to manage  
-✔ Easy to review  
-✔ Ready for publication  
+This structure keeps the research website:
+
+- Modular
+- Easier to review
+- Easier to maintain
+- Ready for web publication
+- Easy to browse as a site instead of a print-first document
+
+For Chapter 4, Epic 4 User Stories 1 to 6 are treated as recurring sprint-reporting artifacts. Teams should update those result areas for each completed sprint, including the final sprint when applicable, while keeping the formal final defense in its own gate appendix rather than treating it as another recursive sprint record.
 
 ---
 
-# 🧩 Requirements
+# 🚀 Getting Started
 
-Install MkDocs and the Material theme:
+## 1. Accept and Clone Your Classroom Repository
 
 ```bash
+git clone https://github.com/<your-username>/<your-repo>.git
+cd <your-repo>
+```
+
+Before cloning, accept the GitHub Classroom assignment link provided by your instructor.
+
+## 2. Install Requirements
+
+```bash
+python -m venv .venv
+.venv\Scripts\activate
 pip install mkdocs mkdocs-material
 ```
 
----
+On macOS or Linux, activate the environment with `source .venv/bin/activate` instead.
 
-# ▶️ Local Preview
+## 3. Start Writing
 
-To preview your thesis website locally:
+Edit the Markdown files inside `docs/`.
+
+Most chapter pages now include structured scaffolds. Replace the guide text with project-specific content as the website develops.
+
+Use these folders consistently:
+
+- `docs/` for research chapters, appendices, and published pages
+- `docs/img/` for screenshots, diagrams, and figures
+- `docs/src/` for source code, scripts, datasets, or supporting files
+
+## 4. Preview Locally
 
 ```bash
 mkdocs serve
 ```
 
-Open:
-
-```
-http://127.0.0.1:8000/
-```
+Open `http://127.0.0.1:8000/` in your browser.
 
 ---
 
-# 🌐 GitHub Pages Deployment
+# ✍️ Suggested Writing Flow
 
-This project is designed to be published online using **GitHub Pages** and **MkDocs**.
+1. Update the relevant section in `docs/`
+2. Preview changes locally with `mkdocs serve`
+3. Commit only related edits
+4. Push your branch and open a pull request
 
----
-
-## ✅ 1. Push your repository to GitHub
-
-If you haven’t yet:
+Example commit flow:
 
 ```bash
 git add .
-git commit -m "Initial commit"
+git commit -m "docs: update chapter 1 objectives"
 git push
 ```
 
 ---
 
-## ✅ 2. Automatic Deployment
+# 🤝 Collaboration Workflow
 
-This template includes a **GitHub Actions workflow** that automatically deploys your MkDocs site **whenever a Pull Request is merged into the `main` branch**.
-
-The workflow will:
-
-1. Build your MkDocs site  
-2. Push the output to the `gh-pages` branch  
-3. Update your GitHub Pages website  
-
----
-
-## ✅ 3. One-Time Setup on GitHub Pages
-
-After your first merge to main:
-
-1. Go to **Settings**
-2. Select **Pages**
-3. Under *Build & Deployment*:
-   - **Source:** Deploy from a branch
-   - **Branch:** `gh-pages`
-   - **Folder:** `/ (root)`
-4. Save
-
-Your thesis will be published at:
-
-```
-https://<username>.github.io/<repository-name>/
-```
-
-Example:
-
-```
-https://kinev10.github.io/thesis-markdown-template/
-```
-
----
-
-# 🔄 Updating Your Repository When the Template Is Updated
-
-If your repo was created using the template, you can still sync improvements manually:
-
-### Add upstream (ONE TIME ONLY)
+## 1. Create a Working Branch
 
 ```bash
-git remote add upstream https://github.com/Kinev10/thesis-markdown-template.git
+git checkout -b doc/<issue-number>-<short-description>-<username>
 ```
 
-### Pull updates anytime
-
-```bash
-git pull upstream main
-```
-
----
-
-# 🤝 Contribution Guidelines (For Students)
-
-Follow this workflow for clean collaboration:
-
----
-
-## 1️⃣ Create a Feature Branch
-
-```bash
-git checkout -b feature/<your-topic>
-```
+If `develop` already exists in the repository, create the branch from `develop` so your pull request target stays aligned with the documented workflow.
 
 Examples:
 
-- `feature/add-abstract`
-- `feature/update-methodology`
-- `fix/typo-chapter3`
+- `doc/12-write-project-context-juan`
+- `doc/18-update-methods-maria`
+- `doc/21-fix-chapter-3-typos-ken`
 
----
+Branch roles:
 
-## 2️⃣ Write Clear Commit Messages
+- `doc/*` for regular writing and content updates
+- `rev/*` for formal review branches and structured revisions
+- `develop` for the latest integrated version deployed to UAT
+- `release/<name>` for staging-ready versions
+- `main` for approved production content
 
-```
+## 2. Write Clear Commit Messages
+
+```text
 feat: add system architecture diagrams
 fix: correct grammar in introduction
-docs: update abstract formatting
+docs: update abstract and validation plan
+```
+
+## 3. Keep Pull Requests Focused
+
+Do not combine unrelated changes in one pull request.
+
+## 4. Open a Pull Request
+
+For regular work, open the pull request against `develop`.
+
+Promotion flow:
+
+1. Merge `doc/*` or `rev/*` into `develop`
+2. Create or update `release/<name>` from `develop`
+3. Merge to `main` only after the required release-related review and approval
+
+For release-related merges to `main`, the normal institutional expectation is review by both the adviser and the research coordinator.
+
+## 5. Sync Before Starting New Work
+
+If your repository tracks an upstream classroom or template repository:
+
+```bash
+git pull upstream develop
+```
+
+If not, sync from your default remote instead:
+
+```bash
+git pull origin develop
 ```
 
 ---
 
-## 3️⃣ Keep Pull Requests Small  
-Do not mix unrelated edits.
+# 🌐 Deployment Overview
 
----
+GitHub Actions automatically validates pull requests and deploys the MkDocs site when supported branches are updated.
 
-## 4️⃣ Open a Pull Request
+Deployment targets:
 
-1. Push your branch  
-2. Click **Compare & Pull Request**  
-3. Describe your changes  
-4. Submit  
+- `main` deploys the production site from the root of `gh-pages`
+- `develop` deploys the UAT site to `gh-pages/uat`
+- `release/<name>` deploys a staging site to `gh-pages/<name>`
 
----
+Examples:
 
-## 5️⃣ Sync Before Working Again
+- `release/sprint-0` deploys to `gh-pages/sprint-0`
+- `release/final-demo` deploys to `gh-pages/final-demo`
 
-```bash
-git pull upstream main
+Pull requests to `main` and `develop` are validated before merge. Pushes to `main`, `develop`, and `release/*` trigger deployment.
+
+## One-Time GitHub Pages Setup
+
+After the first deployment:
+
+1. Go to **Settings**
+2. Open **Pages**
+3. Under **Build and deployment**:
+   - Set **Source** to `Deploy from a branch`
+   - Set **Branch** to `gh-pages`
+   - Set **Folder** to `/ (root)`
+4. Save the settings
+
+Published URLs follow this pattern:
+
+```text
+Production: https://<username>.github.io/<repository-name>/
+UAT:        https://<username>.github.io/<repository-name>/uat/
+Staging:    https://<username>.github.io/<repository-name>/<release-name>/
 ```
 
 ---
@@ -288,51 +265,31 @@ git pull upstream main
 
 ```mermaid
 flowchart TD
-    A[Fork or Use Template] --> B[Clone Repository]
-    B --> C[Create Feature Branch]
-    C --> D[Edit Thesis Pages in docs/]
-    D --> E[Commit and Push Changes]
-    E --> F[Open Pull Request to Main Repo]
-    F --> G{Teacher Reviews PR}
-    G -->|Approved| H[PR is Merged]
-    H --> I[GitHub Actions Builds MkDocs Site]
-    I --> J[GitHub Pages Updates Automatically]
-    H --> K[Student Syncs with Upstream if Needed]
-    K --> C
+    A[Accept GitHub Classroom Assignment] --> B[Clone Repository]
+    B --> C[Create Working Branch]
+    C --> D[Edit Research Files in docs/]
+    D --> E[Preview with MkDocs]
+    E --> F[Commit and Push Changes]
+    F --> G[Open Pull Request to Develop]
+    G --> H{Review and Validation}
+    H -->|Approved| I[Merge to Develop]
+    I --> J[Deploy UAT]
+    J --> K[Create or Update Release Branch]
+    K --> L[Deploy Staging]
+    L --> M{Approved for Production?}
+    M -->|Yes| N[Merge to Main]
+    N --> O[Deploy Production]
 ```
 
 ---
 
-# ✍️ Editing Your Thesis
+# ✅ Summary
 
-Modify content inside:
+This template gives you:
 
-```
-docs/
-```
-
-Images go inside:
-
-```
-docs/img/
-```
-
-Source code, scripts, datasets go inside:
-
-```
-docs/src/
-```
-
----
-
-# 🎉 You're Ready!
-
-You now have a complete **Thesis Documentation Template** with:
-
-✔ Clean academic structure  
-✔ Markdown-based writing  
-✔ Auto-validation on PRs  
-✔ Auto-deployment to GitHub Pages  
-✔ Template-based student workflow  
-✔ Optional upstream sync  
-✔ Visual contribution diagram  
+- A chapter-based research structure
+- Student-facing scaffolds for the main website sections
+- A clean Markdown authoring workflow
+- Local preview with MkDocs
+- Team collaboration through Git and pull requests
+- Automated validation and GitHub Pages deployment

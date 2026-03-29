@@ -2,9 +2,12 @@ name: Validate and Deploy MkDocs
 
 on:
   pull_request:
-    branches: [main, staging]
+    branches: [main, develop]
   push:
-    branches: [main, staging]
+    branches:
+      - main
+      - develop
+      - 'release/**'
 
 jobs:
   validate:
@@ -31,7 +34,41 @@ jobs:
       - run: pip install mkdocs mkdocs-material
       - run: mkdocs build --clean
 
-      # PRODUCTION: main -> gh-pages root
+      - name: Compute release destination directory
+        if: startsWith(github.ref, 'refs/heads/release/')
+        id: release_dir
+        shell: bash
+        run: |
+          dir="${GITHUB_REF_NAME#release/}"
+          if [ -z "$dir" ]; then
+            echo "::error::Invalid release branch name. Use release/<name> (example: release/sprint-0)."
+            exit 1
+          fi
+          echo "dir=$dir" >> "$GITHUB_OUTPUT"
+
+      # PRODUCTION: main -> gh-pages root (clean deploy; UAT/staging subdirs are re-injected)
+      - name: Preserve UAT and staging subdirs before production deploy
+        if: github.ref == 'refs/heads/main'
+        shell: bash
+        run: |
+          if git ls-remote --exit-code origin gh-pages > /dev/null 2>&1; then
+            git fetch origin gh-pages
+            # Re-inject only environment top-level subdirectories (e.g. uat/, sprint-0/) into ./site
+            # so they survive the clean deploy and are not wiped by peaceiris.
+            # Skip any directory that already exists in ./site (MkDocs production output) to avoid
+            # overwriting the freshly built site with stale content from a previous deployment.
+            git ls-tree --name-only origin/gh-pages | while IFS= read -r entry; do
+              if git cat-file -t "origin/gh-pages:${entry}" 2>/dev/null | grep -q '^tree$'; then
+                # Only restore directories that do not already exist in the new ./site build.
+                if [ ! -d "./site/${entry}" ]; then
+                  git archive origin/gh-pages "${entry}" | tar -x -C ./site/
+                fi
+              fi
+            done
+          else
+            echo "gh-pages branch does not exist yet; skipping subdir preservation (first-time deploy)."
+          fi
+
       - name: Deploy Production (main)
         if: github.ref == 'refs/heads/main'
         uses: peaceiris/actions-gh-pages@v3
@@ -39,15 +76,25 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: gh-pages
           publish_dir: ./site
-          keep_files: true
 
-      # STAGING: staging -> gh-pages/staging
-      - name: Deploy Staging (staging)
-        if: github.ref == 'refs/heads/staging'
+      # UAT: develop -> gh-pages/uat
+      - name: Deploy UAT (develop)
+        if: github.ref == 'refs/heads/develop'
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: gh-pages
           publish_dir: ./site
-          destination_dir: staging
+          destination_dir: uat
+          keep_files: true
+
+      # STAGING: release/* -> gh-pages/<release-branch-name-without-prefix>
+      - name: Deploy Staging (release/*)
+        if: startsWith(github.ref, 'refs/heads/release/')
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: gh-pages
+          publish_dir: ./site
+          destination_dir: ${{ steps.release_dir.outputs.dir }}
           keep_files: true
