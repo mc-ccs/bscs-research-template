@@ -45,4 +45,4 @@ Write this section in past tense in THS 102. Focus on actual execution evidence 
 
 
 ---
-[⬅️ Previous](../04-chapter-3-methods/h-validation-plan.md) | [Next ➡️](b-features-and-outputs.md)
+[⬅️ Previous](../03-chapter-3-methods/h-validation-plan.md) | [Next ➡️](b-features-and-outputs.md)

@@ -28,4 +28,4 @@ Do not claim that the project is the first of its kind unless that statement is 
 
 
 ---
-[⬅️ Previous](b-synthesis-matrix.md) | [Next ➡️](../04-chapter-3-methods/a-institutional-framework.md)
+[⬅️ Previous](b-synthesis-matrix.md) | [Next ➡️](../03-chapter-3-methods/a-institutional-framework.md)
