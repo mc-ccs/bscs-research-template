@@ -28,4 +28,4 @@ Recommendations should follow directly from the findings and limitations. Avoid 
 
 
 ---
-[⬅️ Previous](c-limitations.md) | [Next ➡️](../06-appendices/a-cv/member1.md)
+[⬅️ Previous](c-limitations.md) | [Next ➡️](../references.md)
