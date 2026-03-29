@@ -33,6 +33,7 @@ Read the study in this order:
 3. [Methods](03-chapter-3-methods/index.md)
 4. [Results](04-chapter-4-results/index.md)
 5. [Discussion](05-chapter-5-discussion/index.md)
+6. [Appendices](06-appendices/index.md)
 
 ## Quick Links
 
