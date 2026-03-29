@@ -33,4 +33,4 @@ Avoid broad history, generic industry background, or solution details that belon
 
 
 ---
-[Next ➡️](b-purpose-and-description.md)
+[⬅️ Previous](index.md) | [Next ➡️](b-purpose-and-description.md)

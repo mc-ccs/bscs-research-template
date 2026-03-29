@@ -26,4 +26,4 @@ Use IEEE citations and write by synthesis, not by isolated article summaries. Th
 
 
 ---
-[⬅️ Previous](../01-chapter-1-introduction/d-scope-and-limitation.md) | [Next ➡️](b-synthesis-matrix.md)
+[⬅️ Previous](index.md) | [Next ➡️](b-synthesis-matrix.md)

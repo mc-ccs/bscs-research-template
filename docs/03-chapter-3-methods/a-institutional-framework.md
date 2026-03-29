@@ -35,4 +35,4 @@ Briefly identify the main tools that supported the workflow, such as the source 
 Keep this section focused on how the framework was applied to the project. Avoid spending excessive space justifying why DSR or Scrum was chosen, because they are already institutional defaults.
 
 ---
-[⬅️ Previous](../02-chapter-2-related-literature/c-technical-gap.md) | [Next ➡️](b-product-backlog.md)
+[⬅️ Previous](index.md) | [Next ➡️](b-product-backlog.md)
