@@ -80,3 +80,6 @@ If the selected stack creates a clear execution risk, document one of the follow
 | Adviser |  | I confirm that the stack is technically viable for the approved MVP. |  |
 
 If the Teacher or Faculty Panel later requests clarification during a gate, record that feedback in the relevant gate form rather than replacing this review section.
+
+---
+[⬅️ Previous](d-comparative-summary.md) | [Next ➡️](g-sprint-0-retrospective.md)

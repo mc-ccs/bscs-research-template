@@ -65,3 +65,6 @@ Document any issue that must be raised outside the team before final review, val
 - The retrospective is primarily for the development team; record only the issues that need to be escalated beyond the team.
 - Cross-check this form against the sprint's asynchronous updates and the weekly synchronous check-in record.
 - If the retrospective identifies an ethics issue, plagiarism concern, or blocking process failure, escalate it immediately through the approved channel.
+
+---
+[⬅️ Previous](q-raw-seq-and-sus-data.md) | [Next ➡️](s-final-sprint-review.md)
