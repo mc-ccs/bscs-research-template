@@ -128,4 +128,4 @@ Use this section for notable respondent comments, repeated usability issues, or 
 If SUS is not applicable to the project, keep this appendix only if another approved raw validation instrument is being preserved here. Otherwise, document the exception clearly in the manuscript and the relevant appendix.
 
 ---
-[⬅️ Previous](p-gate-3-pre-defense.md) | [Next ➡️](r-final-sprint-retrospective.md)
+[⬅️ Previous](o-sprint-3-review-and-final-sprint-planning.md) | [Next ➡️](r-final-sprint-retrospective.md)

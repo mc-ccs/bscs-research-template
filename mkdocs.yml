@@ -17,6 +17,11 @@ markdown_extensions:
   - footnotes
   - def_list
   - attr_list
+exclude_docs: |
+  06-appendices/e-gate-1-title-defense.md
+  06-appendices/i-gate-2-proposal-defense.md
+  06-appendices/p-gate-3-pre-defense.md
+  06-appendices/t-gate-4-final-defense.md
 nav:
   - Home: index.md
   - Chapter 1 Introduction:
@@ -65,22 +70,18 @@ nav:
       - Topic Mine - Member 2: 06-appendices/b-topic-mine/member2.md
     - Title Proposal and Problem Statement Form: 06-appendices/c-title-proposal-and-problem-statement-form.md
     - Comparative Summary of Proposed Topics: 06-appendices/d-comparative-summary.md
-    - Gate 1 Title Defense: 06-appendices/e-gate-1-title-defense.md
     - Technical Stack Audit Form: 06-appendices/f-tech-stack.md
     - Sprint 0 Retrospective: 06-appendices/g-sprint-0-retrospective.md
     - Sprint 0 Review and Sprint 1 Planning: 06-appendices/h-sprint-0-review-and-sprint-1-planning.md
-    - Gate 2 Proposal Defense: 06-appendices/i-gate-2-proposal-defense.md
     - Sprint 1 Retrospective: 06-appendices/j-sprint-1-retrospective.md
     - Sprint 1 Review and Sprint 2 Planning: 06-appendices/k-sprint-1-review-and-sprint-2-planning.md
     - Sprint 2 Retrospective: 06-appendices/l-sprint-2-retrospective.md
     - Sprint 2 Review and Sprint 3 Planning: 06-appendices/m-sprint-2-review-and-sprint-3-planning.md
     - Sprint 3 Retrospective: 06-appendices/n-sprint-3-retrospective.md
     - Sprint 3 Review and Final Sprint Planning: 06-appendices/o-sprint-3-review-and-final-sprint-planning.md
-    - Gate 3 - Pre-Defense Review: 06-appendices/p-gate-3-pre-defense.md
     - Raw Single Ease Question (SEQ) and System Usability Scale (SUS) Data: 06-appendices/q-raw-seq-and-sus-data.md
     - Final Sprint Retrospective: 06-appendices/r-final-sprint-retrospective.md
     - Final Sprint Review: 06-appendices/s-final-sprint-review.md
-    - Gate 4 - Final Review and Defense: 06-appendices/t-gate-4-final-defense.md
 extra:
   social:
     - icon: fontawesome/brands/github

@@ -65,3 +65,6 @@ Document any issue that must be raised to the Adviser or Research Coordinator be
 - Convert complaints into specific corrective actions.
 - Cross-check this form against the sprint's asynchronous updates and the weekly synchronous check-in record.
 - If the retrospective identifies an ethics issue, plagiarism concern, or blocking process failure, escalate it immediately through the approved channel.
+
+---
+[⬅️ Previous](f-tech-stack.md) | [Next ➡️](h-sprint-0-review-and-sprint-1-planning.md)

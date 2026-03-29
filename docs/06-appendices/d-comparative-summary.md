@@ -81,3 +81,6 @@ Proposed by:
 Provide a short justification explaining why the team selected this topic in terms of feasibility, relevance, and personal interest or commitment.
 
 Short Justification:
+
+---
+[⬅️ Previous](c-title-proposal-and-problem-statement-form.md) | [Next ➡️](f-tech-stack.md)

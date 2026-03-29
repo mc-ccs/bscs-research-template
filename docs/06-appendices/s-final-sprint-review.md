@@ -163,3 +163,6 @@ Use this section to summarize readiness before the formal Level 2 checkpoints. G
 - Keep Appendix A to F or Epic 4 User Story 1 to 6 traceable through the final sprint, but do not treat Gate 4 as another recursive sprint evidence sheet.
 - Preserve at least three asynchronous progress updates and one synchronous weekly progress check-in record for the final sprint.
 - Record any approved exceptions or remaining revisions clearly so the final status is traceable.
+
+---
+[⬅️ Previous](r-final-sprint-retrospective.md)

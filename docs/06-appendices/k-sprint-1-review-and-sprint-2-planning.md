@@ -200,3 +200,6 @@ List the issues that may affect Sprint 2 execution and the action to be taken.
 - Update Appendix A to F or Epic 4 User Story 1 to 6 evidence again in Sprint 2 so Chapter 4 remains traceable by sprint.
 - Preserve at least three asynchronous progress updates and one synchronous weekly progress check-in record for Sprint 2.
 - Revise the planned Sprint 2 backlog only through an agreed planning update.
+
+---
+[⬅️ Previous](j-sprint-1-retrospective.md) | [Next ➡️](l-sprint-2-retrospective.md)
