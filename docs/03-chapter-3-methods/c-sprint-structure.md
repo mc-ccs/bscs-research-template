@@ -32,6 +32,24 @@ Sprint 0 should establish the project's working foundation before feature implem
 | Sprint 3 |  |  |  |
 | Final Sprint |  |  |  |
 
+## Short Worked Example
+
+If the team uses story points during Sprint Planning, add a brief note showing how sprint load and completed work were interpreted.
+
+Example:
+
+| Sprint | Planned Points | Completed Points | Velocity | Interpretation |
+| --- | --- | --- | --- | --- |
+| Sprint 1 | 10 | 8 | 8 | two planned stories were deferred to Sprint 2 |
+| Sprint 2 | 9 | 10 | 10 | one small carryover story was completed together with the planned sprint work |
+| Sprint 3 | 9 | 9 | 9 | sprint scope matched the team's recent delivery pattern |
+
+In the narrative, this may be written as follows:
+
+> The team initially planned 10 story points for Sprint 1 but completed only 8 points because two backlog items required additional revision. Using the first three implementation sprints, the team observed a working velocity range of 8 to 10 points. This pattern was then used to keep later sprint commitments realistic and aligned with the approved MVP.
+
+Use this kind of example only when story points were actually tracked in the project. If the team did not use story points, describe sprint scope using the backlog items completed, deferred work, and the reasons for any adjustment.
+
 ## Writing Reminder
 
 In THS 101, this section may describe the planned sprint structure in future tense. In THS 102, revise it to reflect the actual sprint sequence and outputs completed by the team.

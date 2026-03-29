@@ -11,6 +11,7 @@ Summarize the following:
 - the number of sprints executed and the normal sprint duration
 - the sprint goal for each sprint
 - the major backlog items completed
+- the planned and completed story points when the project tracked sprint velocity
 - important carryover or deferred work
 - key implementation decisions made during the sprint
 - repository evidence such as issues, pull requests, release branches, or tags
@@ -31,6 +32,7 @@ For each sprint, report:
 | Sprint Goal |  |
 | Covered Dates |  |
 | Completed Stories or Issues |  |
+| Planned Points and Actual Velocity |  |
 | Important Evidence |  |
 | Blockers or Scope Changes |  |
 | Review Outcome |  |
@@ -38,6 +40,8 @@ For each sprint, report:
 ## Traceability Reminder
 
 The narrative in this section should remain consistent with the product backlog, sprint appendices, and repository history. If a planned item was deferred, descoped, or replaced, state that directly so the implementation record remains traceable.
+
+If the project used story points, report the planned sprint load, completed points, and resulting velocity using the same basis described in the sprint planning records. Count only accepted and completed stories in the reported velocity.
 
 ## Writing Reminder
 
