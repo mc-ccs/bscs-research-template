@@ -28,11 +28,12 @@ Suggested length: **150 to 300 words** unless your department requires a differe
 
 Read the study in this order:
 
-1. [Introduction](01-chapter-1-introduction/a-project-context.md)
-2. [Related Literature](02-chapter-2-related-literature/a-domain-literature.md)
-3. [Methods](03-chapter-3-methods/a-institutional-framework.md)
-4. [Results](04-chapter-4-results/a-scrum-execution.md)
-5. [Discussion](05-chapter-5-discussion/a-summary-of-key-findings.md)
+1. [Introduction](01-chapter-1-introduction/index.md)
+2. [Related Literature](02-chapter-2-related-literature/index.md)
+3. [Methods](03-chapter-3-methods/index.md)
+4. [Results](04-chapter-4-results/index.md)
+5. [Discussion](05-chapter-5-discussion/index.md)
+6. [Appendices](06-appendices/index.md)
 
 ## Quick Links
 
@@ -41,7 +42,7 @@ Read the study in this order:
 - [System Architecture](03-chapter-3-methods/e-system-architecture.md)
 - [Validation Results](04-chapter-4-results/g-validation-results.md)
 - [Conclusions Based on Validation](05-chapter-5-discussion/b-conclusions.md)
-- [Appendices](06-appendices/c-title-proposal-and-problem-statement-form.md)
+- [Title Proposal and Problem Statement](06-appendices/c-title-proposal-and-problem-statement-form.md)
 
 ## Notes for Web Publishing
 
