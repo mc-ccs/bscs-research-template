@@ -81,4 +81,4 @@ If a metric was not applicable, say so directly, identify the replacement eviden
 
 
 ---
-[⬅️ Previous](f-security-verification-results.md) | [Next ➡️](../05-chapter-5-discussion/a-summary-of-key-findings.md)
+[⬅️ Previous](f-security-verification-results.md) | [Next ➡️](../05-chapter-5-discussion/index.md)
