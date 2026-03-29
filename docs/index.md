@@ -9,8 +9,12 @@
 | Institution | [Enter institution name] |
 | Term | [Example: Academic Year 2026-2027] |
 | Adviser | [Enter adviser name] |
+| Research Coordinator | [Enter research coordinator name] |
+| Faculty Panel | [Enter faculty panel name] |
+| Teacher | [Enter teacher name] |
 | Date Submitted | [Month Day, Year] |
 | Keywords | [keyword 1], [keyword 2], [keyword 3], [keyword 4], [keyword 5] |
+| Sustainable Development Goals | [SGD 1], [SGD 2], [SGD 3] |
 
 ## Abstract
 
