@@ -43,4 +43,4 @@ Be explicit about exclusions. A strong scope section reduces scope creep and pre
 
 
 ---
-[⬅️ Previous](c-objectives-rq-alignment.md) | [Next ➡️](../02-chapter-2-related-literature/a-domain-literature.md)
+[⬅️ Previous](c-objectives-rq-alignment.md) | [Next ➡️](../02-chapter-2-related-literature/index.md)
