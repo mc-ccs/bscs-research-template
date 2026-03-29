@@ -176,7 +176,8 @@ Examples:
 
 Branch roles:
 
-- `doc/*` for regular writing, revisions, and content updates
+- `doc/*` for regular writing and content updates
+- `rev/*` for formal review branches and structured revisions
 - `develop` for the latest integrated version deployed to UAT
 - `release/<name>` for staging-ready versions
 - `main` for approved production content
