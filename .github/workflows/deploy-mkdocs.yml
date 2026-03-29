@@ -53,11 +53,16 @@ jobs:
         run: |
           if git ls-remote --exit-code origin gh-pages > /dev/null 2>&1; then
             git fetch origin gh-pages
-            # Re-inject every top-level subdirectory (e.g. uat/, sprint-0/) into ./site
+            # Re-inject only environment top-level subdirectories (e.g. uat/, sprint-0/) into ./site
             # so they survive the clean deploy and are not wiped by peaceiris.
+            # Skip any directory that already exists in ./site (MkDocs production output) to avoid
+            # overwriting the freshly built site with stale content from a previous deployment.
             git ls-tree --name-only origin/gh-pages | while IFS= read -r entry; do
               if git cat-file -t "origin/gh-pages:${entry}" 2>/dev/null | grep -q '^tree$'; then
-                git archive origin/gh-pages "${entry}" | tar -x -C ./site/
+                # Only restore directories that do not already exist in the new ./site build.
+                if [ ! -d "./site/${entry}" ]; then
+                  git archive origin/gh-pages "${entry}" | tar -x -C ./site/
+                fi
               fi
             done
           else
