@@ -1,29 +1,46 @@
-# Research Project Website
+# [Enter Approved Research Title]
 
-This repository publishes your study as a browsable website instead of treating the output as a printed manuscript first.
+## Project Information
 
-Use the left navigation to move through the project by chapter, or jump in from the sections below.
+| Field | Details |
+| --- | --- |
+| Proponents | [Name 1], [Name 2], [Name 3] |
+| Program | Bachelor of Science in Computer Science |
+| Institution | [Enter institution name] |
+| Term | [Example: Academic Year 2026-2027] |
+| Adviser | [Enter adviser name] |
+| Date Submitted | [Month Day, Year] |
+| Keywords | [keyword 1], [keyword 2], [keyword 3], [keyword 4], [keyword 5] |
 
-## Start Here
+## Abstract
 
-- [Abstract or Executive Summary](01-front-matter/b-abstract.md)
-- [Project Context](02-chapter-1-introduction/a-project-context.md)
+Use this section for the final abstract shown on the website homepage.
+
+Write one compact summary that states the problem, the study objective, the method or framework used, the key results, and the main conclusion or practical implication.
+
+Suggested length: **150 to 300 words** unless your department requires a different range.
+
+## IMRAD Reading Flow
+
+Read the study in this order:
+
+1. [Introduction](02-chapter-1-introduction/a-project-context.md)
+2. [Related Literature](03-chapter-2-related-literature/a-domain-literature.md)
+3. [Methods](04-chapter-3-methods/a-institutional-framework.md)
+4. [Results](05-chapter-4-results/a-scrum-execution.md)
+5. [Discussion](06-chapter-5-discussion/a-summary-of-key-findings.md)
+
+## Quick Links
+
+- [Purpose and Description](02-chapter-1-introduction/b-purpose-and-description.md)
+- [Objectives and RQ Alignment](02-chapter-1-introduction/c-objectives-rq-alignment.md)
 - [System Architecture](04-chapter-3-methods/e-system-architecture.md)
 - [Validation Results](05-chapter-4-results/g-validation-results.md)
-- [Conclusions](06-chapter-5-discussion/b-conclusions.md)
+- [Conclusions Based on Validation](06-chapter-5-discussion/b-conclusions.md)
+- [Appendices](07-appendices/c-title-proposal-and-problem-statement-form.md)
 
-## Website Structure
+## Notes for Web Publishing
 
-1. [Overview](01-front-matter/b-abstract.md)
-2. [Chapter 1: Introduction](02-chapter-1-introduction/a-project-context.md)
-3. [Chapter 2: Related Literature](03-chapter-2-related-literature/a-domain-literature.md)
-4. [Chapter 3: Methods](04-chapter-3-methods/a-institutional-framework.md)
-5. [Chapter 4: Results](05-chapter-4-results/a-scrum-execution.md)
-6. [Chapter 5: Discussion](06-chapter-5-discussion/a-summary-of-key-findings.md)
-7. [Appendices](07-appendices/c-title-proposal-and-problem-statement-form.md)
-
-## Notes
-
-- The core navigation is optimized for web reading.
-- Print-only pages such as the title page, table of contents, and figure or table lists remain available under **Print Companion** when needed.
-- Keep diagrams, screenshots, and supporting files in `docs/img/` and `docs/src/` so they publish with the site.
+- Put the final homepage title exactly as approved in your defense or proposal records.
+- Replace the placeholders above before publishing.
+- Keep print-only pages such as the title page, manual table of contents, and figure or table lists under **Print Companion** only when your department still requires them.

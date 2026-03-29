@@ -18,8 +18,6 @@ markdown_extensions:
   - attr_list
 nav:
   - Home: index.md
-  - Overview:
-    - Abstract or Executive Summary: 01-front-matter/b-abstract.md
   - Chapter 1 Introduction:
     - Project Context: 02-chapter-1-introduction/a-project-context.md
     - Purpose and Description: 02-chapter-1-introduction/b-purpose-and-description.md
