@@ -24,22 +24,16 @@ All research website content lives in the `docs/` directory.
 ```text
 docs/
 ├── index.md
-├── 01-front-matter/
-│   ├── a-title-page.md
-│   ├── b-abstract.md
-│   ├── c-table-of-contents.md
-│   ├── d-list-of-figures.md
-│   └── e-list-of-tables.md
-├── 02-chapter-1-introduction/
+├── 01-chapter-1-introduction/
 │   ├── a-project-context.md
 │   ├── b-purpose-and-description.md
 │   ├── c-objectives-rq-alignment.md
 │   └── d-scope-and-limitation.md
-├── 03-chapter-2-related-literature/
+├── 02-chapter-2-related-literature/
 │   ├── a-domain-literature.md
 │   ├── b-synthesis-matrix.md
 │   └── c-technical-gap.md
-├── 04-chapter-3-methods/
+├── 03-chapter-3-methods/
 │   ├── a-institutional-framework.md
 │   ├── b-product-backlog.md
 │   ├── c-sprint-structure.md
@@ -48,7 +42,7 @@ docs/
 │   ├── f-logic-flow.md
 │   ├── g-data-schema.md
 │   └── h-validation-plan.md
-├── 05-chapter-4-results/
+├── 04-chapter-4-results/
 │   ├── a-scrum-execution.md
 │   ├── b-features-and-outputs.md
 │   ├── c-ci-cd-results.md
@@ -56,12 +50,12 @@ docs/
 │   ├── e-code-coverage-results.md
 │   ├── f-security-verification-results.md
 │   └── g-validation-results.md
-├── 06-chapter-5-discussion/
+├── 05-chapter-5-discussion/
 │   ├── a-summary-of-key-findings.md
 │   ├── b-conclusions.md
 │   ├── c-limitations.md
 │   └── d-recommendations.md
-├── 07-appendices/
+├── 06-appendices/
 │   ├── a-cv/
 │   │   ├── member1.md
 │   │   └── member2.md
@@ -89,6 +83,8 @@ docs/
 ├── img/
 └── src/
 ```
+
+The current template starts directly with the site home page and numbered chapter folders. It does not use a separate front-matter directory.
 
 This structure keeps the research website:
 
@@ -167,21 +163,20 @@ git push
 ## 1. Create a Working Branch
 
 ```bash
-git checkout -b doc/<your-topic>
+git checkout -b doc/<issue-number>-<short-description>-<username>
 ```
 
 If `develop` already exists in the repository, create the branch from `develop` so your pull request target stays aligned with the documented workflow.
 
 Examples:
 
-- `doc/add-abstract`
-- `doc/update-methods`
-- `rev/fix-chapter-3-typos`
+- `doc/12-write-project-context-juan`
+- `doc/18-update-methods-maria`
+- `doc/21-fix-chapter-3-typos-ken`
 
 Branch roles:
 
-- `doc/*` for regular writing and content updates
-- `rev/*` for revisions and corrections
+- `doc/*` for regular writing, revisions, and content updates
 - `develop` for the latest integrated version deployed to UAT
 - `release/<name>` for staging-ready versions
 - `main` for approved production content
