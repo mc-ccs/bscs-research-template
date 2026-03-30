@@ -1,6 +1,6 @@
-# Contributor Profile - Member 2
+# Contributor Profile - Member 3
 
-> Use this page as a public profile. Match the format used in Member 1 and avoid sensitive personal details.
+> Use this page as a public profile. Match the format used in the earlier member pages and avoid sensitive personal details.
 
 ## 1. Public Profile
 
@@ -74,7 +74,5 @@ Write 2 to 4 sentences describing this contributor's academic background, techni
 
 Use only public-facing contact details on this page. If no public contact detail will be shown, write N/A.
 
-
-
 ---
-[⬅️ Previous](member1.md) | [Next ➡️](member3.md)
+[⬅️ Previous](member2.md) | [Next ➡️](member4.md)

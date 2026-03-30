@@ -1,6 +1,6 @@
-# Topic Mine - Member 2
+# Topic Mine - Member 3
 
-Use this page to document three candidate research topics for Member 2.
+Use this page to document three candidate research topics for Member 3.
 
 ## Topic 1
 
@@ -27,4 +27,4 @@ Use this page to document three candidate research topics for Member 2.
 ### Motivation:
 
 ---
-[⬅️ Previous](member1.md) | [Next ➡️](member3.md)
+[⬅️ Previous](member2.md) | [Next ➡️](member4.md)
