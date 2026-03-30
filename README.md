@@ -58,10 +58,18 @@ docs/
 ├── 06-appendices/
 │   ├── a-cv/
 │   │   ├── member1.md
-│   │   └── member2.md
+│   │   ├── member2.md
+│   │   ├── member3.md
+│   │   ├── member4.md
+│   │   ├── member5.md
+│   │   └── member6.md
 │   ├── b-topic-mine/
 │   │   ├── member1.md
-│   │   └── member2.md
+│   │   ├── member2.md
+│   │   ├── member3.md
+│   │   ├── member4.md
+│   │   ├── member5.md
+│   │   └── member6.md
 │   ├── c-title-proposal-and-problem-statement-form.md
 │   ├── d-comparative-summary.md
 │   ├── e-gate-1-title-defense.md

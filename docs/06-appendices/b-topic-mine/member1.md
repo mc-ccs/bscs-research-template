@@ -27,4 +27,4 @@ Use this page to document three candidate research topics for Member 1.
 ### Motivation:
 
 ---
-[⬅️ Previous](../a-cv/member2.md) | [Next ➡️](member2.md)
+[⬅️ Previous](../a-cv/member6.md) | [Next ➡️](member2.md)
